@@ -11,11 +11,11 @@
           <div class="footerclass">
             <div class="Footermenu">
               <ul>
-                <li><a href="https://www.totalhealthreports.com/about-us.html">About Us</a></li>
-                <li><a href="https://www.totalhealthreports.com/contact-us.html">Contact Us</a></li>
-                <li><a href="https://www.totalhealthreports.com/privacy-policy.html">Privacy Policy</a></li>
-                <li><a href="https://www.totalhealthreports.com/terms-of-use.html">Terms Of Use</a></li>
-                <li><a href="https://www.totalhealthreports.com/ftc-disclosure.html">FTC Disclosure</a></li>
+                <li><a href="about-us.php">About Us</a></li>
+                <li><a href="contact-us.php">Contact Us</a></li>
+                <li><a href="privacy-policy.php">Privacy Policy</a></li>
+                <li><a href="terms-of-use.php">Terms Of Use</a></li>
+                <li><a href="ftc-disclosure.php">FTC Disclosure</a></li>
 
               </ul>
             </div>
