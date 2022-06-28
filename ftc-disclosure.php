@@ -118,28 +118,14 @@
 		<header id="masthead" class="site-header">
 			<div class="site-branding">
 				<div class="logo">
-					<img src="https://www.totalhealthreports.com/wp-content/themes/THR/images/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
+					<img src="assets/image/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
 				</div>
 			</div><!-- .site-branding -->
 
 		</header><!-- #masthead -->
-		<style>
-			.stickyBtn .stjpgs {
-				position: relative;
-				top: 1px;
-				left: 0;
-			}
 
-			@media screen and (max-width:480px) {
-				.featured-img {
-					max-height: 148px
-				}
+		<link rel="stylesheet" type="text/css" href="assets/css/style.ftc-disclosure.css" />
 
-				.stickyBtn .stjpgs {
-					width: 67px;
-				}
-			}
-		</style>
 		<div class="wrapp">
 
 			<div class="main-content-wrap fullwdth">
@@ -179,43 +165,7 @@
 
 
 
-			<style type="text/css">
-				.xmas .stickyBtn {
-					background: #013475;
-					color: #fff;
-					max-width: 880px;
-					font-size: 22px;
-				}
-
-				.xmas .stickyBtn span {
-					color: #FFF;
-					display: initial;
-				}
-
-				.stickyBtn img {
-					right: -4px;
-					bottom: -2px;
-				}
-
-				@media screen and (max-width : 767px) {
-					.xmas .stickyBtn span {
-						color: #FFF;
-						display: block;
-					}
-
-					.black-wrap.xmas span {
-						display: block;
-						font-size: 16px !important;
-					}
-
-					.xmas .stickyBtn {
-						font-size: 16px;
-						line-height: 18px;
-					}
-
-
-				}
-			</style>
+		<link rel="stylesheet" type="text/css" href="assets/css/style.ftc-disclosure.css" />
 
 
 		</div><!-- .wrap -->
