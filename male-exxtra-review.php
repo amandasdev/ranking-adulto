@@ -14,7 +14,7 @@
                 <feComponentTransfer color-interpolation-filters="sRGB">
                     <feFuncR type="table" tableValues="0 0.49803921568627" />
                     <feFuncG type="table" tableValues="0 0.49803921568627" />
-                    <feFuncB type="table" tableValues="0 0.49803921568627" />
+                    <feFuncB type="table" tableValues="0 0.4980392156867" />
                     <feFuncA type="table" tableValues="1 1" />
                 </feComponentTransfer>
                 <feComposite in2="SourceGraphic" operator="in" />
