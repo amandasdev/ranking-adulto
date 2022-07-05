@@ -1,0 +1,164 @@
+Title: Platform
+
+----
+
+Introtitle: Platform for trading without a middleman
+
+----
+
+Introtext: Physical assets stored in your name, in your digital trust
+
+----
+
+Buttons: 
+
+- 
+  text: Get Tokens
+  url: 'tokens#notification'
+  style: button_white
+- 
+  text: Explore Technology
+  url: '#technology'
+  style: button_border
+
+----
+
+Howtitle: HOW BRICKBLOCK WORKS
+
+----
+
+Howtext: Brickblock enables users to invest in several traded assets irrespective of the size of their investment portfolio. It uses smart contracts to handle micro as well as big investments thus offering lower fees and better prices than traditional banks. Users get an asset-backed token with a unique denomination after each investment. The tokens are easily tradable on cryptocurrency exchanges than on stock markets. Assets are also redeemable from the Digital Trust at any time.
+
+----
+
+Howlink: Learn more about the Tokens
+
+----
+
+Howimage: flow1.png
+
+----
+
+Whytitle: WHY INVESTORS NEED BRICKBLOCK
+
+----
+
+Whylist: 
+
+- 
+  title: ELIMINATING FX
+  text: >
+    Asset-backed tokens eliminate the costly
+    conversion charges which are a challenge
+    for crypto currencies in accessing FIAT
+    based investments.
+  icon: why-1.svg
+- 
+  title: INDEPENDENT MARKETPLACE
+  text: >
+    Brickblock is fully transparent and
+    independent – we aim to become a
+    marketplace for the safest and best
+    investment opportunities.
+  icon: why-2.svg
+- 
+  title: OPTIMIZING DIVIDENDS
+  text: >
+    And dividends or coupons from
+    investments are automatically
+    transferred to token-holders through
+    self executing smart contracts.
+  icon: why-3.svg
+- 
+  title: LOW ENTRY COST
+  text: >
+    Because of low entry costs, also small
+    fund managers and investment brokers
+    have the chance to attract investment
+    projects.
+  icon: why-4.svg
+- 
+  title: GLOBAL INVESTMENTS
+  text: >
+    Brickblock enables global investments
+    into real world assets directly from
+    your wallet.
+  icon: why-5.svg
+- 
+  title: NO MINIMUM INVESTMENT
+  text: >
+    Banks charge you high minimum fees. With
+    Brickblock you can get whole-sale prices
+    with no minimum investment barrier.
+  icon: why-6.svg
+
+----
+
+Protitle: HOW WE PROTECT INVESTORS
+
+----
+
+Prolist: 
+
+- 
+  title: DIGITAL TRUST FUND
+  text: >
+    In order to ensure the safety of the
+    underlying assets a digital trust fund
+    will be initiated. The regulated fund
+    will maintain a token to shares ratio of
+    1:1.
+- 
+  title: SECURE SEGREGATED ACCOUNTS
+  text: >
+    The securities account cannot be claimed
+    by us or anybody else. All client funds
+    are segregated. Thus client assets are
+    protected and not affected even in the
+    case of bankruptcy due to strict
+    regulations.
+- 
+  title: DUE DILIGENCE
+  text: >
+    Each investment opportunity will be
+    carefully screened, compliance checked
+    and rated by independent experts and
+    ranked according to risks involved.
+- 
+  title: WEALTH PROTECTION
+  text: >
+    Brickblock enables low to medium
+    net-worth clients the same wealth
+    protection as high net worth
+    individuals, within a fully compliant
+    framework.
+- 
+  title: REGULATORY COMPLIANT
+  text: >
+    In line with regulatory compliance all
+    fund shares will remain liquid and be
+    reclaimable by the token holder at any
+    time.
+- 
+  title: LEGAL SUPPORT
+  text: 'Brickblock will work together with authorities to offer legal plug&play frameworks for investors as well as to fund managers.'
+
+----
+
+Proimage: flowchart.png
+
+----
+
+Techtitle: TECHNOLOGY USED BY BRICKBLOCK
+
+----
+
+Techtext: Brickblock will setup a parent smart contract which will help create further contacts between fund managers and investors. We envision that Brickblock will one day have to only verify a fund manager and give him an access code to set certain parameters that enable him to set up affiliated smart contracts which are automatically included in the dApp. Users will be able to authenticate the affiliated smart contracts through the parent smart contract. Therefore, all smart contracts are traceable to one address.
+
+----
+
+Whyimage: flowchart.png
+
+----
+
+Techimage: flow2.png

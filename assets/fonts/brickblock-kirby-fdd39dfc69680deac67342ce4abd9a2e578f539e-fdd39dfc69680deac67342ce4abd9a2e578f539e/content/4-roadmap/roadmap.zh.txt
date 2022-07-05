@@ -1,0 +1,147 @@
+Title: 时间轴
+
+----
+
+Introtitle: 时间轴
+
+----
+
+Introtext: . 我们从何处来，我们到何处去。
+
+----
+
+Buttons:
+
+-
+  text: 路线图
+  url: '#past'
+  style: button_white
+-
+  text: 时间轴
+  url: '#today'
+  style: button_white
+
+----
+
+Pastevents:
+
+-
+  date: JANUARY 2012
+  text: >
+    Jakob Drzazaga和Martin
+    Mischke在柏林的比特币交易中心会面，集思广益，共同努力。
+-
+  date: DECEMBER 2012
+  text: >
+    Jakob作为房地产开发商起家，希望拉Martin入伙。Martin并不想离开这个具有颠覆能力的加密世界。
+-
+  date: JANUARY 2014
+  text: >
+    以太坊发布了描述下一代智能协议和分散应用(DApps)的白皮书。这两者构成了Brickblock的技术基础。
+-
+  date: MAY 2015
+  text: >
+    Martin
+    Mischke与合伙人共同创立了欧洲比特币初创企业孵化器Bitcoins
+    Berlin。一些比特币初创公司从孵化器中脱颖而出。除了GOLD4BTC以外，最大以比特币来换取黄金的供应商之一。
+-
+  date: SPRING 2015
+  text: >
+    Martin与合伙人共同创立了Bitwala，这是一家以区块链为基础的支付服务提供商。
+-
+  date: FEBRUARY 2016
+  text: >
+    Martin与合伙人共同创造了德国最大的FinTech合作空间Transistor
+    Co-Working.
+-
+  date: MARCH 2016
+  text: 'Jakob finishes his private real estate ventures and is looking for support for a bigger idea: a real estate fund.'
+-
+  date: APRIL 2016
+  text: >
+    After traveling to Northern Germany
+    together, Martin and Jakob decide to
+    finally do a project. They call it
+    Brickblock. Brick for Jakob’s real
+    estate fascination and Block for Martins
+    passion for blockchain projects.
+-
+  date: MID 2016
+  text: >
+    Both continue to work on the idea.
+    Brickblock develops to a platform which
+    allows full diversification. First
+    advisors join the team.
+-
+  date: END 2016-MID 2017
+  text: >
+    The first office space is rented and the
+    team is growing. The white paper is
+    being completed and everything is being
+    prepared for the website launch.
+-
+  date: MAY 2017
+  text: >
+    Brickblock goes public, parallel to
+    Consensus 2017 in New York.
+
+----
+
+Todayeventstitle: Roadmap
+
+----
+
+Todayevents:
+
+-
+  date: 2017 Q1
+  eventslist: |
+    - 办公空间租用✔
+    - 概念验证 ✔
+    - 白皮书 ✔
+    - 第一位顾问加入 ✔
+-
+  date: 2017 Q2
+  eventslist: |
+    - 社区工作 ✔
+    - 法律合规检查✔
+    - 网站推出 ✔
+    - 隐匿模式开启在纽约达成一致
+    - ✔
+-
+  date: 2017 Q3
+  eventslist: |
+    - 测试网络发布
+    - 智能协议结构发布 ✔
+    - 白皮书发布 ✔
+    - 伙伴关系构建
+-
+  date: 2. Aug 2017
+  eventslist: '- 供款活动'
+-
+  date: 2017 Q4
+  eventslist: |
+    - Beta测试
+    - 'platform   Brickblock平台开发'
+    - 经纪人和基金经理加入
+    - 数字信托启动
+-
+  date: 2018 Q1
+  eventslist: |
+    - 第一批投资者加入
+    - 数字ETF公司重建
+    - 组织密码索引跟踪会议
+    - 组织密码索引跟踪会议
+-
+  date: 2018 Q2
+  eventslist: |
+    - 清算流程革新
+    - 对智能协议进行技术审计
+    - 对智能协议进行法律审计
+-
+  date: 2018 Q3
+  eventslist: '- Brickblock平台介绍'
+
+----
+
+Pasteventstitle: Timeline

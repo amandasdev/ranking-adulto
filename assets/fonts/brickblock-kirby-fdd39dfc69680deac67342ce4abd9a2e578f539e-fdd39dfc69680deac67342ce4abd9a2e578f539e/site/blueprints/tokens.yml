@@ -1,0 +1,93 @@
+title: Tokens
+pages: false
+files: true
+fields:
+
+  ###################################################
+  section1:
+    label: Hero
+    id: section1
+    type: tab
+    icon: home
+
+  introtitle:
+    label: Hero Title
+    type: text
+    buttons: false
+    icon: header
+    width: 1/2
+  introtext:
+    label: Text
+    type: textarea
+    buttons: false
+    icon: header
+    width: 1/2
+  buttons:
+    label: buttons
+    type: structure
+    style: items
+    fields:
+      text:
+        label: Button text
+        width: 1/2
+        type: text
+      url:
+        label: Button url
+        width: 1/2
+        type: text
+      style:
+        label: Color of the button
+        type: select
+        options:
+          button_white: White
+          button_border: Border
+  ###################################################
+  section2:
+    label: Token overview
+    id: section2
+    type: tab
+
+  tokentitle:
+    label: Token Title
+    type: text
+    buttons: false
+  tokentext:
+    label: Token text
+    type: textarea
+    buttons: false
+  ###################################################
+  section3:
+    label: FAQ
+    id: section3
+    type: tab
+
+  faqtitle:
+    label: FAQ Title
+    type: text
+    buttons: false
+  faqs:
+    label: Questions and answers
+    type: structure
+    style: items
+    fields:
+      q:
+        label: Question
+        type: text
+      a:
+        label: Answer
+        type: textarea
+  ###################################################
+  section4:
+    label: Charts
+    id: section4
+    type: tab
+
+  pie:
+    label: Pie Chart Title
+    type: text
+  col:
+    label: Column Chart Title
+    type: text
+  area:
+    label: Area Chart Title
+    type: text

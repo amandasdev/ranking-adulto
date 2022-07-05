@@ -1,0 +1,112 @@
+Title: Brickblock.io | The future of stock trading on the blockchain
+
+----
+
+Description: Brickblock is the first project to build an infrastructure platform to seamlessly, securely and transparently connect cryptocurrencies with real world assets.
+
+----
+
+Keywords: brickblock,crypto,bitcoin
+
+----
+
+Contitle: LET US CHANGE THE WAY OF INVESTING!
+
+----
+
+Context: Contribute to the development of the Brickblock Platform.
+
+----
+
+Conbutton: Learn more about the Tokens
+
+----
+
+Comtitle: 
+
+加入社区
+
+----
+
+Socials: 
+
+- 
+  title: Telegram
+  url: >
+    https://t.me/joinchat/AAAAAERj-_1p8AktrkESlQ
+  icon: telegram
+  color: '#5ca2cc'
+- 
+  title: Slack
+  url: https://slack.brickblock.io
+  icon: slack
+  color: '#b25757'
+- 
+  title: Facebook
+  url: https://www.facebook.com/brickblock.io/
+  icon: facebook
+  color: '#6195d1'
+- 
+  title: Twitter
+  url: https://twitter.com/brickblock_io
+  icon: twitter
+  color: '#5395cc'
+- 
+  title: WeChat
+  url: /img/brickblock-wechat.jpg
+  icon: wechat
+  color: '#72b671'
+- 
+  title: LinkedIn
+  url: >
+    https://www.linkedin.com/company/18035479
+  icon: linkedin
+  color: '#5f92cb'
+- 
+  title: YouTube
+  url: >
+    https://www.youtube.com/channel/UC7etm1NmMFIlg2KJ6VXNNrA/videos
+  icon: youtube
+  color: '#b25757'
+- 
+  title: GitHub
+  url: https://github.com/brickblock-io
+  icon: github
+  color: '#9185c0'
+- 
+  title: Medium
+  url: https://blog.brickblock.io/
+  icon: medium
+  color: '#71b68f'
+
+----
+
+Contitle1: 供款即将开始
+
+----
+
+Context1: 支持开发代币资产。
+
+----
+
+Conbutton1: Learn more about the Tokens
+
+----
+
+Nottitle: 众筹通知
+
+----
+
+Nottext: 
+
+Brickblock众筹起始日期为8月2日。订阅更新服务：
+
+----
+
+Copyright: Copyright © Brickblock Team
+
+----
+
+Notificationtext: 
+
+<b>公告:</b> Brickblock代币2017年8月2日开始预售

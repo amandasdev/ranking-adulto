@@ -1,0 +1,140 @@
+Title: Tokens
+
+----
+
+Introtitle: Gerçek dünyadaki varlıklara dayanan Token
+
+----
+
+Introtext: Tokenize edilmiş varlıkların gelişimini destekleyin ve katkıda bulunun.
+
+----
+
+Buttons: 
+
+- 
+  text: Bildirim al
+  url: '#notification'
+  style: button_white
+- 
+  text: Sıkça Sorulan Soruları Okuyun
+  url: '#faq'
+  style: button_border
+
+----
+
+Tokentitle: BRICKBLOCK TOKENE GENEL BAKIŞ
+
+----
+
+Tokentext: 
+
+Brickblock tokenler platformun özel bir parçasıdır. Onlar platformdaki yapılacak olan her işlem için gerekli olan Access Token için ''madencilik hakkı''veriyor. Brickblock sınırlı sayıda arz edilmiştir ve kimse tarafından çoğaltılamaz.
+ 
+Brickblock tokenleri ve Access tokenleri, REFs, ETFs ya da CTF'ye yatırım yaparken almış olduğunuz Proof-of Asset tokeni değildir.
+
+<a target="_blank" href="https://medium.com/brickblock-io/what-are-brickblock-tokens-2cd846e79ae4">Our Tokens  explained here.</a>
+<a target="_blank" href="https://medium.com/brickblock-io/brickblock-token-sale-812575df1e24">Our Token Presale explained here.</a>
+
+----
+
+Faqtitle: FREQUENTLY ASKED QUESTIONS
+
+----
+
+Faqs: 
+
+- 
+  q: BRICKBLOCK TOKEN NEDİR?
+  a: "Halka arz dönemi boyunca Brickblock tokenleri ETH karşılığında alabilirsiniz. Brickblock tokenleri tutmak, sana Access tokenleri üretmek için 'madencilik hakkı' verir."
+- 
+  q: >
+    NİÇİN BRICKBLOCK TOKENE İHTYACIM
+    VAR?
+  a: >
+    Brickblock tokenleri, bu belirteçleri
+    sistemde kilitleyerek Access token
+    oluşturmanıza imkan verir.
+- 
+  q: ACCESS TOKEN NEDİR?
+  a: "Access tokenleri, Ethereum'daki gaza benzemektedir. İşlemlere erişebilmeniz için gaz miktarını ödemeniz gerekmektedir."
+- 
+  q: >
+    ACCESS TOKENLER ALINIP SATILABİLİR
+    Mİ?
+  a: >
+    Evet, Access tokenleri ve Brickblock
+    tokenleri üçüncü kişiler
+    tarafından alınıp satılabilir bir
+    tokendir.
+- 
+  q: 'BRICKBLOCK  TOKENLER ALINIP SATILABİLİR Mİ?'
+  a: >
+    Evet, Access tokenleri ve Brickblock
+    tokenleri üçüncü kişiler
+    tarafından alınıp satılabilir bir
+    tokendir.
+- 
+  q: BRICKBLOCK TOKENİ NASIL ALABİLİRİM?
+  a: >
+    Halka arz sırasında diğer kripto para
+    birimleriyle Brickblock tokenleri
+    alabilirsiniz
+- 
+  q: BİR BRICKBLOCK TOKEN NE KADAR OLACAK?
+  a: >
+    Katılım öncesi gerekli bilgilendirme
+    yapılacaktır
+- 
+  q: >
+    BRICKBLOCK TOKENİ NE ZAMAN
+    ALABİLİRİM?
+  a: Katkı döneminden 14 gün sonra
+- 
+  q: BRICKBLOCK TOKENI NASIL ALABİLİRİM?
+  a: >
+    Gerekli bilgier katkı döneminden önce
+    bildirilecektir
+- 
+  q: PROOF-OF-ASSET TOKEN NEDİR?
+  a: >
+    BRICKBLOCK TOKEN, ACCESS-TOKEN VE
+    PROOF-OF-ASSET TOKEN ARASINDAKİ FARKLAR
+    NEDİR?
+- 
+  q: >
+    BRICKBLOCK TOKEN, ACCESS-TOKEN VE
+    PROOF-OF-ASSET TOKEN ARASINDAKİ FARKLAR
+    NEDİR?
+  a: >
+    Brickblock tokenleri yalnızca bir kere
+    satışa sunulacak. Bunları Access
+    tokenleri üretmek için
+    kullanabilirler. Brickblock platformuna
+    yatırım yapabilmeniz için Access
+    tokenlerine ihtiyacınız var.
+    Platformda herhangi bir işlem yapacak
+    olan tüm aracılar ve fon
+    yöneticilerini Access tokene kullanmak
+    zorundadır. Dolayısıyla her zaman
+    Access tokenleri rağbet görecektir.
+    Proof-of-Asset (varlık ispat aracı)
+    tokenleri; ETFs, REFs hisselerinin veya
+    CTFs hisselerinin bir kısmına sahip
+    olduğunuzu ispat etmektedir. Brickblock
+    platformu üzerinden bu fonlardan
+    herhangi birine yatırım yapmanız
+    durumunda ayrıca Proof-of-Asset
+    tokenlere sahip olacaksınız.
+
+----
+
+Pie: Intendend use of revenue
+
+----
+
+Col: Token distribution
+
+----
+
+Area: Token price and phases

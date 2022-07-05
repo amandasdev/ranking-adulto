@@ -1,0 +1,140 @@
+Title: Tokens
+
+----
+
+Introtitle: Aset Dunia nyata yang didukun token
+
+----
+
+Introtext: Kontribusi untuk mendukung pengembangan aset token.
+
+----
+
+Buttons: 
+
+- 
+  text: Dapatkan pemberitahuan
+  url: '#notification'
+  style: button_white
+- 
+  text: Baca Token FAQ
+  url: '#faq'
+  style: button_border
+
+----
+
+Tokentitle: TINJAUAN TOKEN BRICKBLOCK
+
+----
+
+Tokentext: 
+
+Token Brickblock adalah bagian penting dari platform. Mereka memberi "hak pertambangan" yang membuat produksi token Access - yang diperlukan untuk setiap transaksi di platform - mungkin. Ada persediaan token Brickblock yang terbatas dan tidak dapat diproduksi ulang oleh siapa pun.
+
+<a href="https://medium.com/brickblock-io/what-are-brickblock-tokens-2cd846e79ae4">Our Tokens  explained here.</a>
+<a href="https://medium.com/brickblock-io/brickblock-token-sale-812575df1e24">Our Token Presale explained here.</a>
+
+----
+
+Faqtitle: FREQUENTLY ASKED QUESTIONS
+
+----
+
+Faqs: 
+
+- 
+  q: APA ITU TOKEN BRICKBLOCK?
+  a: "Token BrickBlock diterima dalam bursa ETH selama masa kontribusi. Memegang token BrickBlock memberi Anda 'hak pertambangan' untuk menghasilkan token Access"
+- 
+  q: >
+    MENGAPA SAYA MEMBUTUHKAN TOKEN
+    BRICKBLOCK?
+  a: >
+    Token BrickBlock memungkinkan Anda untuk
+    menghasilkan token Access melalui
+    penguncian token ini
+- 
+  q: APA ITU TOKEN ACCESS?
+  a: >
+    Token Access seperti gas di Ethereum.
+    Anda harus membayar dengan gas untuk
+    mengakses transaksi
+- 
+  q: APAKAH TOKEN ACCESS BISA DIPERDAGANGKAN?
+  a: >
+    Ya, Token Access serta token Brickblock
+    dapat diperdagangkan melalui pihak
+    ketiga
+- 
+  q: >
+    APAKAH TOKEN BRICKBLOCK BISA
+    DIPERDAGANGKAN?
+  a: >
+    Ya, token Brickblock serta token Access
+    dapat diperdagangkan melalui pihak
+    ketiga
+- 
+  q: >
+    BAGAIMANA SAYA DAPAT MEMPEROLEH TOKEN
+    BRICKBLOCK?
+  a: >
+    Mata uang kripto lainnya dapat
+    ditukarkan dengan token Brickblock
+    selama periode kontribusi
+- 
+  q: >
+    BERAPA BANYAK UNTUK SATU TOKEN
+    BRICKBLOCK?
+  a: >
+    Informasi yang diperlukan akan diberikan
+    sebelum masa kontribusi
+- 
+  q: >
+    KAPAN SAYA MENDAPATKAN TOKEN BRICKBLOCK
+    SAYA?
+  a: 14 hari setelah masa kontribusi
+- 
+  q: >
+    BAGAIMANA SAYA MENDAPATKAN TOKEN
+    BRICKBLOCK SAYA?
+  a: >
+    Informasi yang diperlukan akan diberikan
+    sebelum masa kontribusi
+- 
+  q: APA ITU TOKEN PROOF-OF-ASSET?
+  a: >
+    Token Proof-of-Asset adalah kunci akses
+    Anda ke aset dunia nyata yang Anda
+    dapatkan di platform Brickblock
+- 
+  q: >
+    APA PERBEDAAN ANTARA TOKEN BRICKBLOCK,
+    TOKEN ACCESS DAN TOKEN PROOF-OF-ASSET?
+  a: >
+    Token Brickblock hanya akan dijual satu
+    kali. Mereka dapat digunakan untuk
+    menghasilkan token Access. Anda
+    memerlukan token Access untuk
+    berinvestasi di platform Brickblock.
+    Semua makelar dan pengelola dana
+    memerlukan token Access untuk melakukan
+    transaksi di platform. Jadi akan selalu
+    ada permintaan token Access. Token
+    Proof-of-Asset bukti bahwa Anda memiliki
+    ETF, saham REF atau bagian dari KKP.
+    Anda akan mendapatkan token
+    Proof-of-Asset saat berinvestasi di
+    salah satu dana ini di platform
+    Brickblock.
+
+----
+
+Pie: Intendend use of revenue
+
+----
+
+Col: Token distribution
+
+----
+
+Area: Token price and phases

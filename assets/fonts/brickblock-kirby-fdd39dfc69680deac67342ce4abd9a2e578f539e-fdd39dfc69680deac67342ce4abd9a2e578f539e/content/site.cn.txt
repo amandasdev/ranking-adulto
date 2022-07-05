@@ -1,0 +1,116 @@
+Title: Brickblock.io | The future of stock trading on the blockchain
+
+----
+
+Description: This is the Brickblock website
+
+----
+
+Keywords: brickblock,crypto,bitcoin
+
+----
+
+Contitle: 让我们一起改变投资方式！
+
+----
+
+Context: 促进Brickblock平台的发展。
+
+----
+
+Conbutton: 
+
+了解更多关于代币的信息
+
+----
+
+Comtitle: 
+
+加入社区
+
+----
+
+Socials: 
+
+- 
+  title: Telegram
+  url: >
+    https://t.me/joinchat/AAAAAERj-_1p8AktrkESlQ
+  icon: telegram
+  color: '#5ca2cc'
+- 
+  title: Slack
+  url: https://slack.brickblock.io
+  icon: slack
+  color: '#b25757'
+- 
+  title: Facebook
+  url: https://www.facebook.com/brickblock.io/
+  icon: facebook
+  color: '#6195d1'
+- 
+  title: Twitter
+  url: https://twitter.com/brickblock_io
+  icon: twitter
+  color: '#5395cc'
+- 
+  title: WeChat
+  url: /img/brickblock-wechat.jpg
+  icon: wechat
+  color: '#72b671'
+- 
+  title: LinkedIn
+  url: >
+    https://www.linkedin.com/company/18035479
+  icon: linkedin
+  color: '#5f92cb'
+- 
+  title: YouTube
+  url: >
+    https://www.youtube.com/channel/UC7etm1NmMFIlg2KJ6VXNNrA/videos
+  icon: youtube
+  color: '#b25757'
+- 
+  title: GitHub
+  url: https://github.com/brickblock-io
+  icon: github
+  color: '#9185c0'
+- 
+  title: Medium
+  url: https://medium.com/@Brickblock
+  icon: medium
+  color: '#71b68f'
+
+----
+
+Contitle1: CONTRIBUTION CAMPAIGN STARTING SOON
+
+----
+
+Context1: Contribute to support the development of tokenized assets.
+
+----
+
+Conbutton1: 
+
+了解更多关于代币的信息
+
+----
+
+Nottitle: 供款通知
+
+----
+
+Nottext: 
+
+供款活动始于8月2日。订阅更新:
+
+----
+
+Copyright: Copyright © Brickblock Team
+
+----
+
+Notificationtext: 
+
+<b>公告:</b> Brickblock代币2017年8月2日开始预售

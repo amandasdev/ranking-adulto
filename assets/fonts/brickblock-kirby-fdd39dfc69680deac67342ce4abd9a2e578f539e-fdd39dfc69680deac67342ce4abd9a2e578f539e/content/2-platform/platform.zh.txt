@@ -1,0 +1,140 @@
+Title: 平台
+
+----
+
+Introtitle: 没有中间人的交易平台
+
+----
+
+Introtext:
+
+实体资产会以您的名义存入您的电子信托。
+
+----
+
+Buttons:
+
+-
+  text: 获取代币
+  url: 'tokens#notification'
+  style: button_white
+-
+  text: 了解我们的技术
+  url: '#technology'
+  style: button_border
+
+----
+
+Howtitle: Brickblock如何运转
+
+----
+
+Howtext: 不论投资组合规模多大，用户可以在Brickblock上投资数个交易资产。Brickblock使用智能合同来处理微型投资和大型投资，因此比传统银行手续费用更低，但价格更有优势。用户在每次投资后会得到相应的代币，代比以资产为基础，面值唯一。相较于股票市场，这些代币更容易在加密货币交易所交易。资产也可以随时从数字信托（Digital Trust）中赎回。
+
+----
+
+Howlink:
+
+了解更多关于代币的信息
+
+----
+
+Howimage: flow1.png
+
+----
+
+Whytitle:
+
+投资者为什么需要Brickblock
+
+----
+
+Whylist:
+
+-
+  title: 消除外汇
+  text: >
+    在进行以法定货币为基础的投资时，这种以资产为保障的代币消除了高昂的转换费用，对加密货币构成了挑战。
+  icon: why-1.svg
+-
+  title: 独立市场
+  text: >
+    Brickblock完全透明、独立——我们致力于打造最安全的市场环境，为投资者提供最佳投资机会。
+  icon: why-2.svg
+-
+  title: 优化分红
+  text: >
+    从投资中获得的股息或息票会通过自动执行的智能协议自动转移到持有者手中。
+  icon: why-3.svg
+-
+  title: 入市成本低
+  text: >
+    由于入市成本低，小型基金经理和投资经纪人也能吸引投资项目。
+  icon: why-4.svg
+-
+  title: 全球投资
+  text: >
+    在投资实体资产时，投资者不受地域限制。
+  icon: why-5.svg
+-
+  title: 无最低投资额
+  text: >
+    银行会向您收取高额的最低费用。Brickblock平台不设最低投资额，投资者可以以批发价投资。
+  icon: why-6.svg
+
+----
+
+Protitle:
+
+如何保护投资者
+
+----
+
+Prolist:
+
+-
+  title: 数字信托基金
+  text: >
+    为了确保标的资产的安全性，Brickblock会启动一种受监管的数字信托基金，将代币与股份的比例维持在1:1。
+-
+  title: 安全专户
+  text: >
+    证券帐户不能由除开户人以外的任何人（包括Brickblock工作人员）登录。所有客户的资金都是独立的，受到严格保护，不会受到严格管制导致的破产的影响。
+-
+  title: 尽职调查
+  text: >
+    第三方专家会仔细筛选每个投资机会，检查其是否合规，对其评分，并根据所涉及的风险排名
+-
+  title: 财富保护
+  text: >
+    在一个完全合规的框架内，Brickblock能够使低净值、中净值的客户享受与高净值客户相同的财富保护。
+-
+  title: 监管合规
+  text: >
+    按照监管规定，所有基金股票将保持流动性，代币持有人可以在任何时候重新申领。
+-
+  title: 法律支持
+  text: >
+    Brickblock将与当局合作为投资者以及基金经理提供合法即插即用框架。
+
+----
+
+Proimage: flowchart.png
+
+----
+
+Techtitle: Brickblock平台的技术支持
+
+----
+
+Techtext:
+
+Brickblock将建立一个智能协议作为母协议，在基金经理和投资者之间建立更密切的联系。我们希望Brickblock能有朝一日只需验证基金经理的可靠性，授予其访问代码设置参数。然后，基金经理建立自己的关联智能协议。这些智能协议将自动被纳入DApp。用户可以通过比较母版智能协议的校验来验证关联的智能协议。因此，所有的智能协议都可以从一个地址核查、追踪。
+
+----
+
+Whyimage: flowchart.png
+
+----
+
+Techimage: flow2.png

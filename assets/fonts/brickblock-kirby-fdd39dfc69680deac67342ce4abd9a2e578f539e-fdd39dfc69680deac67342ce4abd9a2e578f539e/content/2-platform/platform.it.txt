@@ -1,0 +1,154 @@
+Title: Platform
+
+----
+
+Introtitle: Piattaforma per trading senza intermediari
+
+----
+
+Introtext: Beni fisici conservati a tuo nome, nella tua Fiducia Digitale
+
+----
+
+Buttons: 
+
+- 
+  text: Ottieni i Token
+  url: 'tokens#notification'
+  style: button_white
+- 
+  text: Esplora la Tecnolgia
+  url: '#technology'
+  style: button_border
+
+----
+
+Howtitle: COME FUNZIONA BRICKBLOCK
+
+----
+
+Howtext: Brickblock abilita gli utenti a investire in diversi beni scambiati indipendentemente dalla taglia del loro portafoglio di investimenti. Usa smart contract per gestire micro così come grandi investimenti in modo da offrire basse tasse e prezzi migliori delle banche tradizionali. Gli utenti ottengono un token sostenuto da un asset con un unica denominazione dopo ogni investimento. I token sono facilmente scambiabili sull'exchange di criptomonete piuttosto che un mercato azionario. Gli asset sono anche riscattabili in ogni momento dalla Fiducia Digitale
+
+----
+
+Howlink: Leggi di più sui Token
+
+----
+
+Howimage: flow1.png
+
+----
+
+Whytitle: PERCHE' GLI INVESTITORI NECESSITANO DI BRICKBLOCK
+
+----
+
+Whylist: 
+
+- 
+  title: ELIMINARE FX
+  text: >
+    I token sostenuti da asset eliminano i
+    costi di conversione che sono una sfida
+    per le criptomonete, per accedere a
+    investimenti basati su FIAT.
+  icon: why-1.svg
+- 
+  title: MERCATO INDIPENDENTE
+  text: 'Brickblock è completamente trasparente e indipendente - miriamo a diventare un mercato per le più sicure e migliori opportunità di investimento.'
+  icon: why-2.svg
+- 
+  title: OTTIMIZZARE I DIVIDENDI
+  text: >
+    I dividendi e tagliandi degli
+    investimenti sono automaticamente
+    trasferiti ai possessori di token
+    attraverso smart contract autoesecutivi.
+  icon: why-3.svg
+- 
+  title: BASSI COSTI DI ENTRATA
+  text: >
+    A causa dei bassi costi di entrata,
+    anche piccoli manager di fondo e broker
+    di investimento hanno la possibilità di
+    attrarre progetti di investimento.
+  icon: why-4.svg
+- 
+  title: INVESTIMENTI GLOBALI
+  text: >
+    Brickblock abilita gli investimenti
+    globali nei beni del mondo reale
+    direttamente dal tuo portafoglio.
+  icon: why-5.svg
+- 
+  title: NESSUN INVESTIMENTO MINIMO
+  text: "Le banche impongono elevate tariffe minime. Con Brickblock puoi ottenere prezzi all'ingrosso con nessuna barriera di investimento minimo."
+  icon: why-6.svg
+
+----
+
+Protitle: COME PROTEGGIAMO GLI INVESTITORI
+
+----
+
+Prolist: 
+
+- 
+  title: FONDI DI FIDUCIA DIGITALE
+  text: >
+    Per assicurare la sicurezza degli asset
+    sottostanti un fondo di fiducia digitale
+    sarà istituito. Il fondo regolato
+    manterrà un rapporto tra token e azioni
+    di 1:1.
+- 
+  title: CONTI SICURI E SEGREGATI
+  text: >
+    I titoli del conto non possono essere
+    riscattati da noi o chiunque altro.
+    Tutti i fondi dei clienti sono
+    segregati. Così gli asset dei clienti
+    sono protetti e non sono colpiti anche
+    in caso di fallimento a causa di
+    regolamentazioni rigorose.
+- 
+  title: DILIGENZA DOVUTA
+  text: >
+    Ogni opportunità di investimento sarà
+    attentamente esaminata, controllata la
+    conformità e valutata da esperti
+    indipendenti e classificata in base ai
+    rischi coinvolti.
+- 
+  title: PROTEZIONE DELLA RICCHEZZA
+  text: "Brickblock abilita dai clienti da basso a medio capitale la stessa protezione degli individui con alto capitale, all'interno di un framework completamente conforme."
+- 
+  title: CONFORME ALLE NORMATIVE
+  text: >
+    In linea con le normative tutte le quote
+    dei fondi rimarranno liquide e
+    riscattabili da un possessore di token
+    in qualsiasi momento.
+- 
+  title: SUPPORTO LEGALE
+  text: 'Brickblock lavorerà insieme con le autorità per offrire framework legali plug&play per gli investitori così come ai manager di fondi.'
+
+----
+
+Proimage: flowchart.png
+
+----
+
+Techtitle: TECNOLOGIA USATA DA BRICKBLOCK
+
+----
+
+Techtext: Brickblock creerà uno smart contract genitore, il quale permetterà di creare tutti gli altri contratti tra manager di fondi e investitori. La nostra visione è che un giorno Brickblock verifichi solo i manager di fondi e dia loro un codice di accesso per settare certi parametri. Il manager di fondo sarà poi in grado di impostare il proprio smart contract affiliato. Questi smart contract saranno automaticamente inclusi nella DApp. L'utente potrà verificare gli smart contract affiliati, comparando semplicemente il checksum dello smart contract genitore. Dunque, tutti gli smart contract sono verificabili e tracciabili da un indirizzo.
+
+----
+
+Whyimage: flowchart.png
+
+----
+
+Techimage: flow2.png

@@ -1,0 +1,136 @@
+Title: Tokens
+
+----
+
+Introtitle: Token supportati da beni reali
+
+----
+
+Introtext: Contribuire a sostenere lo sviluppo di beni tokenizzati.
+
+----
+
+Buttons: 
+
+- 
+  text: Ricevi le notifiche
+  url: '#notification'
+  style: button_white
+- 
+  text: Leggi la FAQ dei Token
+  url: '#faq'
+  style: button_border
+
+----
+
+Tokentitle: PANORAMICA DEI TOKEN BRICKBLOCK
+
+----
+
+Tokentext: 
+
+I token Brickblock sono una parte essenziale della piattaforma. Danno "diritto di mining" che rende possibile la produzione dei token di accesso - necessari per ogni transazione sulla piattaforma. C'è un numero limitato di token Brickblock e non possono essere riprodotti da nessuno.
+I token di Brickblock e i token di accesso non sono i token Proof-of-Asset ricevuti quando si investono in REF, ETF o CTF.
+
+<a target="_blank" href="https://medium.com/brickblock-io/what-are-brickblock-tokens-2cd846e79ae4">Our Tokens  explained here.</a>
+<a target="_blank" href="https://medium.com/brickblock-io/brickblock-token-sale-812575df1e24">Our Token Presale explained here.</a>
+
+----
+
+Faqtitle: FREQUENTLY ASKED QUESTIONS
+
+----
+
+Faqs: 
+
+- 
+  q: CHE COSA SONO I TOKEN BRICKBLOCK?
+  a: >
+    I token BrickBlock vengono ricevuti in
+    cambio di ETH durante il periodo di
+    contribuzione. Conservare i token
+    BrickBlock ti dà il "diritto di mining"
+    per produrre gettoni di accesso
+- 
+  q: "PERCHE' HO BISOGNO DI TOKEN BRICKBLOCK?"
+  a: >
+    I token BrickBlock consentono di
+    generare i token di accesso attraverso
+    un blocco di questi token
+- 
+  q: CHE COSA SONO I TOKEN DI ACCESSO?
+  a: >
+    I token di accesso sono come il gas in
+    Ethereum. Devi pagare con il gas per
+    accedere alle transazioni
+- 
+  q: I TOKEN DI ACCESSO SONO COMMERCIABILI?
+  a: >
+    Sì, i token di accesso e i token
+    Brickblock sono commerciabili tramite
+    terze parti
+- 
+  q: I TOKEN BRICKBLOCK SONO COMMERCIABILI?
+  a: >
+    Sì, i token Brickblock e i token di
+    accesso sono commerciabili tramite terze
+    parti
+- 
+  q: COME POSSO OTTENERE TOKEN BRICKBLOCK?
+  a: >
+    Durante il periodo di contribuzione
+    possono essere scambiate altre
+    criptovalute per i token Brickblock
+- 
+  q: "QUANTO COSTERA' UN TOKEN BRICKBLOCK?"
+  a: >
+    Le informazioni necessarie verranno
+    fornite prima del periodo di
+    contribuzione
+- 
+  q: "QUANDO OTTERRO' I MIEI TOKEN BRICKBLOCK?"
+  a: >
+    14 giorni dopo il periodo di
+    contribuzione
+- 
+  q: "QUANTI TOKEN BRICKBLOCK OTTERRO'?"
+  a: >
+    Le informazioni necessarie verranno
+    fornite prima del periodo di
+    contribuzione
+- 
+  q: CHE COSA SONO I TOKEN PROOF-OF-ASSET?
+  a: >
+    I token Proof-of-Asset sono la chiave di
+    accesso ai beni del mondo reale
+    acquisiti sulla piattaforma Brickblock
+- 
+  q: "QUAL'È LA DIFFERENZA TRA I TOKEN BRICKBLOCK, QUELLI DI ACCESSO E I TOKEN PROOF-OF-ASSET?"
+  a: >
+    I token Brickblock saranno venduti una
+    sola volta. Possono essere utilizzati
+    per produrre i token di accesso. Hai
+    bisogno di token di accesso per
+    investire sulla piattaforma Brickblock.
+    Tutti i broker ei gestori di fondi
+    avranno bisogno di token di accesso per
+    effettuare qualsiasi transazione sulla
+    piattaforma. Così ci sarà sempre
+    domanda per i token di accesso. I token
+    Proof-of-Asset dimostrano di possedere
+    ETF, REF o parti di CTF. Otterrai dei
+    token Proof-of-Asset quando investirai
+    in uno di questi fondi sulla piattaforma
+    Brickblock.
+
+----
+
+Pie: Intendend use of revenue
+
+----
+
+Col: Token distribution
+
+----
+
+Area: Token price and phases

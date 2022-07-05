@@ -1,0 +1,157 @@
+Title: Timeline
+
+----
+
+Introtitle: The Timeline
+
+----
+
+Introtext: Where we come from - where we are headed.
+
+----
+
+Buttons: 
+
+- 
+  text: Roadmap
+  url: '#past'
+  style: button_white
+- 
+  text: Timeline
+  url: '#today'
+  style: button_white
+
+----
+
+Pastevents: 
+
+- 
+  date: JANUARY 2012
+  text: >
+    Jakob Drzazaga and Martin Mischke met at
+    the Bitcoin Stammtisch in Berlin. They
+    are brainstorming different ideas to
+    work together.
+- 
+  date: DECEMBER 2012
+  text: >
+    Jakob begins to work as a real estate
+    developer and wants Martin on-board.
+    Martin doesn’t want to leave the
+    disruptive crypto world.
+- 
+  date: JANUARY 2014
+  text: >
+    Ethereum releases it’s white paper
+    describing next-generation smart
+    contracts and decentralized applications
+    (DApps). The underlying technology of
+    Brickblock.
+- 
+  date: MAY 2015
+  text: 'Martin Mischke co-founds Bitcoins Berlin - Europe’s Bitcoin start-up Incubator. Several Bitcoin start-ups emerge from the incubator. Among other Gold4BTC, one of the biggest providers for gold in exchange for Bitcoin.'
+- 
+  date: SPRING 2015
+  text: >
+    Martin co-founds Bitwala, a
+    blockchain-based payments service
+    provider.
+- 
+  date: FEBRUARY 2016
+  text: >
+    Martin co-founds Transistor co-working,
+    Germany’s largest Fintech co-working
+    space.
+- 
+  date: MARCH 2016
+  text: 'Jakob finishes his private real estate ventures and is looking for support for a bigger idea: a real estate fund.'
+- 
+  date: APRIL 2016
+  text: >
+    After traveling to Northern Germany
+    together, Martin and Jakob decide to
+    finally do a project. They call it
+    Brickblock. Brick for Jakob’s real
+    estate fascination and Block for Martins
+    passion for blockchain projects.
+- 
+  date: MID 2016
+  text: >
+    Both continue to work on the idea.
+    Brickblock develops to a platform which
+    allows full diversification. First
+    advisors join the team.
+- 
+  date: END 2016-MID 2017
+  text: >
+    The first office space is rented and the
+    team is growing. The white paper is
+    being completed and everything is being
+    prepared for the website launch.
+- 
+  date: MAY 2017
+  text: >
+    Brickblock goes public, parallel to
+    Consensus 2017 in New York.
+
+----
+
+Todayeventstitle: Roadmap
+
+----
+
+Todayevents: 
+
+- 
+  date: 2017 Q1
+  eventslist: |
+    - Renting Office space ✔
+    - Proof of concept ✔
+    - White paper ✔
+    - First advisors ✔
+- 
+  date: 2017 Q2
+  eventslist: |
+    - Community work ✔
+    - Legal compliance check ✔
+    - Website launch ✔
+    - >
+    Leaving stealth mode on Consensus in NY
+    ✔
+- 
+  date: 2017 Q3
+  eventslist: |
+    - Testnet release
+    - Smart contract structure release ✔
+    - White paper release ✔
+    - Building Partnerships
+- 
+  date: 2. Aug 2017
+  eventslist: '- Contribution Campaign'
+- 
+  date: 2017 Q4
+  eventslist: |
+    - Beta Testing
+    - Development Brickblock platform
+    - Onboarding Brokers and Fund managers
+    - Initiation Digital Trust
+- 
+  date: 2018 Q1
+  eventslist: |
+    - Onboarding first investors
+    - Rebuilding a digital ETF company
+    - Organizing a crypto-index tracking
+    - conference
+- 
+  date: 2018 Q2
+  eventslist: |
+    - Transforming clearing house processes
+    - Technical auditing of smart contracts
+    - Legal auditing of smart contracts
+- 
+  date: 2018 Q3
+  eventslist: '- Introduce the Brickblock platform'
+
+----
+
+Pasteventstitle: Timeline

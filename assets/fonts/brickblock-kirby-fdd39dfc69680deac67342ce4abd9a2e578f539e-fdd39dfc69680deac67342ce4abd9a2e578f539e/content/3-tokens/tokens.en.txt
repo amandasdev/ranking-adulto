@@ -1,0 +1,131 @@
+Title: Tokens
+
+----
+
+Introtitle: Real-world asset-backed Tokens
+
+----
+
+Introtext: Contribute to support the development of tokenized assets.
+
+----
+
+Buttons: 
+
+- 
+  text: Get notified
+  url: '#notification'
+  style: button_white
+- 
+  text: Read Token FAQ
+  url: '#faq'
+  style: button_border
+
+----
+
+Tokentitle: BRICKBLOCK TOKENS OVERVIEW
+
+----
+
+Tokentext: 
+
+Brickblock tokens are an essential part of the platform. They give "mining right" that makes the production of Access tokens - necessary for every transaction on the platform - possible. There is a limited supply of Brickblock tokens and they cannot be reproduced by anyone.
+ 
+Brickblock tokens and Access tokens are not the Proof-of-Asset tokens that you receive when investing in REFs, ETFs or CFs.
+
+<a target="_blank" href="https://medium.com/brickblock-io/what-are-brickblock-tokens-2cd846e79ae4">Our Tokens  explained here.</a>
+<a target="_blank" href="https://medium.com/brickblock-io/brickblock-token-sale-812575df1e24">Our Token Presale explained here.</a>
+
+----
+
+Faqtitle: FREQUENTLY ASKED QUESTIONS
+
+----
+
+Faqs: 
+
+- 
+  q: WHAT ARE BRICKBLOCK TOKENS?
+  a: |
+    BrickBlock tokens are received in exchange for ETH during the contribution period. Holding BrickBlock tokens gives you the ‘mining right’ to produce Access tokens.
+    Read more here: <a href="https://medium.com/brickblock-io/what-are-brickblock-tokens-2cd846e79ae4" target="_blank">https://medium.com/brickblock-io/what-are-brickblock-tokens-2cd846e79ae4</a>
+- 
+  q: WHY DO I NEED BRICKBLOCK TOKENS?
+  a: >
+    BrickBlock tokens allow you to generate
+    Access tokens through a lockdown of
+    these tokens
+- 
+  q: WHAT ARE ACCESS TOKENS?
+  a: >
+    Access tokens are like the gas in
+    Ethereum. You have to pay with gas to
+    access transactions
+- 
+  q: ARE ACCESS TOKENS TRADABLE?
+  a: >
+    Yes, Access tokens as well as Brickblock
+    tokens are tradable through third
+    parties
+- 
+  q: ARE BRICKBLOCK TOKENS TRADABLE?
+  a: >
+    Yes, Brickblock tokens as well as Access
+    tokens are tradable through third
+    parties
+- 
+  q: HOW CAN I GET BRICKBLOCK TOKENS?
+  a: >
+    Other cryptocurrencies can be exchanged
+    for Brickblock tokens during the
+    contribution period
+- 
+  q: HOW MUCH WILL ONE BRICKBLOCK TOKEN BE?
+  a: >
+    Necessary information will be provided
+    prior to the contribution period
+- 
+  q: WHEN WILL I GET MY BRICKBLOCK TOKENS?
+  a: 14 days after the contribution period
+- 
+  q: HOW DO I GET MY BRICKBLOCK TOKENS?
+  a: >
+    Necessary information will be provided
+    prior to the contribution period
+- 
+  q: WHAT ARE PROOF-OF-ASSET TOKENS?
+  a: >
+    Proof-of-Asset tokens are your access
+    key to the real-world assets you acquire
+    on the Brickblock platform
+- 
+  q: >
+    WHAT IS THE DIFFERENCE BETWEEN
+    BRICKBLOCK TOKENS, ACCESS-TOKENS AND
+    PROOF-OF-ASSET TOKENS?
+  a: >
+    Brickblock tokens will be sold only
+    once. They can be used to produce Access
+    tokens. You need Access tokens to invest
+    on the Brickblock platform. All brokers
+    and fund managers will need Access token
+    to make any transaction on the platform.
+    So there will always be demand for
+    Access tokens. Proof-of-Asset tokens
+    proof that you own ETFs, REFs shares or
+    a part of CTFs. You will get
+    Proof-of-Asset tokens when you invest in
+    any of these funds on the Brickblock
+    platform.
+
+----
+
+Pie: Intendend use of revenue
+
+----
+
+Col: Token distribution
+
+----
+
+Area: Token price and phases

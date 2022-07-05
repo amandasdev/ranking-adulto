@@ -1,0 +1,941 @@
+Title: 启航
+
+----
+
+Metatitle: Homepage
+
+----
+
+Introtitle: 区块链股票交易的未来
+
+----
+
+Introbackground: intro-bg.jpg
+
+----
+
+Introtext: 
+
+用加密货币进行最透明、最安全的投资。
+
+----
+
+Buttons: 
+
+- 
+  text: 白皮书
+  url: >
+    /files/Brickblock_General_Whitepaper_Chinese.pdf
+  style: button_border
+- 
+  text: 技术白皮书
+  url: >
+    /files/Brickblock_Technical_Whitepaper_v093.pdf
+  style: button_border
+- 
+  text: 获得代币
+  url: '/tokens#notification'
+  style: button_white
+
+----
+
+Bridgetitle: T加密货币和实物资产之间的桥梁
+
+----
+
+Bridgetext: 
+
+Brickblock 是首个无缝、透明连接加密货币（crytocurrency）和实物资产的基础设施平台。
+
+借助Brickblock，交易者、加密货币持有者和投资机构能够实现分散投资组合。在这个平台上，用户有机会以定期支付股息的方式将加密数字货币用于交易所交易基金（ETF）和房地产基金等实物资产的投资。此外，加密交易基金在加密货币内只需一笔交易就提供多样化的投资。对于所有交易，您会收到一个独特的代币，合法访问资产，确保资产安全存储。
+
+----
+
+Bridgelinktitle: 探索投资平台
+
+----
+
+Usestitle: 借助区块链投资
+
+----
+
+Useslist: 
+
+- 
+  icon: icon2
+  title: 加密交易基金
+  content: >
+    被动型基金与ETFs类似，能预先决定加密货币的投资组合，而主动型基金则需管理。基金经理能够提供主动和被动两种类型的加密交易基金。
+  text: |
+    There are two types of Crypto Funds: actively-managed CFs and passively-managed CFs.
+    
+    In the active CF section, Brickblock will make it possible for projects like Taas and Iconomi to offer their funds to the public. Fund managers can apply to manage investors’ funds by selecting specific cryptocurrencies, day-trading and taking profits out of diversifying portfolios and active distribution of funds. The user can decide on which strategy(ies) to endorse and which fund managers to work with.
+    
+    In the passive CF section, Brickblock will only accept a blend of institutions that offer rule-based indices. Since there is no passive CF yet, we plan to introduce a system based on passive ETFs. A foundation that will comprise of selected leading members of the crypto community will be established to improve the system and standardize the procedures.
+- 
+  icon: icon1
+  title: 交易所交易基金
+  content: >
+    ETF仅凭一份股份就能重组整个行业或指数，因此大大降低了风险。在Brickblock平台上，交易者可以通过专业经纪人买卖ETF以及黄金或白银等大宗商品，不受地域限制。
+  text: 'Most ETFs outperform their mutual funds competitors in the long run. Their low management cost and ability to track certain indices like S&P 500 and Nikkei or commodities such as gold and silver give them the advantage of being offered at near wholesale prices without a minimum amount. With ETFs, investors can choose their preferred investment market while hedging risk in another industry. Brickblock will commence with ETFs that track global indices. Later, it will rely on community consensus for other ETFs to be added to its portfolio'
+- 
+  icon: icon0
+  title: 房地产基金
+  content: >
+    由于与主要资产类别、租赁房产及所产生的定期现金流的联系较弱，房地产投资能有效分散风险。Brickblock已在欧洲和亚洲上市商业房地产基金和住宅房地产基金。
+  text: >
+    Choose between Real Estate Funds (REFs),
+    Real Estate Investment Trusts (REITs) or
+    Real Estate Crowdfundings (RECs) to
+    invest in real estate projects with high
+    potential as listed on the Brickblock
+    platform. REFs’ two growth functions
+    center on the value of the real estate
+    having the potential to grow over time
+    and producing a steady income which is
+    distributed to shareholders via smart
+    contracts or invested in new real
+    estate. The Digital Trust structure
+    drastically reduces legal and stamp fees
+    in transfers and escrow holding
+    complexities. Brickblock will start with
+    European and Asian REFs then extend to
+    global funds.
+
+----
+
+Revlist: 
+
+- 
+  title: 4/7交易
+  content: >
+    这种全新的24 /
+    7交易方式，能够消除股票交易结束时资产巨额差价。
+  icon: rev-1.svg
+- 
+  title: 投资无国界
+  content: >
+    无论投资者身在何处，都可以在没有银行账户的情况下投资。区块链不受地域限制。
+  icon: rev-2.svg
+- 
+  title: '100%的资产担保'
+  content: >
+    所有真实的资产都是实物存储，只能由资产证明代币的持有者认领。所有股息支付只与自执行、可审计的智能协议有关。
+  icon: rev-4.svg
+- 
+  title: 更快更节约成本
+  content: >
+    目前，清算和结算需要两天，而Brickblock能以更快、更节约成本的方式在不可人为更改的区块链上确认交易。
+  icon: rev-3.svg
+- 
+  title: 透明
+  content: >
+    Brickblock完全透明。证券账户上的所有变动都可以追踪。所有交易者帐户都设有API，用以跟踪它们的行为。
+  icon: rev-5.svg
+- 
+  title: 安全
+  content: >
+    由资产担保的代币无需先将加密货币兑换成法定货币，就可以直接将加密货币的风险转移至实体资产。
+  icon: rev-6.svg
+
+----
+
+Revtitle: 革命性平台
+
+----
+
+Revbutton: 查看更多优势
+
+----
+
+Buildtitle: ETHEREUM
+
+----
+
+Buildtext: 
+
+Brickblock与先进的区块链合作，使用智能协议确保交易安全透明。智能协议是指在没有停机、欺诈或第三方干扰的情况下运行的程序。所有Brickblock交易都是在一个私人区块链上进行的，并向公众开放。
+
+----
+
+Buildbuttontitle: 探索我们的技术
+
+----
+
+Partnerstitle: brickblock有强大的合作伙伴
+
+----
+
+Partnerslist: 
+
+- 
+  url: ""
+  icon: partner1.svg
+  width: ""
+- 
+  url: https://transistor.berlin
+  icon: partner2.svg
+  width: ""
+- 
+  url: https://finwerk.com
+  icon: finwerk_logo.svg
+  width: "160"
+- 
+  url: https://bitcoinsberlin.com/
+  icon: partner4.svg
+  width: ""
+
+----
+
+Teamtitle: 我们的团队
+
+----
+
+Teamlist: 
+
+- 
+  name: MARTIN MISCHKE
+  position: 联合创始人
+  photo: martin.jpg
+  text: >
+    Martin是Bitwala的联合创始人以及也是前首席财务官，一家以汇款、统调和国际支付的交付为主要业务的区块链银行）的前首席财务官。他也是Bitcoins
+    Berlin——欧洲比特币初创企业孵化器的创始人之一。此外，Martin还在运营德国最大金融科技共同合作空间——Transistor。
+  url: >
+    https://www.linkedin.com/in/martin-mischke-910064114/
+- 
+  name: JAKOB DRZAZGA
+  position: 联合创始人
+  photo: jakob.jpg
+  text: >
+    Jakob将出任Brickblock的房地产基金经理，他曾作为一名房地产开发商，经历了传统投资在金融领域的诸多障碍，也了解传统投资背后巨大的隐性成本。他相信以太坊虚拟机的颠覆性力量，并深信金融市场的去中心化不可避免。
+  url: >
+    https://www.linkedin.com/in/jakob-drzazga-61a69041/
+- 
+  name: PHILIP PAETZ
+  position: 数字战略师
+  photo: philip.jpg
+  text: >
+    Philip做过麦肯锡的数字专家和技术主管，在规划和引领数字变革方面经验丰富，熟悉各行业的跨国公司，在银行、保险、电信、大众消费品或房地产等行业经验丰富，擅于规划和领导数字变革。他亲眼目睹了区块链技术的潜在革命性影响，相信这是互联网的下一个里程碑。
+  url: https://www.linkedin.com/in/philippaetz/
+- 
+  name: MARIUS HANNE
+  position: 开发人员
+  photo: marius.jpg
+  text: >
+    Marius一直以来对开源和对等网络兴趣浓厚，是第一批比特币开发者。在bitcoin-ruby项目中，他创建了一个完整的比特币节点，因此清楚地了解这种复杂的货币加密技术。他与人合伙创办了一个p2p比特币市场——brawker.com，同时他还是Cubits——最大的比特币支付处理器的技术主管。
+  url: https://github.com/mhanne
+- 
+  name: ADRIAN KIZLAUSKAS
+  position: 开发人员
+  photo: adrian.jpg
+  text: >
+    Adrian主张开放、免费的网络，参与了开源项目Unhosted.org，该项目是第一批去中心化的应用程序。比特币区块链出现后，Adrian更加痴迷于探究分布式系统和去中心化的可能性。作为全栈开发者，在Brickblock项目中，Adrian的工作重点是研究智能协议的体系结构及其实现。
+  url: https://github.com/dissaranged/
+- 
+  name: MAXIMILIAN POWER
+  position: 业务拓展员
+  photo: max.jpg
+  text: >
+    Maximilian很小的时候就学会了网络入侵，在12岁时，他写下了人生中第一行代码。如今，Maximilian已成功为一些领先的金融科技创业公司生产了几款UI，并有机会和加密领域的精英共事。Maximilian加入Brickblock，是因为在这个项目团队中，他可以探索自己最喜欢的两大兴趣：金融工具和区块链。
+  url: >
+    https://www.linkedin.com/in/maximilianpower/
+- 
+  name: PAOLO BERNEWITZ
+  position: 设计总监
+  photo: paolo.jpg
+  text: >
+    Paolo人脉广，结识了很多设计师、艺术家和网络开发者，主要负责用户体验、品牌推广、社交媒体、搜索引擎优化和平面设计等工作。他关注细节，擅于在宣传影片中让观众了解想法的本质。Paolo不仅仅看到了Brickblock的潜力和颠覆能力，而且还敢于、勇于接受挑战，实现统一设计的转变。
+  url: >
+    https://www.linkedin.com/in/paolobernewitz/
+- 
+  name: IRYNA SHULIKINA
+  position: 公关总监
+  photo: ira.jpg
+  text: >
+    对Iryna而言，沟通是工作、也是爱好，更是她最鲜明的性格特征。Iryna在品牌建设，创意战略规划和信息发展方面很有天赋。天生的好奇心和开明的态度促使她去探索区块链技术，并与其他爱好者分享她的想法。她相信加密社区会成为改变金融世界的一股革命性力量。
+  url: >
+    https://www.linkedin.com/in/iryna-shulikina-9ab29359/
+
+----
+
+Advtitle: 咨询团队
+
+----
+
+Advlist: 
+
+- 
+  name: HOLGER SCHLÜNZEN
+  position: ETF分析
+  photo: holger.jpg
+  text: >
+    Holger是ETF专家，供职于专业经纪公司，他的主要工作内容是帮机构客户和养老基金选择ETF并进行交易。Holger进入ETF行业已有五年多，对国际对国际ETF市场见解深刻。他也是注册国际投资分析师（CIIA®）。Holger会根据经纪人的需要为Brickblock提供相应的建议以满足客户需求。
+  url: 'https://www.linkedin.com/in/holger-schl%C3%BCnzen-1779905b/'
+- 
+  name: AXEL VON GOLDBECK
+  position: Regulation
+  photo: axel.jpg
+  text: >
+    Axel is an accomplished German lawyer
+    focussing amongst others on the
+    regulatory framework for real estate
+    investment funds. From 2008 to 2014 he
+    worked as managing director for the
+    German Property Association (Zentraler
+    Immobilien Ausschuss), the head
+    association of the German real estate
+    industry, representing major German real
+    estate fund managers like Allianz Real
+    Estate, Commerz Real Estate, Deutsche
+    Wealth Management and Deka Immobilien.
+    Before, he worked for international law
+    firms in Berlin and JP Morgan in
+    Frankfurt. Axel realized the potential
+    of tokenizing real estate funds on the
+    blockchain for both fund managers and
+    international clients.
+  url: >
+    https://www.linkedin.com/in/axel-von-goldbeck-819b0783/
+- 
+  name: DR. WOLFGANG RICHTER
+  position: Law/ Currency Specialist
+  photo: wolfgang.jpg
+  text: 'Dr. Wolfgang Richter is a business lawyer and economist with long-term experience in financial transactions and development and execution of business models. He is a partner at DWF, an international law firm. He has a long standing career with major international law firms including one of the Big Four accounting firm and also worked for an investment banking boutique. He has dealt with M&A deals in the financial sector, real estate finance, equity, and debt structuring, among others. Dr. Richter has developed parallel currency structures and lately dealt with blockchain projects as an expert in crypto currencies, excited now to apply his knowledge to the tokenization of Real Estate and ETFs.'
+  url: >
+    https://www.dwf.law/people/w/wolfgang-richter/
+- 
+  name: VINCENT POWER
+  position: 银行和金融
+  photo: vincent.jpg
+  text: >
+    Vince是全球一级银行支付方面的高级顾问。他积极参与开发SWIFT网络，任欧洲央行(ECB)高级顾问，负责70多家欧盟合作银行的清算和结算统调事项。作为数学家，Vince对区块链情有独钟，现已帮助Brickblock构建了实现数字信托（Digital
+    Trust）的架构。
+  url: >
+    https://www.linkedin.com/in/vincent-power-914480136/
+- 
+  name: MORITZ HAHN
+  position: 管理和增长
+  photo: moritz.jpg
+  text: >
+    Moritz就职于KPMG，是一名国际经验丰富的顾问，曾为多家跨国公司提供发展战略和并购方面的咨询建议，帮助这些公司取得未来的成功。Moritz曾为那些由于不作为和缺乏抱负而面临严峻形势的客户提供咨询服务，因此深知像Brickblock一样的公司所具有的颠覆价值以及改变整个行业的潜力。
+  url: >
+    https://www.linkedin.com/in/moritz-hahn-b198612b/
+- 
+  name: SIMON KUFELD
+  position: 智能合同
+  photo: simon.jpg
+  text: >
+    Simon负责开发智能合同(POC)和部署(Rubix,Etherum)，在区块链领域有着先天优势。他曾供职于德勤(Deloitte)，主要负责为德国一级银行基础设施架设区块链结构。他还负责为电子文件的数据完整性提供API。目前他是Inovex的初级大数据科学家。Simon抽象思维能力强，工作之余会研究人工神经网络，在Brickblock项目中提出了很多新想法。
+  url: >
+    https://www.linkedin.com/in/simon-kufeld-25714527/
+- 
+  name: DIMITRY MEDVEDEV
+  position: Backend Developer
+  photo: dima.jpg
+  text: >
+    Passionate about technologies and
+    standards, Dmitry is a technology
+    evangelist with a focus on high-load
+    distributed systems. Before he joined
+    Brickblock, Dimitry worked for the
+    well-known cybersecurity provider,
+    Kaspersky Lab.
+  url: >
+    https://de.linkedin.com/in/dmitrymedvedev
+
+----
+
+Imagelist: 
+
+- 
+  image: brickblock.png
+  title: Ethereum
+- 
+  image: lisk.png
+  title: Lisk
+- 
+  image: waves.png
+  title: Waves
+- 
+  image: ntx.png
+  title: nxt
+- 
+  image: hyperledger.png
+  title: hyperpledger
+- 
+  image: ethereum.png
+  title: ethereum
+
+----
+
+Logo: logo.png
+
+----
+
+Icons: 
+
+-
+  icon: facebook
+  link: https://creativemarket.com/Hiweb.Kirby
+-
+  icon: twitter
+  link: https://creativemarket.com/Hiweb.Kirby
+-
+  icon: behance
+  link: https://creativemarket.com/Hiweb.Kirby
+-
+  icon: linkedin
+  link: https://creativemarket.com/Hiweb.Kirby
+-
+  icon: instagram
+  link: https://creativemarket.com/Hiweb.Kirby
+-
+  icon: dribbble
+  link: https://creativemarket.com/Hiweb.Kirby
+
+----
+
+Aboutimage: profile-pic.jpg
+
+----
+
+Abouticon: group
+
+----
+
+Aboutbody: Lorem ipsum Exercitation culpa qui dolor consequat exercitation fugiat laborum ex ea eiusmod ad do aliqua occaecat nisi ad irure sunt id pariatur Duis laboris amet exercitation veniam labore consectetur ea id quis eiusmod.
+
+----
+
+Addresslabel: FIND ME AT.
+
+----
+
+Addressbody: 
+
+5th Avenue, Fort Bonifacio
+Taguig, Metro Manila
+Philippines
+
+----
+
+Tellabel: CALL ME AT.
+
+----
+
+Telbody: 
+
+Phone: (000) 777 1515
+Mobile: (000) 777 0100
+Fax: (000) 777 0101
+
+----
+
+Emaillabel: EMAIL ME AT.
+
+----
+
+Emailbody: 
+
+johndoe@zoon.com
+janedoe@zoon.com
+juandelacruz@zoon.com
+
+----
+
+Copyright: © Copyright 2016
+
+----
+
+Credits: (link: https://creativemarket.com/Hiweb.Kirby text: Hiweb) + (link: http://styleshout.com text: Styleshout) + (link: http://getkirby.com text: Kirby)
+
+----
+
+Navtoggle: Toggle Navigation
+
+----
+
+Navhome: Home
+
+----
+
+Navabout: About
+
+----
+
+Navresume: Resume
+
+----
+
+Navportfolio: Portfolio
+
+----
+
+Navservices: Services
+
+----
+
+Navcontact: Contact
+
+----
+
+Intro: HELLO, WORLD.
+
+----
+
+Introsubtitle: FRONT-END DEVELOPER,UI/UX DESIGNER
+
+----
+
+Introcta: MORE ABOUT ME
+
+----
+
+Aboutintro: Let me introduce myself.
+
+----
+
+Aboutcol1: 
+
+### PROFILE
+
+Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.
+
+----
+
+Aboutcol2: 
+
+### SKILLS
+
+Lorem ipsum Qui veniam ut consequat ex ullamco nulla in non ut esse in magna sint minim officia consectetur nisi commodo ea magna pariatur nisi cillum.
+
+----
+
+Aboutinfo: 
+
+-
+  label: FULLNAME
+  text: Juan Dela Cruz
+-
+  label: BIRTH DATE
+  text: June 14, 2016
+-
+  label: JOB
+  text: Freelancer, Frontend Developer
+-
+  label: WEBSITE
+  text: https://creativemarket.com/Hiweb.Kirby
+
+----
+
+Aboutskills: 
+
+-
+  text: HTML5
+  percent: "90"
+-
+  text: CSS3
+  percent: "85"
+-
+  text: KIRBY
+  percent: "78"
+-
+  text: PHP
+  percent: "95"
+
+----
+
+Aboutcta1: HIRE ME
+
+----
+
+Aboutcta1url: #contact
+
+----
+
+Aboutcta2: BUY THIS THEME
+
+----
+
+Aboutcta2url: https://creativemarket.com/Hiweb.Kirby
+
+----
+
+Resumeintro: More of my credentials.
+
+----
+
+Resumebody: Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.
+
+----
+
+Resumesection1: Work Experience
+
+----
+
+Resumesection1timeline: 
+
+-
+  title: UI Designer
+  date: 'July 2015 - Present'
+  icon: suitcase
+  company: Awesome Place
+  body: >
+    Lorem ipsum Occaecat do esse ex et dolor
+    culpa nisi ex in magna consectetur nisi
+    cupidatat laboris esse eiusmod deserunt
+    aute do quis velit esse sed Ut proident
+    cupidatat nulla esse cillum laborum
+    occaecat nostrud sit dolor incididunt
+    amet est occaecat nisi.
+-
+  title: Front-End Developer
+  date: 'July 2005 - Present'
+  icon: suitcase
+  company: My office !
+  body: >
+    Lorem ipsum Occaecat do esse ex et dolor
+    culpa nisi ex in magna consectetur nisi
+    cupidatat laboris esse eiusmod deserunt
+    aute do quis velit esse sed Ut proident
+    cupidatat nulla esse cillum laborum
+    occaecat nostrud sit dolor incididunt
+    amet est occaecat nisi.
+-
+  title: Theme Ninja
+  date: 'June 2016 - Present'
+  icon: suitcase
+  company: Kirby Forum
+  body: >
+    Lorem ipsum Occaecat do esse ex et dolor
+    culpa nisi ex in magna consectetur nisi
+    cupidatat laboris esse eiusmod deserunt
+    aute do quis velit esse sed Ut proident
+    cupidatat nulla esse cillum laborum
+    occaecat nostrud sit dolor incididunt
+    amet est occaecat nisi.
+
+----
+
+Resumesection2: Education
+
+----
+
+Resumesection2timeline: 
+
+-
+  title: Master Degree
+  date: '2014 - 2016'
+  icon: graduation-cap
+  company: University of Kirby
+  body: >
+    Lorem ipsum Occaecat do esse ex et dolor
+    culpa nisi ex in magna consectetur nisi
+    cupidatat laboris esse eiusmod deserunt
+    aute do quis velit esse sed Ut proident
+    cupidatat nulla esse cillum laborum
+    occaecat nostrud sit dolor incididunt
+    amet est occaecat nisi.
+-
+  title: Bachelor Degree
+  date: '2012 - 2014'
+  icon: graduation-cap
+  company: State design university
+  body: >
+    Lorem ipsum Occaecat do esse ex et dolor
+    culpa nisi ex in magna consectetur nisi
+    cupidatat laboris esse eiusmod deserunt
+    aute do quis velit esse sed Ut proident
+    cupidatat nulla esse cillum laborum
+    occaecat nostrud sit dolor incididunt
+    amet est occaecat nisi.
+-
+  title: Bachelor Degree
+  date: 2001-2012
+  icon: graduation-cap
+  company: A little bit of everything
+  body: >
+    Lorem ipsum Occaecat do esse ex et dolor
+    culpa nisi ex in magna consectetur nisi
+    cupidatat laboris esse eiusmod deserunt
+    aute do quis velit esse sed Ut proident
+    cupidatat nulla esse cillum laborum
+    occaecat nostrud sit dolor incididunt
+    amet est occaecat nisi.
+
+----
+
+Resumesection3: 
+
+----
+
+Resumesection3timeline: 
+
+----
+
+Portfoliotitle: Check Out Some of My Works.
+
+----
+
+Portfoliobody: Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.
+
+----
+
+Portfolioitems: 
+
+-
+  image: liberty.jpg
+  title: Liberty
+  body: >
+    Proin gravida nibh vel velit auctor
+    aliquet. Aenean sollicitudin, lorem quis
+    bibendum auctor, nisi elit consequat
+    ipsum, nec sagittis sem nibh id elit.
+  categories: WEB DEVELOPMENT
+  ctaurl: https://creativemarket.com/Hiweb.Kirby
+  ctalabel: DETAILS
+-
+  image: shutterbug.jpg
+  title: shutterbug
+  body: >
+    Proin gravida nibh vel velit auctor
+    aliquet. Aenean sollicitudin, lorem quis
+    bibendum auctor, nisi elit consequat
+    ipsum, nec sagittis sem nibh id elit.
+  categories: WEB DESIGN
+  ctaurl: https://creativemarket.com/Hiweb.Kirby
+  ctalabel: DETAILS
+-
+  image: clouds.jpg
+  title: Clouds
+  body: >
+    Proin gravida nibh vel velit auctor
+    aliquet. Aenean sollicitudin, lorem quis
+    bibendum auctor, nisi elit consequat
+    ipsum, nec sagittis sem nibh id elit.
+  categories: DREAMING
+  ctaurl: https://creativemarket.com/Hiweb.Kirby
+  ctalabel: DETAILS
+-
+  image: beetle.jpg
+  title: Beetle
+  body: >
+    Proin gravida nibh vel velit auctor
+    aliquet. Aenean sollicitudin, lorem quis
+    bibendum auctor, nisi elit consequat
+    ipsum, nec sagittis sem nibh id elit.
+  categories: BRANDING
+  ctaurl: https://creativemarket.com/Hiweb.Kirby
+  ctalabel: DETAILS
+-
+  image: lighthouse.jpg
+  title: The Lighthouse
+  body: >
+    Proin gravida nibh vel velit auctor
+    aliquet. Aenean sollicitudin, lorem quis
+    bibendum auctor, nisi elit consequat
+    ipsum, nec sagittis sem nibh id elit.
+  categories: LIGHT,EXPERIMENT
+  ctaurl: https://creativemarket.com/Hiweb.Kirby
+  ctalabel: DETAILS
+-
+  image: salad.jpg
+  title: Candy Salad
+  body: >
+    Proin gravida nibh vel velit auctor
+    aliquet. Aenean sollicitudin, lorem quis
+    bibendum auctor, nisi elit consequat
+    ipsum, nec sagittis sem nibh id elit.
+  categories: CREATIVE,BRANDING
+  ctaurl: https://creativemarket.com/Hiweb.Kirby
+  ctalabel: DETAILS
+
+----
+
+Servicestitle: What Can I Do For You?
+
+----
+
+Servicesbackground: bg.jpg
+
+----
+
+Servicesbody: Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.
+
+----
+
+Services: 
+
+-
+  icon: earth
+  title: Webdesign
+  body: >
+    Sed ut perspiciatis unde omnis iste
+    natus error sit voluptatem accusantium
+    doloremque laudantium, totam rem
+    aperiam, eaque ipsa quae ab illo
+    inventore veritatis et quasi architecto
+    beatae vitae dicta sunt explicabo. Nemo
+    enim ipsam voluptatem quia voluptas sit
+    aspernatur aut odit aut fugit.
+-
+  icon: window
+  title: Web Development
+  body: >
+    Sed ut perspiciatis unde omnis iste
+    natus error sit voluptatem accusantium
+    doloremque laudantium, totam rem
+    aperiam, eaque ipsa quae ab illo
+    inventore veritatis et quasi architecto
+    beatae vitae dicta sunt explicabo. Nemo
+    enim ipsam voluptatem quia voluptas sit
+    aspernatur aut odit aut fugit.
+-
+  icon: paint-brush
+  title: Branding
+  body: >
+    Sed ut perspiciatis unde omnis iste
+    natus error sit voluptatem accusantium
+    doloremque laudantium, totam rem
+    aperiam, eaque ipsa quae ab illo
+    inventore veritatis et quasi architecto
+    beatae vitae dicta sunt explicabo. Nemo
+    enim ipsam voluptatem quia voluptas sit
+    aspernatur aut odit aut fugit.
+-
+  icon: toggles
+  title: UI/UX Design
+  body: >
+    Sed ut perspiciatis unde omnis iste
+    natus error sit voluptatem accusantium
+    doloremque laudantium, totam rem
+    aperiam, eaque ipsa quae ab illo
+    inventore veritatis et quasi architecto
+    beatae vitae dicta sunt explicabo. Nemo
+    enim ipsam voluptatem quia voluptas sit
+    aspernatur aut odit aut fugit.
+-
+  icon: image
+  title: Graphics Design
+  body: >
+    Sed ut perspiciatis unde omnis iste
+    natus error sit voluptatem accusantium
+    doloremque laudantium, totam rem
+    aperiam, eaque ipsa quae ab illo
+    inventore veritatis et quasi architecto
+    beatae vitae dicta sunt explicabo. Nemo
+    enim ipsam voluptatem quia voluptas sit
+    aspernatur aut odit aut fugit.
+-
+  icon: chat
+  title: Consultancy
+  body: >
+    Sed ut perspiciatis unde omnis iste
+    natus error sit voluptatem accusantium
+    doloremque laudantium, totam rem
+    aperiam, eaque ipsa quae ab illo
+    inventore veritatis et quasi architecto
+    beatae vitae dicta sunt explicabo. Nemo
+    enim ipsam voluptatem quia voluptas sit
+    aspernatur aut odit aut fugit.
+
+----
+
+Stats: 
+
+-
+  icon: pencil-ruler
+  number: "1500"
+  body: PROJECTS COMPLETED
+-
+  icon: users
+  number: "900"
+  body: HAPPY CLIENTS
+-
+  icon: badge
+  number: "200"
+  body: AWARDS RECEIVED
+-
+  icon: light-bulb
+  number: "120"
+  body: CRAZY IDEAS
+-
+  icon: cup
+  number: "1500"
+  body: COFFEE CUPS
+-
+  icon: clock
+  number: "7200"
+  body: HOURS CODING
+
+----
+
+Contacttitle: I'd Love To Hear From You.
+
+----
+
+Contactbody: Lorem ipsum Do commodo in proident enim in dolor cupidatat adipisicing dolore officia nisi aliqua incididunt Ut veniam lorem ipsum Consectetur ut in in eu do.
+
+----
+
+Youremail: contact@hiweb.fr
+
+----
+
+Formname: Name
+
+----
+
+Formemail: Email
+
+----
+
+Formsubject: Subject
+
+----
+
+Formmessage: Message
+
+----
+
+Formsubmit: Submit
+
+----
+
+Formsending: Sending...
+
+----
+
+Formsuccess: Your message was sent, thank you!
+
+----
+
+Addressicon: pin
+
+----
+
+Emailicon: mail
+
+----
+
+Telicon: phone
+
+----
+
+Ctatitle: Buy this Template now !
+
+----
+
+Ctabody: Looking for a great template to be your new personal profile and portfolio? Don't waste any time and buy this template.
+
+----
+
+Ctalink: https://creativemarket.com/Hiweb.Kirby
+
+----
+
+Ctalabel: Buy this template
+
+----
+
+Portfolioclosemodallabel: CLOSE

@@ -1,0 +1,159 @@
+Title: Platform
+
+----
+
+Introtitle: Platform untuk perdagangan tanpa perantara
+
+----
+
+Introtext: Aset fisik tersimpan dalam nama Anda, dalam Digital Trust Anda.
+
+----
+
+Buttons: 
+
+- 
+  text: Dapatkan Token
+  url: 'tokens#notification'
+  style: button_white
+- 
+  text: Jelajahi Teknologi
+  url: '#technology'
+  style: button_border
+
+----
+
+Howtitle: BAGAIMANA BRICKBLOCK BEKERJA
+
+----
+
+Howtext: Brickblock memungkinkan pengguna untuk berinvestasi di beberapa aset yang diperdagangkan terlepas dari ukuran portofolio investasinya. Perusahaan menggunakan kontrak cerdas untuk menangani investasi mikro dan investasi besar sehingga menawarkan biaya yang lebih rendah dan harga yang lebih baik daripada bank tradisional. Pengguna mendapatkan aset yang didukung token dengan denominasi unik setelah setiap investasi. Token mudah diperdagangkan di bursa mata uang kripto daripada di pasar saham. Aset juga dapat ditukarkan dari Digital Trust setiap saat.
+
+----
+
+Howlink: Pelajari lebih banyak tentang token
+
+----
+
+Howimage: flow1.png
+
+----
+
+Whytitle: MENGAPA INVESTOR BUTUH BRICKBLOCK
+
+----
+
+Whylist: 
+
+- 
+  title: MENGHILANGKAN FX
+  text: >
+    Aset yang didukung token menghilangkan
+    biaya konversi mahal yang merupakan
+    tantangan bagi mata uang kripto dalam
+    mengakses FIAT berbasis investasi.
+  icon: why-1.svg
+- 
+  title: PASAR INDEPENDEN
+  text: 'Brickblock sepenuhnya transparan dan independen - kami bertujuan untuk menjadi pasar bagi peluang investasi teraman dan terbaik.'
+  icon: why-2.svg
+- 
+  title: MENGOPTIMALKAN KEUNTUNGAN SAHAM
+  text: >
+    Dan keuntungan saham atau kupon dari
+    investasi secara otomatis dialihkan ke
+    pemegang token melalui kontrak cerdas
+    yang mengeksekusi sendiri.
+  icon: why-3.svg
+- 
+  title: BIAYA MASUK RENDAH
+  text: >
+    Karena biaya masuk yang rendah, juga
+    pengelola dana kecil dan makelar
+    investasi memiliki kesempatan untuk
+    menarik proyek investasi.
+  icon: why-4.svg
+- 
+  title: INVESTASI GLOBAL
+  text: >
+    Brickblock memungkinkan investasi global
+    masuk ke aset dunia nyata langsung dari
+    dompet Anda.
+  icon: why-5.svg
+- 
+  title: TIDAK ADA MINIMUM INVESTASI
+  text: >
+    Bank mengenakan biaya minimum yang
+    tinggi. Dengan Brickblock Anda bisa
+    mendapatkan harga jual secara
+    keseluruhan tanpa batasan investasi
+    minimum.
+  icon: why-6.svg
+
+----
+
+Protitle: BAGAIMANA KAMI MELINDUNGI INVESTOR
+
+----
+
+Prolist: 
+
+- 
+  title: DANA PERWALIAN DIGITAL
+  text: 'Untuk memastikan keamanan aset dasar, dana perwalian digital akan dimulai. Dana yang diatur akan mempertahankan token terhadap rasio saham 1: 1.'
+- 
+  title: AKUN TERSENDIRI AMAN
+  text: >
+    Rekening surat-surat berharga tidak bisa
+    diklaim oleh kita atau orang lain. Semua
+    dana klien tersendiri. Dengan demikian
+    aset klien terlindungi dan tidak
+    terpengaruh bahkan dalam kasus
+    kebangkrutan karena peraturan yang
+    ketat.
+- 
+  title: UJI KELAYAKAN
+  text: >
+    Setiap peluang investasi akan diputar
+    secara hati-hati, kepatuhan diperiksa
+    dan dinilai oleh ahli independen dan
+    dinilai berdasarkan risiko yang terkait.
+- 
+  title: PERLINDUNGAN KEKAYAAN
+  text: >
+    Brickblock memungkinkan harta bersih
+    klien bernilai rendah hingga menengah
+    untuk perlindungan kekayaan sama dengan
+    individu dengan harta bersih tinggi,
+    dalam kerangka kerja yang sepenuhnya
+    sesuai.
+- 
+  title: KEPATUHAN PERATURAN
+  text: >
+    Sejalan dengan kepatuhan peraturan,
+    seluruh saham dana akan tetap likuid dan
+    dapat diklaim kembali oleh pemegang
+    token kapanpun.
+- 
+  title: DUKUNGAN HUKUM
+  text: 'Brickblock akan bekerja sama dengan pihak berwenang untuk menawarkan kerangka kerja plug & play legal bagi investor serta pengelola dana.'
+
+----
+
+Proimage: flowchart.png
+
+----
+
+Techtitle: TEKNOLOGI DIGUNAKAN OLEH BRICKBLOCK
+
+----
+
+Techtext: Brickblock akan menyiapkan kontrak cerdas induk, yang akan memungkinkan untuk membuat semua kontak lebih lanjut antara pengelola dana dan investor. Visi kami adalah bahwa suatu hari Brickblock hanya memverifikasi pengelola dana dan memberinya kode akses untuk menetapkan parameter tertentu. Pengelola dana kemudian dapat membuat kontrak cerdas berafiliasi dengannya. Kontrak cerdas ini otomatis dimasukkan ke dalam DApp. Pengguna akan dapat memverifikasi kontrak cerdas yang terafiliasi, hanya dengan membandingkan checksum kontrak cerdas induk. Oleh karena itu, semua kontrak cerdas dapat diverifikasi dan dapat dilacak dari satu alamat.
+
+----
+
+Whyimage: flowchart.png
+
+----
+
+Techimage: flow2.png

@@ -1,0 +1,122 @@
+Title: Tokens
+
+----
+
+Introtitle: 
+
+実在資金担保型トークン
+
+----
+
+Introtext: トークン化された資産の開発を支援する。
+
+----
+
+Buttons: 
+
+- 
+  text: 通知を受ける
+  url: '#notification'
+  style: button_white
+- 
+  text: >
+    トークンに関する一般的な質問を見る
+  url: '#faq'
+  style: button_border
+
+----
+
+Tokentitle: Brickblockトークンの概要
+
+----
+
+Tokentext: 
+
+Brickblockトークンはプラットフォームに不可欠な要素です。Brickblockトークンにより、プラットフォーム上のあらゆる取引に必要なアクセス・トークンの作成を可能にする「マイニングの権利」が付与されます。Brickblockトークンの供給量は限られており、誰もBrickblockトークンを複製することはできません。
+
+<a target="_blank" href="https://medium.com/brickblock-io/what-are-brickblock-tokens-2cd846e79ae4">Our Tokens  explained here.</a>
+<a target="_blank" href="https://medium.com/brickblock-io/brickblock-token-sale-812575df1e24">Our Token Presale explained here.</a>
+
+----
+
+Faqtitle: FREQUENTLY ASKED QUESTIONS
+
+----
+
+Faqs: 
+
+- 
+  q: >
+    Brickblockトークンとは何ですか？
+  a: >
+    Brickblockトークンは、貢献キャンペーン中にETH
+    (イーサリアム)
+    と引き換えに受け取ることができます。Brickblockトークンを所有することでアクセス・トークンを作成できる「マイニングの権利」を得ることができます。
+- 
+  q: >
+    Brickblockトークンが必要な理由は何ですか？
+  a: >
+    Brickblockトークンにより、トークンのロックダウンを通じてアクセス・トークンを生み出すことができます
+- 
+  q: >
+    アクセス・トークンとは何ですか？
+  a: >
+    アクセス・トークンは、イーサリアムのガスのようなものです。取引にアクセスするにはガスで支払う必要があります。
+- 
+  q: >
+    アクセス・トークンは取引可能ですか？
+  a: >
+    はい、アクセス・トークンとBrickblockトークンは第三者を通じて取引可能となっています
+- 
+  q: >
+    Brickblockトークンは取引可能ですか？
+  a: >
+    はい、Brickblockトークンとアクセス・トークンは第三者を通じて取引可能となっています
+- 
+  q: >
+    Brickblockトークンはどのようにして入手できますか？
+  a: >
+    貢献キャンペーン中、他の暗号通貨をBrickblockトークンに引き換えることができます
+- 
+  q: >
+    Brickblockトークンは1個あたりいくらになりますか？
+  a: >
+    貢献キャンペーン開始前に必要な情報を提供します
+- 
+  q: >
+    いつBrickblockトークンを入手できますか？
+  a: >
+    貢献キャンペーンが終了してから14日後です
+- 
+  q: >
+    Brickblockトークンの入手方法は？
+  a: >
+    貢献キャンペーン開始前に必要な情報を提供します
+- 
+  q: >
+    Proof-of-Asset (資産を証明する)
+    トークンとは何ですか？
+  a: >
+    Proof-of-Asset (資産を証明する)
+    トークンは、Brickblockプラットフォーム上で取得する実在資産へのアクセスキーです。
+- 
+  q: >
+    Brickblockトークン、アクセス・トークン、Proof-of-Asset
+    (資産を証明する)
+    トークンの違いは何ですか？
+  a: >
+    Brickblockトークンは一度しか販売されません。Brickblockトークンはアクセス・トークンの作成に使用することができます。Brickblockプラットフォーム上で投資するにはアクセス・トークンが必要となります。全てのブローカーとファンドマネージャーはプラットフォーム上で取引を行う際、アクセス・トークンが必要になります。従って、アクセス・トークンに対する需要は常にあります。Proof-of-Asset
+    (資産を証明する)
+    トークンは、あなたがETF、REF、CTFを所有する証明となります。Brickblockプラットフォーム上でこれらのファンドのいずれかに投資するとProof-of-Assetトークンを入手できます。
+
+----
+
+Pie: Intendend use of revenue
+
+----
+
+Col: Token distribution
+
+----
+
+Area: Token price and phases

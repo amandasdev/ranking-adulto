@@ -1,0 +1,172 @@
+Title: Platform
+
+----
+
+Introtitle: Plataforma para comerciar sin intermediarios
+
+----
+
+Introtext: Los activos físicos se almacenan en su nombre, en su fondo digital.
+
+----
+
+Buttons: 
+
+- 
+  text: Consiga identificadores
+  url: 'tokens#notification'
+  style: button_white
+- 
+  text: Explore la tecnología
+  url: '#technology'
+  style: button_border
+
+----
+
+Howtitle: CÓMO FUNCIONA BRICKBLOCK
+
+----
+
+Howtext: Brickblock permite a los usuarios invertir en varios activos intercambiados sin importar el tamaño de su cartera de valores. Usa contratos inteligentes para manejar inversiones grandes y pequeñas, requiriendo de esa forma menores comisiones y ofreciendo mejores precios que la banca tradicional. Los usuarios consiguen un identificador respaldado por activos con una denominación única tras cada inversión. Los identificadores son más fáciles de cambiar por criptomoneda que en la bolsa. Los activos también se pueden canjear en cualquier momento desde el fondo digital.
+
+----
+
+Howlink: Conozca más sobre los identificadores.
+
+----
+
+Howimage: flow1.png
+
+----
+
+Whytitle: POR QUÉ LOS INVERSORES NECESITAN BRICKBLOCK
+
+----
+
+Whylist: 
+
+- 
+  title: ELIMINANDO DIVISAS
+  text: >
+    Los identificadores con respaldo por
+    activos eliminan los costes de los
+    cambios de divisa, que son un
+    inconveniente para que las criptomonedas
+    puedan acceder a inversiones
+    fiduciarias.
+  icon: why-1.svg
+- 
+  title: MERCADO INDEPENDIENTE
+  text: 'Brickblock es totalmente transparente e independiente: aspiramos a convertirnos en un mercado para las mejores y más seguras oportunidades de inversión.'
+  icon: why-2.svg
+- 
+  title: OPTIMIZACIÓN DE DIVIDENDOS
+  text: >
+    Todos los dividendos o cupones de las
+    inversiones se transfieren
+    automáticamente a los depositarios de
+    los identificadores a través de
+    contratos inteligentes de efecto
+    inmediato.
+  icon: why-3.svg
+- 
+  title: BAJO COSTE DE ACCESO
+  text: 'Debido a los bajos costes de acceso, incluso los gestores de fondos  y agentes de inversión de pequeños fondos tienen la oportunidad de atraer proyectos de inversión.'
+  icon: why-4.svg
+- 
+  title: INVERSIONES GLOBALES
+  text: >
+    Brickblock le permite realizar
+    inversiones globales en activos del
+    mundo real directamente desde su
+    cartera.
+  icon: why-5.svg
+- 
+  title: SIN INVERSIÓN MÍNIMA
+  text: >
+    Los bancos le aplican unas comisiones
+    mínimas. Con Brickblock puede conseguir
+    precios al por mayor sin una barrera de
+    inversión mínima.
+  icon: why-6.svg
+
+----
+
+Protitle: CÓMO PROTEGEMOS A LOS INVERSORES
+
+----
+
+Prolist: 
+
+- 
+  title: FONDO DE INVERSIÓN DIGITAL
+  text: >
+    Para consolidar la seguridad de los
+    activos subyacentes, se iniciará un
+    fondo de inversión digital. El fondo
+    regulado mantendrá una proporción de
+    1:1 entre identificador y acciones.
+- 
+  title: CUENTAS SEGURAS SEGREGADAS
+  text: >
+    La cuenta de valores no puede ser
+    reclamada por nosotros ni por nadie
+    más. Todos los fondos de los clientes
+    están segregados. De esta forma, los
+    activos de los clientes se encuentran
+    protegidos y no son afectados aun en
+    caso de bancarrota debido a fuertes
+    regulaciones.
+- 
+  title: DILIGENCIA DEBIDA
+  text: >
+    Cada oportunidad de inversión será
+    cuidadosamente filtrada, se comprobará
+    su conformidad y será evaluada por
+    expertos independientes, clasificándola
+    de acuerdo con los riesgos que entrañe.
+- 
+  title: PROTECCIÓN DEL PATRIMONIO
+  text: >
+    Brickblock ofrece a los clientes con
+    bajos y medios ingresos la misma
+    protección del patrimonio que a
+    aquellos particulares con altos
+    ingresos, con una infraestructura
+    totalmente conforme.
+- 
+  title: CONFORME A LAS REGULACIONES
+  text: >
+    De acuerdo con el cumplimiento
+    regulativo, todas las acciones
+    permanecerán como líquido y podrán
+    ser reclamadas por el depositario del
+    identificador en cualquier momento.
+- 
+  title: SOPORTE LEGAL
+  text: >
+    Brickblock trabajará con las
+    autoridades para ofrecer
+    infraestructuras legales de inicio
+    automático tanto para inversores como
+    para gestores de fondos.
+
+----
+
+Proimage: flowchart.png
+
+----
+
+Techtitle: LA TECNOLOGÍA USADA POR BRICKBLOCK
+
+----
+
+Techtext: Brickblock configurará un contrato inteligente principal que permitirá crear los siguientes contratos entre gestores de fondos e inversores. Nuestra visión es que un día, Brickblock simplemente verifique al gestor de fondos y le proporcione un código de acceso para establecer determinados parámetros. El gestor de fondos podrá entonces determinar sus propios contratos inteligentes afiliados. Estos contratos inteligentes serán incluidos automáticamente en la DApp. Los usuarios podrán verificar los contratos inteligentes afiliados simplemente comparando la checksum del contrato inteligente principal. De esta forma, todos los contratos inteligentes son verificables y rastreables desde una dirección.
+
+----
+
+Whyimage: flowchart.png
+
+----
+
+Techimage: flow2.png

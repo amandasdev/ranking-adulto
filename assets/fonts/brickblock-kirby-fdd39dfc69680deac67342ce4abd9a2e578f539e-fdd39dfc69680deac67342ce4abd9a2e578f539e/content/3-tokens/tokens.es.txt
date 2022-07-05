@@ -1,0 +1,167 @@
+Title: Tokens
+
+----
+
+Introtitle: Identificadores basados en activos del mundo real
+
+----
+
+Introtext: Contribuya al desarrollo de activos con identificadores.
+
+----
+
+Buttons: 
+
+- 
+  text: Get notified
+  url: '#notification'
+  style: button_white
+- 
+  text: >
+    Lea las Preguntas frecuentes de los
+    identificadores
+  url: '#faq'
+  style: button_border
+
+----
+
+Tokentitle: RESUMEN DE LOS IDENTIFICADORES DE BRICKBLOCK
+
+----
+
+Tokentext: 
+
+Los identificadores de Brickblock son una parte esencial de la plataforma. Dan el «derecho a minar» que hace posible la producción de identificadores de acceso (necesarios para toda transacción en la plataforma). Hay una cantidad limitada de identificadores de Brickblock y no pueden ser reproducidos por nadie.
+
+<a target="_blank" href="https://medium.com/brickblock-io/what-are-brickblock-tokens-2cd846e79ae4">Our Tokens  explained here.</a>
+<a target="_blank" href="https://medium.com/brickblock-io/brickblock-token-sale-812575df1e24">Our Token Presale explained here.</a>
+
+----
+
+Faqtitle: FREQUENTLY ASKED QUESTIONS
+
+----
+
+Faqs: 
+
+- 
+  q: >
+    ¿QUÉ SON LOS IDENTIFICADORES DE
+    BRICKBLOCK?
+  a: >
+    Los identificadores de Brickblock se
+    reciben a cambio de ETH durante el
+    periodo de contribución. Poseer
+    identificadores de Brickblock le da
+    «derecho a minar» para producir
+    identificadores de acceso.
+- 
+  q: >
+    ¿POR QUÉ NECESITO IDENTIFICADORES DE
+    BRICKBLOCK?
+  a: >
+    Los identificadores de Brickblock le
+    permiten generar identificadores de
+    acceso a través del bloqueo de dichos
+    identificadores
+- 
+  q: >
+    ¿QUÉ SON LOS IDENTIFICADORES DE
+    ACCESO?
+  a: >
+    Los identificadores son como el gas en
+    Ethereum. Debe pagar con gas para
+    acceder a las transacciones.
+- 
+  q: >
+    ¿SON TRANSFERIBLES LOS IDENTIFICADORES
+    DE ACCESO?
+  a: >
+    Sí, tanto los identificadores de acceso
+    como los identificadores de Brickblock
+    son transferibles a terceros
+- 
+  q: >
+    ¿SON TRANSFERIBLES LOS IDENTIFICADORES
+    DE BRICKBLOCK?
+  a: >
+    Sí, tanto los identificadores de
+    Brickblock como los identificadores de
+    acceso son transferibles a terceros
+- 
+  q: >
+    ¿CÓMO PUEDO CONSEGUIR IDENTIFICADORES
+    DE BRICKBLOCK?
+  a: >
+    Se pueden cambiar por otras
+    criptomonedas durante el periodo de
+    contribución
+- 
+  q: >
+    ¿CUÁNTO COSTARÁ UN IDENTIFICADOR DE
+    BRICKBLOCK?
+  a: >
+    Se proporcionará la información
+    necesaria antes del periodo de
+    contribución
+- 
+  q: >
+    ¿CUÁNDO CONSEGUIRÉ MIS
+    IDENTIFICADORES DE BRICKBLOCK?
+  a: >
+    14 días después del periodo de
+    contribución
+- 
+  q: >
+    ¿CÓMO CONSIGO MIS IDENTIFICADORES DE
+    BRICKBLOCK?
+  a: >
+    Se proporcionará la información
+    necesaria antes del periodo de
+    contribución
+- 
+  q: >
+    ¿QUÉ SON LOS IDENTIFICADORES DE PRUEBA
+    DE ACTIVOS?
+  a: >
+    Los identificadores de prueba de activos
+    son su clave de acceso a los activos del
+    mundo real que adquiera en la plataforma
+    Brickblock.
+- 
+  q: >
+    ¿CUÁL ES LA DIFERENCIA ENTRE LOS
+    IDENTIFICADORES DE BRICKBLOCK, LOS
+    IDENTIFICADORES DE ACCESO Y LOS
+    IDENTIFICADORES DE PRUEBA DE ACTIVOS?
+  a: >
+    Los identificadores de Brickblock se
+    pueden vender una única vez. Se pueden
+    usar para producir identificadores de
+    acceso. Necesitará identificadores de
+    acceso para invertir en la plataforma de
+    Brickblock. Todos los corredores y
+    gestores de fondos necesitan
+    identificadores de acceso para realizar
+    cualquier transacción en la plataforma.
+    De manera que siempre existirá una
+    demanda de identificadores de acceso.
+    Los identificadores de prueba de activos
+    son el justificante de las acciones en
+    ETF, REF o partes de CTF que posea.
+    Conseguirá identificadores de prueba de
+    activos cuando invierta en cualesquiera
+    de esos fondos en la plataforma de
+    Brickblock.
+
+----
+
+Pie: Intendend use of revenue
+
+----
+
+Col: Token distribution
+
+----
+
+Area: Token price and phases

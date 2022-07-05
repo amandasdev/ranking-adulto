@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="81px" viewBox="0 0 80 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>flowchart_cryptofund copy 3</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-18.0%" y="-13.3%" width="137.7%" height="140.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152941176   0 0 0 0 0.250980392   0 0 0 0 0.368627451  0 0 0 0.269389719 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Master-(version-for-CodeRiver)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-223.000000, -1384.000000)">
+            <g id="flowchart_realestate-copy-5" transform="translate(223.000000, 1384.000000)">
+                <ellipse id="Oval-5" fill-opacity="0.270000011" fill="#C0CFDB" cx="40" cy="40.5" rx="40" ry="40.125"></ellipse>
+                <g id="Group-2" filter="url(#filter-1)" stroke-width="1" transform="translate(15.700935, 17.250000)">
+                    <path d="M5.00934579,17.5 L24.6292835,3.14242273 L45.0841121,17.5 L45.0841121,39.3684028 C45.0841121,42.0184108 42.9295187,44.1666667 40.2899643,44.1666667 L9.80349366,44.1666667 C7.15575891,44.1666667 5.00934579,42.0182667 5.00934579,39.3684028 L5.00934579,17.5 Z" id="Rectangle" fill="#FFFFFF"></path>
+                    <path d="M45.9489277,21.3668544 L25.010035,5.61166736 L4.07097297,21.3668544 C2.95343781,22.207808 1.36123789,21.9894156 0.514963912,20.8789601 C-0.331479283,19.7686726 -0.111492047,18.186967 1.00604311,17.3460134 L23.301411,0.570316856 C24.3119985,-0.190105619 25.7082406,-0.190105619 26.7186589,0.570316856 L49.0140268,17.3460134 C50.131562,18.186967 50.35138,19.7686726 49.505106,20.8789601 C48.6586628,21.9894156 47.0664629,22.207808 45.9489277,21.3668544 Z" id="XMLID_991_" fill="#437FC6"></path>
+                    <path d="M17.5327103,33.1268232 C17.5327103,30.4794518 19.6858616,28.3333333 22.3289937,28.3333333 L27.7644642,28.3333333 C30.4133784,28.3333333 32.5607477,30.4851651 32.5607477,33.1268232 L32.5607477,44.1666667 L17.5327103,44.1666667 L17.5327103,33.1268232 Z" id="Rectangle-2" fill="#437FC6"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

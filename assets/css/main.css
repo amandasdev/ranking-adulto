@@ -154,22 +154,22 @@ h1.post-title-new {
     font-size: 20px;
     margin-bottom: 10px;
     margin-top: 30px;
-    background: url(assets/image/pros.png) no-repeat 0 2px;
+    background: url(../image/pros.png) no-repeat 0 2px;
     padding: 0 0 0 40px;
 }
 
 .blue-box.arrowicon p {
-    background: url(assets/image/green-check.png) no-repeat 0 8px;
+    background: url(../image/green-check.png) no-repeat 0 8px;
     padding-left: 25px;
 }
 
 .red-box p {
-    background: url(assets/image/red-cross.png) no-repeat 0 0px;
+    background: url(../image/red-cross.png) no-repeat 0 0px;
     padding-left: 35px;
 }
 
 ul.check-list li {
-    background: url(assets/image/check-green.png) no-repeat 0 5px;
+    background: url(../image/check-green.png) no-repeat 0 5px;
     list-style: none;
     padding: 0 0 0 30px;
     margin-bottom: 15px;
@@ -199,7 +199,7 @@ ul.check-list li {
 
 .review-box {
     border-radius: 30px;
-    background: #fff url(assets/image/golden-bg.png) no-repeat 0 -2px;
+    background: #fff url(../image/golden-bg.png) no-repeat 0 -2px;
     padding: 8% 0px 10px;
     border: 1px solid #ccc;
     max-width: 1200px;
@@ -208,7 +208,7 @@ ul.check-list li {
 }
 
 .review-box.silverproduct {
-    background: #fff url(assets/image/silver-bg.png) no-repeat 0 -2px;
+    background: #fff url(../image/silver-bg.png) no-repeat 0 -2px;
     margin-bottom: 9em;
 }
 
@@ -467,11 +467,11 @@ ul.conslist li {
 }
 
 .left .pros-cons li {
-    background: url(assets/image/circle-check-green.png) no-repeat 0 4px;
+    background: url(../image/circle-check-green.png) no-repeat 0 4px;
 }
 
 ul.conslist li {
-    background: url(assets/image/circle-cancel-pink.png) no-repeat 0 4px !important;
+    background: url(../image/circle-cancel-pink.png) no-repeat 0 4px !important;
 }
 
 img.badgeImage {
@@ -689,6 +689,7 @@ ul.ratings li .bar {
     height: 30px;
     position: relative;
     float: left;
+    margin-right: 10px;
 }
 
 .bluearea {

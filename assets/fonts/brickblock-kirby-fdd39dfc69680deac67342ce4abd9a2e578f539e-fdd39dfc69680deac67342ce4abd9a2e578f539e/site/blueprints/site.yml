@@ -1,0 +1,121 @@
+title: Site
+pages: true
+files: true
+fields:
+  ###################################################
+  section_seo:
+    label: SEO
+    type: headline
+
+  title:
+    label: Title
+    type: text
+    help: Used only inside the panel
+
+  description:
+    label: Description
+    type: textarea
+    icon: font
+    buttons: false
+
+  keywords:
+    label: Keywords
+    type: tags
+    icon: tag
+  ###################################################
+  section_con:
+    label: Contribute block
+    type: headline
+
+  contitle:
+    label: Contribute title
+    type: text
+  context:
+    label: Contribute text
+    type: textarea
+  conbutton:
+    label: Contribute button
+    type: text
+  ###################################################
+  section_con1:
+    label: Contribute block alternative
+    type: headline
+
+  contitle1:
+    label: Contribute title
+    type: text
+  context1:
+    label: Contribute text
+    type: textarea
+  conbutton1:
+    label: Contribute button
+    type: text
+  ###################################################
+  section_com:
+    label: Community
+    type: headline
+  comtitle:
+    label: Community title
+    type: text
+
+  socials:
+    label: Social url
+    type: structure
+    style: items
+    fields:
+      title:
+        label: Social title
+        width: 1/2
+        type: text
+      url:
+        label: Social url
+        width: 1/2
+        type: text
+      icon:
+        label: Choose icon
+        type: select
+        width: 1/2
+        options:
+          telegram: telegram
+          facebook: facebook
+          linkedin: linkedin
+          twitter: twitter
+          github: github
+          medium: medium
+          slack: slack
+          telegram: telegram
+          wechat: wechat
+          youtube: youtube
+          vk: vk
+      color:
+        label: Color
+        type: color
+        width: 1/2
+
+  ###################################################
+  notification:
+    label: Notification block
+    type: headline
+
+  nottitle:
+    label: Notification title
+    type: text
+  nottext:
+    label: Notification text
+    type: textarea
+  ###################################################
+  notificationbar:
+    label: Notification bar
+    type: headline
+
+  notificationtext:
+    label: Notification bar text
+    type: textarea
+  ###################################################
+  footer:
+    label: Footer block
+    type: headline
+
+  copyright:
+    label: Copyright text
+    type: text

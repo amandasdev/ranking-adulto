@@ -1,0 +1,213 @@
+Section1: 
+
+----
+
+Introtitle: Newsfeed
+
+----
+
+Introtext: 
+
+----
+
+Buttons: 
+
+----
+
+Section2: 
+
+----
+
+Pastevents: 
+
+----
+
+Todayeventstitle: 
+
+----
+
+Todayevents: 
+
+----
+
+Title: Newsfeed
+
+----
+
+Tokentitle: 
+
+----
+
+Tokentext: 
+
+----
+
+Faqtitle: 
+
+----
+
+Faqs: 
+
+- 
+  icon: doc.svg
+  title: What are Brickblock Tokens?
+  source: Blog
+  date: 2017-07-11
+- 
+  icon: doc.svg
+  title: Official Brickblock bounty campaign
+  source: Blog
+  date: 2017-07-11
+- 
+  icon: doc.svg
+  title: >
+    ETFs are becoming an increasingly
+    popular investment
+    option — here’s why…
+  source: Blog
+  date: 2017-07-06
+- 
+  icon: video.svg
+  title: 'Brickblock at Money20/20 - The Future of Trading on the Blockchain'
+  source: YouTube
+  date: 2017-06-29
+
+----
+
+Badges: 
+
+- 
+  icon: news
+  title: >
+    Brickblock, a Smart Contract Driven
+    Investment Platform
+  link: >
+    http://www.newsbtc.com/2017/07/24/brickblock-smart-contract-driven-investment-platform/
+  source: NEWSBTC
+  date: 2017-07-24
+- 
+  icon: news
+  title: '[DE] Interview mit Brickblock – Blockchain trifft auf traditionelle Investments'
+  link: >
+    https://www.btc-echo.de/interview-mit-brickblock-blockchain-trifft-auf-traditionelle-investments/
+  source: 'BTC - Echo'
+  date: 2017-07-22
+- 
+  icon: post
+  title: >
+    Why Trading Contracts for Difference
+    (CFDs) is a Risky Long-Term Investment
+    Option
+  link: >
+    https://medium.com/brickblock-io/why-trading-contracts-for-difference-cfds-is-a-risky-long-term-investment-option-da205c2b0aeb
+  source: Blog
+  date: 2017-07-21
+- 
+  icon: news
+  title: >
+    Brickblock – the future of
+    stock-trading on the blockchain
+  link: >
+    http://bitcoinchaser.com/press-release/brickblock-the-future-of-stock-trading-blockchain
+  source: Bitcoinchaser
+  date: 2017-07-20
+- 
+  icon: post
+  title: >
+    What is Tokenization and How Does it
+    Improve Online Data Security?
+  link: >
+    https://medium.com/brickblock-io/what-is-tokenization-and-how-does-it-improve-online-data-security-d5277aae36b
+  source: Blog
+  date: 2017-07-19
+- 
+  icon: video
+  title: >
+    Brickblock.io | The future of stock
+    trading on the blockchain
+    @TechDaysMunich2017
+  link: https://youtu.be/h4cHmGz_n94
+  source: YouTube
+  date: 2017-07-19
+- 
+  icon: news
+  title: >
+    ICOs Will Go on Despite Ethereum Price
+    Fall and Uncertainty
+  link: >
+    https://cointelegraph.com/news/icos-will-go-on-despite-ethereum-price-fall-and-uncertainty
+  source: CoinTelegraph
+  date: 2017-07-18
+- 
+  icon: post
+  title: Brickblock Token Sale
+  link: >
+    https://medium.com/brickblock-io/brickblock-token-sale-812575df1e24
+  source: Blog
+  date: 2017-07-11
+- 
+  icon: post
+  title: What are Brickblock Tokens?
+  link: >
+    https://medium.com/brickblock-io/what-are-brickblock-tokens-2cd846e79ae4
+  source: Blog
+  date: 2017-07-11
+- 
+  icon: post
+  title: Official Brickblock bounty campaign
+  link: >
+    https://medium.com/brickblock-io/official-brickblock-bounty-campaign-2846a6f1fb44
+  source: Blog
+  date: 2017-07-11
+- 
+  icon: post
+  title: >
+    ETFs are becoming an increasingly
+    popular investment
+    option — here’s why…
+  link: >
+    https://medium.com/@Brickblock/etfs-are-becoming-an-increasingly-popular-investment-option-heres-why-b425a701ee5f
+  source: Blog
+  date: 2017-07-06
+- 
+  icon: video
+  title: 'Brickblock at Money20/20 - The Future of Trading on the Blockchain'
+  link: https://youtu.be/lptbQFiMwVM
+  source: YouTube
+  date: 2017-06-29
+- 
+  icon: post
+  title: >
+    Want to learn more about Brickblock?
+    Here’s where you’ll find us.
+  link: >
+    https://medium.com/@Brickblock/want-to-learn-more-about-brickblock-heres-where-you-ll-find-us-95dcf6b76e84
+  source: Blog
+  date: 2017-06-22
+- 
+  icon: post
+  title: >
+    Brickblock will lead the way in making
+    investing more financially inclusive
+    around the world
+  link: >
+    https://medium.com/@Brickblock/brickblock-will-lead-the-way-in-making-investing-more-financially-inclusive-around-the-world-97952f80925d
+  source: Blog
+  date: 2017-06-21
+- 
+  icon: post
+  title: >
+    The current cryptocurrency “bubble”
+    is exactly why we need a service like
+    Brickblock
+  link: >
+    https://medium.com/@Brickblock/the-current-cryptocurrency-bubble-is-exactly-why-we-need-a-service-like-brickblock-fbf4a9e369af
+  source: Blog
+  date: 2017-06-16
+- 
+  icon: post
+  title: 'Brickblock: Connecting Cryptocurrencies with Real-World Assets'
+  link: >
+    https://medium.com/@Brickblock/brickblock-connecting-cryptocurrencies-with-real-world-assets-7ec6889c9ee7
+  source: Blog
+  date: 2017-06-13

@@ -1,0 +1,705 @@
+title: Home
+pages: false
+files: true
+fields:
+
+  ###################################################
+
+  section1:
+    label: General
+    id: general
+    type: tab
+    icon: wrench
+
+  title:
+    label: Title
+    type:  text
+    width: 1/2
+
+  metatitle:
+    label: Meta Title
+    type: text
+    width: 1/2
+    help: This will be displayed as the title of the page in your browser and in search engines
+    icon: font
+
+  logo:
+    label: logo
+    type: image
+    help: Use transparent png 
+
+  ###################################################
+
+  section2:
+    label: Nav
+    id: navigation
+    type: tab
+    icon: bars
+
+  navtoggle:
+    label: Nav toggle label
+    type: text
+    icon: header
+
+  navhome:
+    label: Home label
+    type: text
+    width: 1/3
+    icon: bars
+
+  navabout:
+    label: About label
+    type: text
+    width: 1/3
+    icon: bars
+
+  navresume:
+    label: Resume label
+    type: text
+    width: 1/3
+    icon: bars
+
+  navportfolio:
+    label: Portfolio label
+    type: text
+    width: 1/3
+    icon: bars
+
+  navservices:
+    label: Services label
+    type: text
+    width: 1/3
+    icon: bars
+
+  navcontact:
+    label: Contact label
+    type: text
+    width: 1/3
+    icon: bars
+
+  ###################################################
+
+  section3:
+    label: Header
+    id: section1
+    type: tab
+    icon: home
+  
+  intro:
+    label: Intro text
+    type: textarea
+    buttons: false
+    icon: header
+    width: 1/2
+
+  introtitle:
+    label: Header Title
+    type: textarea
+    buttons: false
+    icon: header
+    width: 1/2
+
+  introsubtitle:
+    label: Role
+    type: tags
+    width: 1/2
+
+  introcta:
+    label: CTA label
+    type: text
+    icon: header
+    width: 1/2
+
+  introbackground:
+    label: Intro section background image
+    type: image
+  
+  icons:
+    label: Social Icons
+    type: structure
+    style: items
+    modalsize: medium
+    entry: >
+        <i class="fa fa-{{icon}}"></i></br>
+        <p>URL: {{link}}</p>
+    fields:
+      icon:
+        label: Icon
+        type: icon
+        placeholder: heart-o
+        help: All icons available at <a href="http://fontawesome.io/icons/">fontawesome.io</a>
+      link:
+        label: URL
+        type: url
+        icon: link
+
+  ###################################################
+
+  section4:
+    label: About
+    id: about
+    type: tab
+    icon: info
+
+  aboutintro:
+    label: Intro
+    type: text
+    icon: header
+    width: 1/2
+
+  aboutimage:
+    label: Profile picture
+    type: image
+    width: 1/2
+
+  aboutbody:
+    label: About text
+    type: textarea
+
+  aboutcol1:
+    label: First Column
+    type: textarea
+    width: 1/2
+    help: "Column title must be h3 (### at begining of line)"
+
+  aboutcol2:
+    label: Second Column
+    type: textarea
+    width: 1/2
+    help: "Column title must be h3 (### at begining of line)"
+
+  aboutinfo:
+    label: Personal Info
+    type: structure
+    style: items
+    modalsize: medium
+    entry: >
+        <p>{{label}}: {{text}} </>
+    fields:
+      label:
+        label: Label
+        type: text
+        icon: header
+        help: Just the label without the ":"
+      text:
+        label: Info
+        type: text
+        icon: font
+
+
+  aboutskills:
+    label: Skills
+    type: structure
+    style: items
+    modalsize: medium
+    entry: >
+        <p>{{text}}: {{percent}}% </>
+    fields:
+      text:
+        label: Skill
+        type: text
+        icon: header
+      percent:
+        label: Percent
+        type: number
+        icon: percent
+        min: 0
+        max: 100
+
+  aboutcta1:
+    label: About CTA 1
+    width: 1/2
+    type: text
+    icon: font
+
+  aboutcta1url:
+    label: ABOUT CTA URL 1
+    width: 1/2
+    type: text
+    icon: link
+    placeholder: "#contact"
+    help: "Use #contact to redirect to the contact section or any URL with http://"
+
+  aboutcta2:
+    label: About CTA 2
+    width: 1/2
+    type: text
+    icon: font
+
+  aboutcta2url:
+    label: ABOUT CTA URL 2
+    width: 1/2
+    type: url
+    icon: link
+
+  ###################################################
+
+  section5:
+    label: Resume
+    id: resume
+    type: tab
+    icon: user
+
+  resumeintro:
+    label: Intro
+    type: text
+    icon: header
+    width: 1/2
+  
+  resumebody:
+    label: Resume text
+    type: textarea
+    width: 1/2
+  
+  resumeinfo:
+    label: Information - How to use the resume section
+    type: info
+    text: >
+      You can have from 1 to 3 sections in your resume. Simply fill in what you want and the display will adjust !
+
+  resumesection1:
+    label: First Section Title
+    type: text
+    icon: header
+
+  resumesection1timeline:
+    label: Section 1 Timeline
+    type: structure
+    style: table
+    modalsize: large
+    entry: >
+        {{title}}</br>
+        {{date}}</br>
+        <i class="icon-{{icon}}"></i></br>
+        {{company}}</br>
+        {{body}}
+    fields:
+      title:
+        label: Title
+        type: text
+        icon: header
+        placeholder: Rockstar ninja developer
+        width: 1/2
+      date:
+        label: Date
+        type: text
+        icon: calendar
+        placeholder: June 2016 - Present
+        width: 1/2
+      icon:
+        label: Icon
+        type: icon
+        placeholder: graduation-cap or suitcase seem appropriate here
+        help: All icons available at <a href="http://fontawesome.io/icons/">fontawesome.io</a>
+        width: 1/2
+      company:
+        label: Company
+        type: text
+        icon: suitcase
+        width: 1/2
+      body:
+        label: Description
+        type: textarea
+
+  resumesection2:
+    label: Second Section Title
+    type: text
+    icon: header
+
+  resumesection2timeline:
+    label: Section 2 Timeline
+    type: structure
+    style: table
+    modalsize: large
+    entry: >
+        {{title}}</br>
+        {{date}}</br>
+        <i class="icon-{{icon}}"></i></br>
+        {{company}}</br>
+        {{body}}
+    fields:
+      title:
+        label: Title
+        type: text
+        icon: header
+        placeholder: Rockstar ninja developer
+        width: 1/2
+      date:
+        label: Date
+        type: text
+        icon: calendar
+        placeholder: June 2016 - Present
+        width: 1/2
+      icon:
+        label: Icon
+        type: icon
+        placeholder: graduation-cap or suitcase seem appropriate here
+        help: All icons available at <a href="http://fontawesome.io/icons/">fontawesome.io</a>
+        width: 1/2
+      company:
+        label: Company
+        type: text
+        icon: suitcase
+        width: 1/2
+      body:
+        label: Description
+        type: textarea
+
+  resumesection3:
+    label: Third Section Title
+    type: text
+    icon: header
+
+  resumesection3timeline:
+    label: Section 3 Timeline
+    type: structure
+    style: table
+    modalsize: large
+    entry: >
+        {{title}}</br>
+        {{date}}</br>
+        <i class="icon-{{icon}}"></i></br>
+        {{company}}</br>
+        {{body}}
+    fields:
+      title:
+        label: Title
+        type: text
+        icon: header
+        placeholder: Rockstar ninja developer
+        width: 1/2
+      date:
+        label: Date
+        type: text
+        icon: calendar
+        placeholder: June 2016 - Present
+        width: 1/2
+      icon:
+        label: Icon
+        type: icon
+        placeholder: graduation-cap or suitcase seem appropriate here
+        help: All icons available at <a href="http://fontawesome.io/icons/">fontawesome.io</a>
+        width: 1/2
+      company:
+        label: Company
+        type: text
+        icon: suitcase
+        width: 1/2
+      body:
+        label: Description
+        type: textarea
+
+  ###################################################
+
+  section6:
+    label: Portfolio section
+    id: portfolio
+    type: tab
+    icon: image
+
+  portfoliotitle:
+    label: Portfolio title
+    type: text
+    width: 1/2
+    icon: header
+  
+  portfolioclosemodallabel:
+    label: Close Button inside modal
+    type: text
+    icon: times
+    width: 1/2
+
+  portfoliobody:
+    label: Portfolio text
+    type: textarea
+    
+  portfolioitems:
+    label: Portfolio Items
+    type: snippetfield
+    style: items
+    modalsize: large
+    snippet: panel/portfolio
+    fields:
+      image:
+        type: image
+        label: portfolio image
+        width: 1/2
+      title:
+        label: Title
+        type: text
+        icon: header
+        width: 1/2
+      body:
+        label: Description
+        type: textarea
+      categories:
+        label: Categories
+        type: tags
+        help: Ideally, just one. And no more than two categories
+      ctaurl:
+        label: CTA URL
+        type: url
+        width: 1/2
+      ctalabel:
+        label: CTA Label
+        type: text
+        width: 1/2
+        icon: mouse-pointer
+
+  ###################################################
+
+  section7:
+    label: Call to Action
+    id: cta
+    type: tab
+    icon: mouse-pointer
+
+  ctatitle:
+    label: Call to Action Title
+    type: text
+    icon: header
+
+  ctabody:
+    label: Call to Action Body
+    type: textarea
+
+  ctalink:
+    label: URL
+    type: url
+    icon: link
+
+  ctalabel:
+    label: Link label
+    type: text
+    icon: font
+
+
+  ###################################################
+
+  section8:
+    label: Services
+    id: services
+    type: tab
+    icon: bullhorn
+
+  servicestitle:
+    label: Intro
+    type: text
+    icon: header
+    width: 1/2
+
+  servicesbackground:
+    label: Background image
+    type: image
+    width: 1/2
+
+  servicesbody:
+    label: Services text
+    type: textarea
+
+  services:
+    label: Services 
+    type: structure
+    style: items
+    modalsize: large
+    entry: >
+        <i class="icon-{{icon}}"></i></br>
+        <strong>{{title}}</strong></br>
+        <p>{{body}}</p>
+    fields:
+      icon:
+        label: Icon
+        type: icon
+        placeholder: earth
+        help: All icons available from the <a href="http://glyphsearch.com/?library=icomoon&copy=name">icomoon font</a>
+        width: 1/2
+      title:
+        label: Service Title
+        type: text
+        icon: font
+        width: 1/2
+      body:
+        label: Description
+        type: textarea
+        icon: font
+
+  ###################################################
+
+  section9:
+    label: Stats
+    id: stats
+    type: tab
+    icon: line-chart
+
+  statsinfo:
+    type: info
+    label: Information - How to use the stats section
+    text: It's simple! You add from 2 to 6 stat blocks below and it'll work in the background to make them all aligned and clean! Oh and they'll also show up nicely on all screen sizes. Neat!
+
+  stats:
+    label: Stats
+    type: structure
+    style: items
+    modalsize: large
+    entry: >
+        <i class="icon-{{icon}}"></i></br>
+        <strong>{{number}}</strong></br>
+        <p>{{body}}</p>
+    fields:
+      icon:
+        label: Icon
+        type: icon
+        placeholder: earth
+        help: All icons available from the <a href="http://glyphsearch.com/?library=icomoon&copy=name">icomoon font</a>
+        width: 1/2
+      number:
+        label: Number
+        type: number
+        icon: line-chart
+        width: 1/2
+      body:
+        label: Description
+        type: text
+        icon: font
+   
+
+  ###################################################
+  
+  section10:
+    label: Contact
+    id: contact
+    type: tab
+    icon: envelope
+  
+  contacttitle:
+    label: Contact Title
+    type: text
+    width: 1/2
+    icon: header
+
+  contactbody:
+    label: Contact Text
+    type: text
+    width: 1/2
+    icon: font
+
+  youremail:
+    label: Your email address
+    type: email
+    help: the contact form will send emails to this address
+
+  formname:
+    label: Name form label
+    type: text
+    width: 1/3
+    icon: user
+
+  formemail:
+    label: Email form label
+    type: text
+    width: 1/3
+    icon: envelope
+
+  formsubject:
+    label: Subject form label
+    type: text
+    width: 1/3
+    icon: quote-left
+
+  formmessage:
+    label: Message form label
+    type: text
+    width: 1/3
+    icon: align-justify
+
+  formsubmit:
+    label: Submit form label
+    type: text
+    width: 1/3
+    icon: paper-plane
+
+  formsending:
+    label: Sending text
+    type: text
+    width: 1/3
+    icon: hourglass-o
+    help: This text will be displayed when the form is busy sending the message
+
+  formsuccess:
+    label: Form submission success message
+    type: textarea
+    icon: check
+    buttons:
+      - italic
+      - bold
+
+  addressicon:
+    label: Address icon
+    type: icon
+    help: All icons available from the <a href="http://glyphsearch.com/?library=icomoon&copy=name">icomoon font</a>
+    width: 1/3
+
+  addresslabel:
+    type: text
+    icon: header
+    width: 1/3
+    label: Address Column Title
+
+  addressbody:
+    type: textarea
+    width: 1/3
+    label: Address body
+
+  emailicon:
+    label: Email icon
+    type: icon
+    help: All icons available from the <a href="http://glyphsearch.com/?library=icomoon&copy=name">icomoon font</a>
+    width: 1/3
+
+  emaillabel:
+    type: text
+    icon: header
+    width: 1/3
+    label: Email Column Title
+
+  emailbody:
+    type: textarea
+    width: 1/3
+    label: Email body
+
+  telicon:
+    label: Tellephone icon
+    type: icon
+    help: All icons available from the <a href="http://glyphsearch.com/?library=icomoon&copy=name">icomoon font</a>
+    width: 1/3
+
+  tellabel:
+    type: text
+    icon: header
+    width: 1/3
+    label: Telephone Column Title
+
+  telbody:
+    type: textarea
+    width: 1/3
+    label: Telephone body
+
+  ###################################################
+
+  section11:
+    label: Copyright
+    id: c
+    type: tab
+    icon: copyright
+
+  copyright:
+    label: Copyright
+    type: textarea
+    width: 1/2 
+    icon: copyright
+
+  credits:
+    label: Credits
+    type: textarea
+    width: 1/2
+    icon: user

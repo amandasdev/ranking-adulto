@@ -1,0 +1,106 @@
+Title: 代币
+
+----
+
+Introtitle: 以实物资产为基础的代币
+
+----
+
+Introtext: 支持开发代币资产。
+
+----
+
+Buttons: 
+
+- 
+  text: 通知
+  url: '#notification'
+  style: button_white
+- 
+  text: 阅读代币常见问题
+  url: '#faq'
+  style: button_border
+
+----
+
+Tokentitle: Brickblock代币概述
+
+----
+
+Tokentext: 
+
+Brickblock代币是平台的重要部分，持该币者拥有代币“开采权”，可以生产访问代币，这种访问代币对平台上的每笔交易都非常必要。Brickblock的代币供应有限，任何人都无法生产。
+
+在投资REF、ETF或CTF时，Brickblock代币和访问代币并不是资产证明。
+
+<a target="_blank" href="https://medium.com/brickblock-io/what-are-brickblock-tokens-2cd846e79ae4">Our Tokens  explained here.</a>
+<a target="_blank" href="https://medium.com/brickblock-io/brickblock-token-sale-812575df1e24">Our Token Presale explained here.</a>
+
+----
+
+Faqtitle: 常见问题
+
+----
+
+Faqs: 
+
+- 
+  q: 什么是Brickblock代币?
+  a: >
+    .
+    使用者可以在供款期内进行以太坊交易获得Brickblock代币。Brickblock代币的持有方有权“开采”生产访问代币。
+- 
+  q: 为什么我需要Brickblock代币？
+  a: >
+    访问代币的生产是有限制的，需要借助Brickblock代币来生产。
+- 
+  q: 什么是访问代币？
+  a: >
+    访问代币类似于以太坊中的Gas，进行交易需要支付Gas消耗。生成访问代币必须借助Brickblock代币。
+- 
+  q: 访问代币可以交易吗？
+  a: >
+    可以，访问代币和Brickblock代币都可以通过第三方进行交易。
+- 
+  q: Brickblock代币也可以交易吗？
+  a: >
+    可以，访问代币和Brickblock代币都可以通过第三方进行交易。
+- 
+  q: 如何获取Brickblock代币？
+  a: >
+    我们会提供一个供款期，在此期间，其他加密货币可以兑换为Brickblock代币。
+- 
+  q: >
+    单位Brickblock代币的价值是多少？
+  a: >
+    我们会在供款期前发布此信息。
+- 
+  q: 什么时候能拿到Brickblock代币？
+  a: 供款期结束的14天后。
+- 
+  q: 如何获得我的Brickblock代币？
+  a: >
+    我们会在供款期前发布此信息。
+- 
+  q: 什么是资产证明代币？
+  a: >
+    资产证明代币将是您在Brickblock平台上获得的实际资产的访问密钥。
+- 
+  q: >
+    Brickblock代币、访问代币和资产证明代币的区别是什么?
+  a: |
+    Brickblock代币只能用于一次性出售，对加密货币生态系统非常重要。只有Brickblock代币可以用来生成访问代币。所以Brickblock代币意味着访问代币的“开采权”。
+    如果没有访问代币，您将无法在我们的平台上进行投资。所有的经纪人和基金经理在平台上的每笔交易都需要访问代币。因此，访问代币总是有需求的。
+    资产证明代币能证明你拥有ETF、房地产基金的股份，或者是部分加密交易基金。当你在Brickblock平台上投资时，你会得到资产证明代币。
+
+----
+
+Pie: Intendend use of revenue
+
+----
+
+Col: Token distribution
+
+----
+
+Area: Token price and phases

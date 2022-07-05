@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="80px" height="81px" viewBox="0 0 80 81" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 44 (41411) - http://www.bohemiancoding.com/sketch -->
+    <title>flowchart_cryptofund copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-17.7%" y="-11.9%" width="135.7%" height="137.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.152941176   0 0 0 0 0.250980392   0 0 0 0 0.368627451  0 0 0 0.269389719 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Master-(version-for-CodeRiver)" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home" transform="translate(-938.000000, -1384.000000)">
+            <g id="flowchart_cryptofund-copy-4" transform="translate(938.000000, 1384.000000)">
+                <ellipse id="Oval-5" fill-opacity="0.270000011" fill="#C0CFDB" cx="40" cy="40.5" rx="40" ry="40.125"></ellipse>
+                <g id="Group-3" filter="url(#filter-1)" stroke-width="1" transform="translate(14.205607, 15.750000)">
+                    <g id="bitcoin" transform="translate(17.212441, 1.003548)" fill="#437FC6">
+                        <path d="M0.214961873,37.3616308 L11.8872251,27.6463285 L10.154369,34.740883 C13.0105236,35.3681203 21.7376627,38.1906881 23.0070648,33.0159804 C24.2144868,27.9447809 16.0906041,26.5622108 12.8365256,25.7645725 L12.8365256,24.0851613 L8.57842671,17.9820122 L6.38760638,18.5398918 L7.77424013,12.9443871 C7.77424013,12.0035311 7.45688961,10.9058659 5.87013705,10.5922472 L2.85530717,9.80820061 L3.96603397,5.41753957 L9.67834321,6.82882348 C10.4717195,6.9856328 11.423771,7.29925145 12.3758226,7.45606077 L14.1212504,0.71325988 L18.2468071,1.81092514 L16.5013792,8.39691671 C17.612106,8.71053535 18.7228328,8.86734468 19.8335596,9.18096332 L21.4203122,2.59497176 L25.5458689,3.69263702 L23.8004411,10.4354379 C29.354075,12.1603405 33.3209565,14.8260989 32.5275802,19.8439973 C32.0515544,23.4506117 29.9887761,25.3323236 27.1326214,25.9595609 C30.9408276,27.8412728 32.8449307,30.8206499 30.9408276,35.9953576 C28.719374,42.4245398 23.3244153,42.8949678 16.1840287,41.6404932 L14.4386009,48.5401034 L10.3130442,47.2856288 L12.0584721,40.5428279 C10.9477453,40.2292093 9.83701846,39.9155906 8.72629167,39.7587813 L6.98086384,46.5015822 L2.85530717,45.4039169 L4.60073499,38.5043067 C3.64868345,38.1906881 2.69663191,38.0338788 1.58590512,37.7202601 L0.214961873,37.3616308 Z M15.5493277,13.2580057 L13.4865494,21.5688998 C15.8666782,22.1961371 23.16574,24.548277 24.2764668,19.8439973 C25.3871936,14.9829083 17.9294566,13.885243 15.5493277,13.2580057 Z" id="Combined-Shape"></path>
+                    </g>
+                    <g id="ethereum" fill="#FFFFFF">
+                        <polygon id="Path-21" points="0.247528631 25.0887097 14.8487286 34.6819732 30.0830661 25.0473393 14.8529999 4.36410764e-13"></polygon>
+                        <polygon id="Path-22" points="0.0449672013 27.8384339 15.0044499 49.681371 30.0038675 27.8384339 15.0044499 37.6193775"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

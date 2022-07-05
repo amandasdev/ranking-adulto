@@ -1,0 +1,173 @@
+Title: Platform
+
+----
+
+Introtitle: Aracı olmadan alım satım platformu
+
+----
+
+Introtext: Adınıza alınmış dijital varlıklar, sizin güvenli cüzdanınızda saklanır
+
+----
+
+Buttons: 
+
+- 
+  text: Token Alın
+  url: 'tokens#notification'
+  style: button_white
+- 
+  text: Teknolojiyi keşfedin
+  url: '#technology'
+  style: button_border
+
+----
+
+Howtitle: BRICKBLOCK NASIL ÇALIŞIR?
+
+----
+
+Howtext: Brickblock kullanıcıların yatırım boyutu ayırmaksızın işlem gören farklı varlıklara  yatırım yapmalarını sağlar. Küçük ve büyük ölçekli yatırımları yöetebilmek için akıllı kontratları kullanır bunun sayesinde geleneksel bankalardan daha iyi fiyatlar ve düşük ücretler sağlar. Kullanıcılar her bir yatırım yaptıktan sonra eşsiz bir nominal değerle varlık destekli bir token elde ederler. Tokenler, borsalarda kolayca alınıp satılabilir. Varlıklarınızı Dijital Trust'tan dilediğiniz zaman geri alabilirsiniz.
+
+----
+
+Howlink: Tokenler hakkında daha fazla bilgi edinin
+
+----
+
+Howimage: flow1.png
+
+----
+
+Whytitle: YATIRIMCILARIN NİÇİN BRICKBLOCK'A İHTİYACI VARBORSALARIN ELİMİNE EDİLMESİ İÇİN
+
+----
+
+Whylist: 
+
+- 
+  title: BORSALARIN ELİMİNE EDİLMESİ İÇİN
+  text: >
+    Varlık destekli tokenler, fiyat
+    tabanlı yatırımlarınıza erişimde
+    kripto para birimleri için zorluk
+    teşkil eden maliyetli dönüşüm
+    masraflarını ortadan kaldırmanızı
+    sağlar.
+  icon: why-1.svg
+- 
+  title: BAĞIMSIZ PİYASA
+  text: 'Brickblock tamamıyla şeffaf ve bağımsız - en güvenli ve en avantajlı yatırım fırsatlarını sunan bir pazar olmak istiyoruz.'
+  icon: why-2.svg
+- 
+  title: KARDAN ALINAN PAYLARI OPTİMİZE EDER
+  text: >
+    Yatırımlardan elde edilen kar payları
+    veya kuponlar akıllı kontratlar
+    sayesinde otomatik olarak token
+    sahiplerine aktarılır.
+  icon: why-3.svg
+- 
+  title: DÜŞÜK GİRİŞ MALİYETİ
+  text: >
+    Giriş maliyetlerinin düşük olması
+    sebebiyle küçük fon yöneticileri ve
+    aracı yatırımcıları ve yatırım
+    projelerini de çekme olanağına
+    sahiptir.
+  icon: why-4.svg
+- 
+  title: GLOBAL YATIRIMLAR
+  text: >
+    Brickblock, cüzdanınız üzerinden
+    doğrudan dünya üzerindeki varlıklara
+    global yatırım yapmanızı sağlar.
+  icon: why-5.svg
+- 
+  title: MİNUMUM YATIRIM TUTARI YOKTUR
+  text: >
+    Günümüzde bankalar sizden yatırım
+    yapmanız için yüksek giriş
+    tutarları isterler. Brickblock giriş
+    ücreti sınırı olmaksızın toptan
+    satış fiyatları almanızı sağlar.
+  icon: why-6.svg
+
+----
+
+Protitle: YATIRIMCILARI NASIL KORUYORUZ
+
+----
+
+Prolist: 
+
+- 
+  title: DİJİTAL GÜVEN FONU
+  text: >
+    Öncelikle temel varlıkların güvenini
+    temin etmek için dijital bir güven
+    fonu oluşturulacak. Sonrasında
+    oluşturulan fon, hisse senetlerinin 1:1
+    lik bir oranını koruyacaktır.
+- 
+  title: AYRILMIŞ GÜVENLİ HESAPLAR
+  text: >
+    menkul kıymetler hesabı üzerinde
+    bizler ya da başkaları tarafından hak
+    iddia edilemez. Tüm müşterilerin
+    fonları ayrılmıştır. Bu sebeple,
+    katı kurallarımız ve
+    düzenlemelerimiz sayesinde iflas
+    durumunda dahi müşteri varlıkları
+    korunur ve etkilenmez.
+- 
+  title: DURUM TESPİT SÜRECİ
+  text: >
+    Her bir yatırım fırsatı dikkatli bir
+    şekilde incelenece, uygunluğu kontrol
+    edilecek ve bağımsız denetmenlerimiz
+    tarafından derecelendirilerek ilgili
+    risklere göre sıralanacaktır.
+- 
+  title: SERVET KORUMA
+  text: >
+    Brickblock, düşük ve orta net
+    varlığa sahip müşterilerle yüksek
+    net varlığa sahip bireylerle tamamen
+    uyumlu bir çerçevede aynı servet
+    korumasını etkinleştirir.
+- 
+  title: KAZANÇ DÜZENLEYİCİ
+  text: >
+    Mezvuata uyum kapsamında tüm fon
+    payları aynı çizgide likit
+    kalacaktır ve herhangi bir zaman token
+    sahibi tarafından geri kazanılabilir
+    olacaktır.
+- 
+  title: YASAL DESTEK
+  text: >
+    Brickblock yatırımcılar ve fon
+    yöneticileri için yasal çerçeveleri
+    sunabilmek için yetkililerle birlikte
+    doğrudan çalışacaktır.
+
+----
+
+Proimage: flowchart.png
+
+----
+
+Techtitle: BRICKBLOCK TARAFINDAN KULLANILAN TEKNOLOJİ
+
+----
+
+Techtext: Brickblock, fon yöneticileri ve yatırımcılar arasındaki tüm temasların sağlanmasını ve geliştirilmesini sağlayacak bir akıllı sözleşme yapacak. Brickblock fon yöneticisini doğrular ve ona belirli parametleri ayarlayabilmesi için bir erişim kodu sunar. Fon yöneticisi bu kodu aldıktan sonra kendi akıllı sözleşmelerini yapabilir. Bu akıllı sözleşmeler otomatik olarak DApp'e dahil olur. Kullanıcılar yalnızca akıllı sözleşmenin denetim toplamını karşılaştırarak bağlı sözleşmeleri doğrulayabilecek.
+
+----
+
+Whyimage: flowchart.png
+
+----
+
+Techimage: flow2.png

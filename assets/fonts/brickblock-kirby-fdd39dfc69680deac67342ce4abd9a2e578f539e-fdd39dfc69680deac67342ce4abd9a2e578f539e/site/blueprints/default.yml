@@ -1,0 +1,257 @@
+title: Home
+pages: false
+files: true
+fields:
+
+  ###################################################
+  section1:
+    label: Hero
+    id: section1
+    type: tab
+    icon: home
+  introbackground:
+    label: Hero background image
+    type: image
+  introtitle:
+    label: Hero Title
+    type: textarea
+    buttons: false
+    icon: header
+    width: 1/2
+  introtext:
+    label: Text
+    type: textarea
+    buttons: false
+    icon: header
+    width: 1/2
+
+  buttons:
+    label: buttons
+    type: structure
+    style: items
+    fields:
+      text:
+        label: Button text
+        width: 1/2
+        type: text
+      url:
+        label: Button url
+        width: 1/2
+        type: text
+      style:
+        label: Color of the button
+        type: select
+        options:
+          button_white: White
+          button_border: Border
+
+
+  ###################################################
+
+  section2:
+    label: Bridge
+    id: section2
+    type: tab
+    icon: info
+
+  bridgetitle:
+    label: Bridge title
+    type: text
+
+  bridgetext:
+    label: Bridge text
+    type: textarea
+
+  bridgelinktitle:
+    label: Bridge link title
+    type: text
+
+  ###################################################
+
+  section3:
+    label: Uses
+    id: section3
+    type: tab
+    icon: user
+
+  usestitle:
+    type: text
+    label: Uses title
+
+
+  useslist:
+    label: Uses list
+    type: structure
+    style: items
+    fields:
+      icon:
+        label: Icon name
+        width: 1/2
+        type: text
+      title:
+        label: Title
+        width: 1/2
+        type: text
+      content:
+        label: Short content
+        type: textarea
+      text:
+        label: Long content
+        type: textarea
+
+
+  ###################################################
+
+  section4:
+    label: Revolution
+    id: section4
+    type: tab
+    icon: image
+  revtitle:
+    label: Revolution title
+    type: text
+  revlist:
+    label: Revolution list
+    type: structure
+    style: items
+    entry: >
+      <img width="50" src="/content/1-home/{{icon}}"><br />
+      {{title}} <br>{{text}}
+    fields:
+      icon:
+        label: Icon
+        type: image
+      title:
+        label: Title
+        type: text
+      content:
+        label: Content
+        type: textarea
+
+  revbutton:
+    label: Revolution button
+    type: text
+
+  ###################################################
+
+  section5:
+    label: Ethereum
+    id: section5
+    type: tab
+
+  buildtitle:
+    label: Build on Ethereum title
+    type: text
+    icon: header
+
+  buildtext:
+    label: Call to Action Body
+    type: textarea
+
+  buildbuttontitle:
+    label: Button text
+    type: text
+  imagelist:
+    label: Images list
+    type: structure
+    style: items
+    fields:
+      image:
+        label: Image
+        type: image
+      title:
+        label: Title
+        type: text
+
+  ###################################################
+
+  section6:
+    label: Partners
+    id: section6
+    type: tab
+
+  partnerstitle:
+    label: Partners title
+    type: text
+    icon: header
+    width: 1/2
+
+  partnerslist:
+    label: Partners list
+    type: structure
+    style: items
+    fields:
+      URL:
+        label: URL
+        type: url
+      icon:
+        label: Logo
+        type: image
+      width:
+        label: Width of icon
+        type: text
+  ###################################################
+
+  section7:
+    label: People
+    id: section7
+    type: tab
+    icon: user
+
+  teamtitle:
+    type: text
+    label: Team title
+
+  teamlist:
+    label: Team list
+    type: structure
+    style: items
+    modalsize: large
+    entry: >
+        <strong>{{name}}</strong></br>
+        <p>{{position}}</p>
+    fields:
+      name:
+        label: Name
+        type: text
+      position:
+        label: Position
+        type: text
+      photo:
+        label: photo
+        type: image
+      text:
+        label: Text
+        type: textarea
+      url:
+        label: URL
+        type: url
+
+  advtitle:
+    type: text
+    label: Advisory title
+
+  advlist:
+    label: Advisory list
+    type: structure
+    style: items
+    modalsize: large
+    entry: >
+        <strong>{{name}}</strong></br>
+        <p>{{position}}</p>
+    fields:
+      name:
+        label: Name
+        type: text
+      position:
+        label: Position
+        type: text
+      photo:
+        label: photo
+        type: image
+      text:
+        label: Text
+        type: textarea
+      url:
+        label: URL
+        type: url
