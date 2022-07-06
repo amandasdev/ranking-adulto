@@ -1,129 +1,18 @@
 <?php include_once('head.php'); ?>
 
 <body class="post-template-default single single-post postid-398 single-format-standard">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLJNJR6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5D4CMK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-dark-grayscale">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 0.49803921568627" />
-                    <feFuncG type="table" tableValues="0 0.49803921568627" />
-                    <feFuncB type="table" tableValues="0 0.49803921568627" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-grayscale">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 1" />
-                    <feFuncG type="table" tableValues="0 1" />
-                    <feFuncB type="table" tableValues="0 1" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-purple-yellow">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
-                    <feFuncG type="table" tableValues="0 1" />
-                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-blue-red">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 1" />
-                    <feFuncG type="table" tableValues="0 0.27843137254902" />
-                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-midnight">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 0" />
-                    <feFuncG type="table" tableValues="0 0.64705882352941" />
-                    <feFuncB type="table" tableValues="0 1" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-magenta-yellow">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.78039215686275 1" />
-                    <feFuncG type="table" tableValues="0 0.94901960784314" />
-                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-purple-green">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
-                    <feFuncG type="table" tableValues="0 1" />
-                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-blue-orange">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.098039215686275 1" />
-                    <feFuncG type="table" tableValues="0 0.66274509803922" />
-                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg>
     <div id="page" class="site">
 
         <header id="masthead" class="site-header">
             <div class="site-branding">
                 <div class="logo">
-                    <img src="assets/image/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
+                    <img src="<?php echo SITE_URL ?>assets/image/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
                 </div>
             </div><!-- .site-branding -->
 
         </header><!-- #masthead -->
 
-        <link rel="stylesheet" type="text/css" href="assets/css/style.testolynx.php" />
+        <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/style.testolynx.css" />
 
         <div class="wrapp">
 
@@ -186,7 +75,7 @@
                                     <div id="cover1"></div>
                                 </div>
                                 <div class="clear"></div>
-                                <div class="author-img"><img src="assets/image/author.jpg" alt="" width="72" height="85" loading="lazy"></div>
+                                <div class="author-img"><img src="<?php echo SITE_URL ?>assets/image/author.jpg" alt="" width="72" height="85" loading="lazy"></div>
 
                                 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
                                 <html>
@@ -194,7 +83,7 @@
                                 <body>
                                     <h2>Testolynx &ndash; The Overview</h2>
                                     <p><strong>Testolynx</strong> is a natural supplement made for men who are experiencing poor sexual function. For most men, this includes issues with sexual performance, low stamina, and endurance which, if left unaddressed can lead to a decline in confidence and problems with their intimate relationships. This product is made by the company &ldquo;G8 Nutrition&rdquo;, a manufacturer who produces only produces one product <strong>Testolynx</strong> that is sold from their website. </p>
-                                    <div class="postwidth"><img src="assets/image/testolynx.jpg" alt="Testolynx"></div>
+                                    <div class="postwidth"><img src="<?php echo SITE_URL ?>assets/image/testolynx.jpg" alt="Testolynx"></div>
                                     <p>Information for <strong>Testolynx</strong> is limited however &ndash; there is just a brief overview of how it works, a list of key ingredients. A contact number for the customer service department is provided but the site doesn&rsquo;t include any background details about the manufacturer.</p>
                                     <h2>Ingredients Contained in this Product</h2>
                                     <p>Tribulus Terrestris, Tongkat Ali, and Avena Sativa</p>
@@ -224,7 +113,7 @@
 
                                 <!------------STYLE FOR THIS PAGE ---------->
 
-                                <link rel="stylesheet" type="text/css" href="assets/css/style.testolynx.php" />
+                                <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/style.testolynx.css" />
 
                                 <!------------STYLE FOR THIS PAGE------>
 
@@ -233,8 +122,8 @@
                                 <p class="mmrytxt">Below you’ll find some of the most effective male enhancement supplements on the market today, in our opinion.*</p>
 
                                 <div class="rating-table">
-                                    <img class="img-desk" src="assets/image/rating-table.jpg" alt="star-rate" width="963" height="95">
-                                    <img class="img-mob" src="assets/image/rating-table-m.jpg" alt="star-rate" width="350" height="170">
+                                    <img class="img-desk" src="<?php echo SITE_URL ?>assets/image/rating-table.jpg" alt="star-rate" width="963" height="95">
+                                    <img class="img-mob" src="<?php echo SITE_URL ?>assets/image/rating-table-m.jpg" alt="star-rate" width="350" height="170">
 
                                 </div>
                                 <div class="clear"></div>
@@ -248,7 +137,7 @@
 
                                             <div class="data newRev chartRev" id="rank_01">
                                                 <a class="linkChart" href="#"></a>
-                                                <div class="row1"><img class="product-image" src="assets/image/4-5-star.png" width="110" height="23" alt="Star" /></div>
+                                                <div class="row1"><img class="product-image" src="<?php echo SITE_URL ?>assets/image/4-5-star.png" width="110" height="23" alt="Star" /></div>
                                                 <div class="clear"></div>
                                             </div>
 
@@ -262,7 +151,7 @@
                                                 <div class="row-border-1"><span class="chcont">Boosts Sexual Confidence</span><span class="rate-4-5"></span></div>
                                                 <div class="row-border-1 last"><span class="chcont">Consumer Reviews</span><span class="rate-4"></span></div>
 
-                                                <div class="buttonRead top"><a href="#">Read More About Virectin Now <img src="assets/image/organgeArrow.gif" width="24" height="24" alt="Read Full Review" /></a></div>
+                                                <div class="buttonRead top"><a href="#">Read More About Virectin Now <img src="<?php echo SITE_URL ?>assets/image/organgeArrow.gif" width="24" height="24" alt="Read Full Review" /></a></div>
                                                 <div class="clear"></div>
                                             </div>
 
@@ -618,7 +507,7 @@
                             </script>
                             <!--Sticky 2 END-->
 
-                            <link rel="stylesheet" type="text/css" href="assets/css/style.testolynx.php" />
+                            <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/style.testolynx." />
 
                             <!--<script type="text/javascript">
 if(jQuery(window).width() >= 768){
@@ -781,7 +670,7 @@ jQuery(".videoReview").height(maxHeight);
         <div class="clear"></div>
 
 
-        <link rel="stylesheet" type="text/css" href="assets/css/style.testolynx.php" />
+        <link rel="stylesheet" type="text/css" href="<?= SITE_URL ?>assets/css/style.testolynx.css" />
 
     </div><!-- .wrap -->
 

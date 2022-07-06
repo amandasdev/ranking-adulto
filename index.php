@@ -1,4 +1,7 @@
-<?php include_once('head.php'); ?>
+<?php
+$app['page_name'] = 'home';
+include_once('head.php');
+?>
 
 <body class="post-template post-template-template post-template-generic-guide-latest-test post-template-templategeneric-guide-latest-test-php single single-post postid-114768 single-format-standard">
   <div id="page" class="site">
@@ -6,7 +9,7 @@
     <header id="masthead" class="site-header">
       <div class="site-branding">
         <div class="logo">
-          <img src="assets/image/logo.png" alt="Total Health Reports" width="415" height="60" />
+          <img src="<?php echo SITE_URL ?>assets/image/logo.png" alt="Total Health Reports" width="415" height="60" />
         </div>
       </div><!-- .site-branding -->
 
@@ -18,7 +21,7 @@
     <div class="wrap">
 
       <header class="main-section">
-        <h1 class="post-title-new">2022&#8217;s Top Male Enhancement Supplements for Powerful Sexual Performance</h1>
+        <h1 class="post-title-new"><?= $app['title'] ?></h1>
       </header>
 
       <div class="content-wrap">

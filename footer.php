@@ -3,7 +3,7 @@
     <div class="foot-center">
       <div class="flogo">
 
-        <img width="415" height="60" src="assets/image/footer-logo.png" alt="logo" class="lazyload" loading="lazy" />
+        <img width="415" height="60" src="<?= SITE_URL ?>assets/image/footer-logo.png" alt="logo" class="lazyload" loading="lazy" />
       </div>
       <div class="clear"></div>
       <div class="footerclass">
@@ -12,7 +12,7 @@
             <li><a href="about-us.php">About Us</a></li>
             <li><a href="contact-us.php">Contact Us</a></li>
             <li><a href="privacy-policy.php">Privacy Policy</a></li>
-            <li><a href="terms-of-use.php">Terms Of Use</a></li>
+            <li><a href="termo-de-uso">Terms Of Use</a></li>
             <li><a href="ftc-disclosure.php">FTC Disclosure</a></li>
 
           </ul>
@@ -85,7 +85,7 @@
   })();
 </script>
 
-<link rel="stylesheet" type="text/css" href="assets/css/style.footer.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/style.footer.css" />
 <script>
   jQuery(document).ready(function() {
     function close_accordion_section() {
@@ -194,7 +194,6 @@
             <div class="clear"></div>
           </div>
           <div class="clear"></div>
-          <link rel="stylesheet" type="text/css" href="assets/css/style.footer.css" />
           <p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_1" name="_wpcf7_ak_js" value="155" />
             <script>
               document.getElementById("ak_js_1").setAttribute("value", (new Date()).getTime());
@@ -255,7 +254,6 @@
             <div class="clear"></div>
           </div>
           <div class="clear"></div>
-          <link rel="stylesheet" type="text/css" href="assets/css/style.footer.css" />
           <p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_2" name="_wpcf7_ak_js" value="101" />
             <script>
               document.getElementById("ak_js_2").setAttribute("value", (new Date()).getTime());
@@ -316,7 +314,6 @@
             <div class="clear"></div>
           </div>
           <div class="clear"></div>
-          <link rel="stylesheet" type="text/css" href="assets/css/style.footer.css" />
           <p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_3" name="_wpcf7_ak_js" value="168" />
             <script>
               document.getElementById("ak_js_3").setAttribute("value", (new Date()).getTime());
@@ -375,7 +372,6 @@
             <div class="clear"></div>
           </div>
           <div class="clear"></div>
-          <link rel="stylesheet" type="text/css" href="assets/css/style.footer.css" />
           <p style="display: none !important;"><label>&#916;<textarea name="_wpcf7_ak_hp_textarea" cols="45" rows="8" maxlength="100"></textarea></label><input type="hidden" id="ak_js_4" name="_wpcf7_ak_js" value="137" />
             <script>
               document.getElementById("ak_js_4").setAttribute("value", (new Date()).getTime());

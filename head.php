@@ -1,3 +1,9 @@
+<?php
+
+require("config.php");
+
+?>
+
 <!DOCTYPE html>
 <html dir="ltr" lang="pt-BR">
 
@@ -18,14 +24,14 @@
   <link rel="canonical" href="best-male-sexual-enhancement-supplements-on-the-market-test.html" />
   <meta name="google" content="nositelinkssearchbox" />
 
-  <link rel="stylesheet" href="assets/css/theme.css" media='all'>
-  <script src='assets/js/jquery-3.5.1.min.js'></script>
-  <script src='assets/js/regenerator-runtime.min.js'></script>
+  <link rel="stylesheet" href="<?php echo SITE_URL ?>assets/css/theme.css" media='all'>
+  <script src='<?php echo SITE_URL ?>assets/js/jquery-3.5.1.min.js'></script>
+  <script src='<?php echo SITE_URL ?>assets/js/regenerator-runtime.min.js'></script>
 
-  <link rel="icon" href="assets/image/favico 32x32.png" sizes="32x32" />
-  <link rel="icon" href="assets/image/favico 192x192.png" sizes="192x192" />
-  <link rel="apple-touch-icon" href="assets/image/favico 180x180.png" />
-  <meta name="msapplication-TileImage" content="assets/image/favico 270x270.png" />
+  <link rel="icon" href="<?php echo SITE_URL ?>assets/image/favico 32x32.png" sizes="32x32" />
+  <link rel="icon" href="<?php echo SITE_URL ?>assets/image/favico 192x192.png" sizes="192x192" />
+  <link rel="apple-touch-icon" href="<?php echo SITE_URL ?>assets/image/favico 180x180.png" />
+  <meta name="msapplication-TileImage" content="<?php echo SITE_URL ?>assets/image/favico 270x270.png" />
   <style>
     /*! Critical css */
     @font-face {
@@ -749,5 +755,5 @@
     }
   </style>
 
-  <link rel="shortcut icon" href="assets/image/favicon.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="<?php echo SITE_URL ?>assets/image/favicon.ico" type="image/x-icon">
 </head>
