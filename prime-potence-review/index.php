@@ -1,4 +1,7 @@
-<?php include_once('head.php'); ?>
+<?php
+$app['page_name'] = 'prime-potence-review';
+include_once('../head.php');
+?>
 
 <body class="post-template-default single single-post postid-79198 single-format-standard">
     <!-- Google Tag Manager (noscript) -->
@@ -117,13 +120,13 @@
         <header id="masthead" class="site-header">
             <div class="site-branding">
                 <div class="logo">
-                    <img src="assets/image/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
+                    <img src="<?php echo SITE_URL ?>assets/image/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
                 </div>
             </div><!-- .site-branding -->
 
         </header><!-- #masthead -->
 
-        <link rel="stylesheet" type="text/css" href="assets/css/style.prime-potence-review.css" />
+        <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/prime-potence-review.css" />
 
         <div class="wrapp">
 
@@ -183,7 +186,7 @@
                                     <div id="cover1"></div>
                                 </div>
                                 <div class="clear"></div>
-                                <div class="author-img"><img src="assets/image/author.jpg" alt="" width="72" height="85" loading="lazy"></div>
+                                <div class="author-img"><img src="<?php echo SITE_URL ?>assets/image/author.jpg" alt="" width="72" height="85" loading="lazy"></div>
 
                                 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
                                 <html>
@@ -191,7 +194,7 @@
                                 <body>
                                     <h2>Prime Potence &ndash; The Overview</h2>
                                     <p><strong>Prime Potence </strong> is a male sexual support supplement for men who want to improve their sexual function and performance. Aging, illness, and even psychological issues can all contribute to a decline in male sexual function and there are numerous products on the market that claim to help, including <strong>Prime Potence </strong>. However, information regarding the product or the manufacturer is very limited; there is no official website for the brand which means that it can only be purchased through independent online stores and many offer few details about the brand.</p>
-                                    <div class="postwidth"><img src="assets/image/prime-potence-review.jpg" alt="Prime Potence">
+                                    <div class="postwidth"><img src="<?php echo SITE_URL ?>assets/image/prime-potence-review.jpg" alt="Prime Potence">
                                         <div class="pricewrap"><span class="price" id="price">$112.99/Bottle</span></div>
                                         <div class="clear"></div>
                                         <p class="price_airplane"><strong class="shiphand"><span>+</span> $49.99 FOR S&amp;H!</strong></p>
@@ -223,7 +226,7 @@
 
                                 <!------------STYLE FOR THIS PAGE ---------->
 
-                                <link rel="stylesheet" type="text/css" href="assets/css/style.prime-potence-review.css" />
+                                <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/prime-potence-review.css" />
 
                                 <!------------STYLE FOR THIS PAGE------>
 
@@ -233,8 +236,8 @@
                                 <p class="mmrytxt">Below you’ll find some of the most effective male enhancement supplements on the market today, in our opinion.*</p>
 
                                 <div class="rating-table">
-                                    <img class="img-desk" src="assets/image/rating-table.jpg" alt="star-rate" width="963" height="95">
-                                    <img class="img-mob" src="assets/image/rating-table-m.jpg" alt="star-rate" width="350" height="170">
+                                    <img class="img-desk" src="<?php echo SITE_URL ?>assets/image/rating-table.jpg" alt="star-rate" width="963" height="95">
+                                    <img class="img-mob" src="<?php echo SITE_URL ?>assets/image/rating-table-m.jpg" alt="star-rate" width="350" height="170">
 
                                 </div>
                                 <div class="clear"></div>
@@ -248,7 +251,7 @@
 
                                             <div class="data newRev chartRev" id="rank_01">
                                                 <a class="linkChart" href="#"></a>
-                                                <div class="row1"><img class="product-image" src="assets/image/4-5-star.png" width="110" height="23" alt="Star" /></div>
+                                                <div class="row1"><img class="product-image" src="../assets/image/4-5-star.png" width="110" height="23" alt="Star" /></div>
                                                 <div class="clear"></div>
                                             </div>
 
@@ -262,7 +265,7 @@
                                                 <div class="row-border-1"><span class="chcont">Boosts Sexual Confidence</span><span class="rate-4-5"></span></div>
                                                 <div class="row-border-1 last"><span class="chcont">Consumer Reviews</span><span class="rate-4"></span></div>
 
-                                                <div class="buttonRead top"><a href="#">Read More About Virectin Now <img src="assets/image/organgeArrow.gif" width="24" height="24" alt="Read Full Review" /></a></div>
+                                                <div class="buttonRead top"><a href="#">Read More About Virectin Now <img src="../assets/image/organgeArrow.gif" width="24" height="24" alt="Read Full Review" /></a></div>
                                                 <div class="clear"></div>
                                             </div>
 
@@ -307,7 +310,7 @@
                                                 <p>There is a no-hassle <strong>60-day money-back guarantee</strong> on Virectin, which is proof that the manufacturer knows it will produce the <strong>impressive sexual performance results</strong> you want, and having studied it in detail for this review, we know it will too &#8211; a stronger sex drive, unlimited endurance, and of course, <strong>rock-hard erections on demand</strong>!</p>
                                                 <div class="chartReview text-center">
                                                     <h2 class="sectheading">Virectin customer reviews over the internet</h2>
-                                                    <img src="assets/image/4-5-star.png" alt="Virectin review" width="110" height="23" />
+                                                    <img src="../assets/image/4-5-star.png" alt="Virectin review" width="110" height="23" />
                                                     <!--<div class="ratngoutof">4.5/5 </div>-->
                                                 </div>
                                                 <!--VIDEO and Customer Testimonials-->
@@ -315,26 +318,26 @@
                                                     <div class="videoReview">
                                                         <h2>Here Doyle's Amazing Story</h2>
                                                         <div class="videoSection">
-                                                            <div class="vi-lazyload card-img-top svimeo1" data-id="501786067" data-thumb="" data-logo="2"></div>
+                                                            
                                                         </div>
                                                         <div class="contentSection">
                                                             <p>“I started getting good erection. Thanks to Virectin!”</p>
                                                             <div class="nameAge"><span class="colorNAme">Doyle</span>, Age 70</div>
                                                             <div class="videoStar">
-                                                                <img src="assets/image/5-star.png" alt="5 Star" width="110" height="23" />
+                                                                <img src="../assets/image/5-star.png" alt="5 Star" width="110" height="23" />
                                                             </div>
                                                         </div>
                                                     </div>
                                                     <div class="videoReview">
                                                         <h2>Here Wayne's Amazing Story</h2>
                                                         <div class="videoSection">
-                                                            <div class="vi-lazyload card-img-top svimeo2" data-id="501781790" data-thumb="" data-logo="2"></div>
+                                                            
                                                         </div>
                                                         <div class="contentSection">
                                                             <p>“It's just miraculous! I would recommend anybody to try it. I'm glad this is on my fourth bottle on it is working real good for me.”</p>
                                                             <div class="nameAge"><span class="colorNAme">Wayne</span>, Age 50</div>
                                                             <div class="videoStar">
-                                                                <img src="assets/image/5-star.png" alt="5 Star" width="110" height="23" />
+                                                                <img src="../assets/image/5-star.png" alt="5 Star" width="110" height="23" />
                                                             </div>
                                                         </div>
                                                     </div>
@@ -343,26 +346,26 @@
                                                 <div class="TestimonialWrap">
                                                     <div class="Testmonial">
                                                         <div class="custImage">
-                                                            <img src="assets/image/virectin-review-01.jpg" alt="" height="200" width="200" />
+                                                            <img src="../assets/image/virectin-review-01.jpg" alt="" height="200" width="200" />
                                                         </div>
                                                         <div class="custTesti">
                                                             <h2>Increased libido and better climax control...</h2>
                                                             <div class="nameRating">
                                                                 <span class="custName">Bill S.</span>
-                                                                <img src="assets/image/5-star.png" alt="5 Star" height="18" width="100" />
+                                                                <img src="../assets/image/5-star.png" alt="5 Star" height="18" width="100" />
                                                             </div>
                                                             <p>I am 50+ yrs old and have been taking Virectin for over a month now. During the first day of use, I noticed physical changes which became more and more noticeable over time. I experienced increased libido, better performance, and better climax control. This is a product that will never fail to produce results. I would recommend Virectin to anyone wanting a better sexual experience.</p>
                                                         </div>
                                                     </div>
                                                     <div class="Testmonial">
                                                         <div class="custImage">
-                                                            <img src="assets/image/jeck.jpg" alt="" height="200" width="200" />
+                                                            <img src="../assets/image/jeck.jpg" alt="" height="200" width="200" />
                                                         </div>
                                                         <div class="custTesti">
                                                             <h2>Everything has increased – performance, stamina, and size...</h2>
                                                             <div class="nameRating">
                                                                 <span class="custName">Jack S.</span>
-                                                                <img src="assets/image/5-star.png" alt="5 Star" height="18" width="100" />
+                                                                <img src="../assets/image/5-star.png" alt="5 Star" height="18" width="100" />
                                                             </div>
                                                             <p>I didn't expect much when I started taking this supplement and I only tried it in the first place because my wife convinced me. On my second bottle and this stuff really works! My wife and I noticed a difference in the bedroom within a week. Everything has increased - performance, stamina, and size…my wife is just as happy about that as I am. Ingredients and everything seemed safe after some research, so I plan on continuing to take this.</p>
                                                         </div>
@@ -370,7 +373,7 @@
                                                 </div>
                                                 <!--VIDEO and Customer Testimonials-->
                                                 <div class="clear"></div>
-                                                <div class="buttonRead"><a href="#">Read More About Virectin Now <img src="assets/image/organgeArrow.gif" width="24" height="24" alt="Read Full Review" /></a></div>
+                                                <div class="buttonRead"><a href="#">Read More About Virectin Now <img src="../assets/image/organgeArrow.gif" width="24" height="24" alt="Read Full Review" /></a></div>
                                             </div>
                                             <div class="clear"></div>
                                         </div>
@@ -382,7 +385,7 @@
 
                                 <div id="productWrap-2" class="productWrap">
                                     <div class="data newRev chartRev" id="rank_02">
-                                        <div class="row1"><img class="product-image" src="assets/image/viaradaxx-review.jpg" alt="ViaraDaxx" width="230" height="230" /></div>
+                                        <div class="row1"><img class="product-image" src="../assets/image/viaradaxx-review.jpg" alt="ViaraDaxx" width="230" height="230" /></div>
                                         <div class="row2">
                                             <div class="rank_col">
                                                 <div class="prodTitle">
@@ -420,7 +423,7 @@
                                             <h2>The Bottom Line</h2>
                                             <p>Even though this brand does contain a key ingredient that has some history of success when used in male sexual support supplements of this type,<em> <strong>ViaraDaxx</strong> would not be a recommended product for men</em>. With such a lack of information regarding the ingredients and manufacturer, not only is it unclear how effective the product would be, but the safety is in question too. While some consumers may like the fact that it doesn’t need to be taken every day, they should be aware that this type of supplement can sometimes have a detrimental effect, especially if taken over long periods.</p>
                                             <div class="clear"></div>
-                                            <div class="buttonLearn"><a href="assets/image/viaradaxx-review.jpg">Learn More</a></div>
+                                            <div class="buttonLearn"><a href="../assets/image/viaradaxx-review.jpg">Learn More</a></div>
                                         </div>
                                     </div>
                                 </div>
@@ -429,7 +432,7 @@
 
                                 <div id="productWrap-3" class="productWrap">
                                     <div class="data newRev chartRev" id="rank_03">
-                                        <div class="row1"><img class="product-image" src="assets/image/male-exxtra.jpg" alt="Male Exxtra" width="230" height="230" /></div>
+                                        <div class="row1"><img class="product-image" src="../assets/image/male-exxtra.jpg" alt="Male Exxtra" width="230" height="230" /></div>
                                         <div class="row2">
                                             <div class="rank_col">
                                                 <div class="prodTitle">
@@ -470,7 +473,7 @@
                                             <p><strong>Male Exxtra</strong> contains an ingredient that has a history of use in male sexual support supplement, but without seeing the source and quality of the ingredients, the overall potency of the formula is not known. Not knowing the potency of the formula is a problem as this not only makes it hard to judge how effective and fast acting it would be but means that it’s impossible to know if the product is good value for money. While online retailers give an overall good impression of the supplement, there are very few relevant details provided and it would be helpful not only to be given more information about the formula for <strong>Male Exxtra</strong> but clinical testing results too. Additionally, the cost is not published on any website. There are many alternative brands of natural male sexual support supplement available online and in retail stores; consumers would be advised to choose a brand that has been made by a reputable manufacturer who is well-established in the industry.</p>
 
                                             <div class="clear"></div>
-                                            <div class="buttonLearn"><a href="male-exxtra-review.php">Learn More</a></div>
+                                            <div class="buttonLearn"><a href="<?php echo SITE_URL ?>male-exxtra-review">Learn More</a></div>
                                         </div>
                                         <div class="clear"></div>
                                     </div>
@@ -493,7 +496,7 @@
 
 
                                 <div class="data newRev" id="rank_4">
-                                    <div class="row1"><img class="product-image" src="assets/image/prime-potence-review.jpg" alt="Prime Potence" width="200" height="200" /></div>
+                                    <div class="row1"><img class="product-image" src="../assets/image/prime-potence-review.jpg" alt="Prime Potence" width="200" height="200" /></div>
                                     <div class="row2">
                                         <div class="rank_col">
                                             <div class="prodTitle"> Prime Potence</div>
@@ -513,9 +516,9 @@
                                         <h2><u><b>Virectin</b> - A Better Alternative?</u></h2>
                                         <div class="ourProd-param">
                                             <div class="ProductImage">
-                                                <img src="assets/image/virectin-bottle.png" width="200" height="367" alt="Virectin" />
+                                                <img src="../assets/image/virectin-bottle.png" width="200" height="367" alt="Virectin" />
                                                 <div class="RveiwandRating">
-                                                    <img src="assets/image/4-5-star.png" width="110" height="23" alt="star-4-5-rate" />
+                                                    <img src="../assets/image/4-5-star.png" width="110" height="23" alt="star-4-5-rate" />
                                                     <!-- <div class="ratngoutof">4.5/5 (<a class="ac_title cursor cboxElement" rel="nofollow" onclick="WriteReiew();"> 8327 Ratings</a>)</div> -->
                                                 </div>
                                             </div>
@@ -550,7 +553,7 @@
 
                                             </div>
                                         </div>
-                                        <div class="buttonRead"> <a href="#" id="RMAVNCTA">Read More About Virectin Now <img class="larrow" src="assets/image/black-arrow.gif" alt="arrow" width="24" height="24" /></a> </div>
+                                        <div class="buttonRead"> <a href="#" id="RMAVNCTA">Read More About Virectin Now <img class="larrow" src="../assets/image/black-arrow.gif" alt="arrow" width="24" height="24" /></a> </div>
                                     </div>
                                 </div>
                                 <!--Better Alternative -->
@@ -571,9 +574,9 @@
                             <div class="clear"></div>
                             <!--Better Alternative End -->
 
-                            <div class="ReviewStickty-1" id="ReviewStickty-1"><a class="cta-blue" id="THRMCPRTS" href="prime-potence-review.html#stickybookmark">Over 1400 male supplements reviewed & <span>see which one finished at top <img height="24" width="24" class="larrow" src="assets/image/organgeArrow.gif" alt="arrow" /></span></a></div>
+                            <div class="ReviewStickty-1" id="ReviewStickty-1"><a class="cta-blue" id="THRMCPRTS" href="#stickybookmark">Over 1400 male supplements reviewed & <span>see which one finished at top <img height="24" width="24" class="larrow" src="../assets/image/organgeArrow.gif" alt="arrow" /></span></a></div>
 
-                            <div class="ReviewStickty-2" id="ReviewStickty-2"><a id="THRMCPRBS" class="cta-blue" href="#">Over 1400 male supplements reviewed & <span>see which one finished at top <img class="larrow" src="assets/image/organgeArrow.gif" alt="arrow" height="24" width="24" /></span></a></div>
+                            <div class="ReviewStickty-2" id="ReviewStickty-2"><a id="THRMCPRBS" class="cta-blue" href="#">Over 1400 male supplements reviewed & <span>see which one finished at top <img class="larrow" src="../assets/image/organgeArrow.gif" alt="arrow" height="24" width="24" /></span></a></div>
                             <script>
                                 jQuery(window).scroll(function() {
                                     var window_top = jQuery(window).scrollTop();
@@ -619,7 +622,7 @@
                             </script>
                             <!--Sticky 2 END-->
 
-                            <link rel="stylesheet" type="text/css" href="assets/css/style.prime-potence-review.css" />
+                            <link rel="stylesheet" type="text/css" href="../assets/css/prime-potence-review.css" />
 
                             <!--<script type="text/javascript">
 if(jQuery(window).width() >= 768){
@@ -716,7 +719,7 @@ jQuery(".videoReview").height(maxHeight);
                                                     this_wrap.append(this_content);
 
                                                     //background-image
-                                                    this_content.style.setProperty('--vi-lazyload-img', 'url("https://www.totalhealthreports.com/wp-content/themes/THR/images/' + this_data_id + '.jpg")');
+                                                    this_content.style.setProperty('--vi-lazyload-img', 'url("<?php echo SITE_URL ?>https://www.totalhealthreports.com/wp-content/themes/THR/images/' + this_data_id + '.jpg")');
 
                                                     //play btn
                                                     this_playbtn = template_playbtn.cloneNode();
@@ -784,10 +787,10 @@ jQuery(".videoReview").height(maxHeight);
 
 
 
-    <link rel="stylesheet" type="text/css" href="assets/css/style.prime-potence-review.css" />
+    <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/prime-potence-review.css" />
 
     </div><!-- .wrap -->
 
     <?php
-    include_once('footer.php');
+    include_once('../footer.php');
     ?>

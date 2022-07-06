@@ -227,17 +227,17 @@ include_once('head.php');
                       </div>
                     </div>
                     <div class="review-box silverproduct">
-                      <p><a href="prime-potence-review.php"><img class="thebadge" src="assets/image/top-seal-2-Gray.png" alt="top-seal"></a></p>
-                      <h4><a href="prime-potence-review.php">2. Prime Potence</a>
+                      <p><a href="<?php echo SITE_URL ?>prime-potence-review"><img class="thebadge" src="assets/image/top-seal-2-Gray.png" alt="top-seal"></a></p>
+                      <h4><a href="<?php echo SITE_URL ?>prime-potence-review">2. Prime Potence</a>
                       </h4>
-                      <p class="byline">by <a href="prime-potence-review.php">
+                      <p class="byline">by <a href="<?php echo SITE_URL ?>prime-potence-review">
                           Prime Potence</a></p>
                       <div class="product-image-mainbox">
                         <h1>A- Rating</h1>
-                        <div class="product-image-box"><a href="prime-potence-review.php"><img src="assets/image/prime-potence-review.jpg" alt="bloom"></a></div>
+                        <div class="product-image-box"><a href="<?php echo SITE_URL ?>prime-potence-review"><img src="assets/image/prime-potence-review.jpg" alt="bloom"></a></div>
                         <div class="circle-summary"><img class="circle-img" src="assets/image/circle-img-01 (2).png" alt="circle-img">
                           <div class="circle-text">
-                            <h4><a href="prime-potence-review.php">Total
+                            <h4><a href="<?php echo SITE_URL ?>prime-potence-review">Total
                                 Ranking</a></h4>
                             <h5>8.9/10</h5>
                             <p>591 votes</p>
@@ -304,21 +304,21 @@ include_once('head.php');
                           official website which are bringing its reputation down. This is something that can&rsquo;t
                           be simply overlooked. This male enhancement supplement is questionable.</p>
                         <hr>
-                        <p class="learnmoreBtn"><a class="top" href="prime-potence-review.php">LEARN MORE <img class="larrow" src="assets/image/arrow-01.png" alt="arrow"></a></p>
+                        <p class="learnmoreBtn"><a class="top" href="<?php echo SITE_URL ?>prime-potence-review">LEARN MORE <img class="larrow" src="assets/image/arrow-01.png" alt="arrow"></a></p>
                       </div>
                     </div>
                     <div class="review-box silverproduct">
-                      <p><a href="male-exxtra-review.php"><img class="thebadge" src="assets/image/top-seal-4-Gray.png" alt="top-seal"></a></p>
-                      <h4><a href="male-exxtra-review.php">3. Male Exxtra </a>
+                      <p><a href="<?php echo SITE_URL ?>male-exxtra-review"><img class="thebadge" src="assets/image/top-seal-4-Gray.png" alt="top-seal"></a></p>
+                      <h4><a href="<?php echo SITE_URL ?>male-exxtra-review">3. Male Exxtra </a>
                       </h4>
-                      <p class="byline">by <a href="male-exxtra-review.php">Male
+                      <p class="byline">by <a href="<?php echo SITE_URL ?>male-exxtra-review">Male
                           Exxtra</a></p>
                       <div class="product-image-mainbox">
                         <h1>B+ Rating</h1>
-                        <div class="product-image-box"><a href="male-exxtra-review.php"><img src="assets/image/male-ex.jpg" alt="bloom"></a></div>
+                        <div class="product-image-box"><a href="<?php echo SITE_URL ?>male-exxtra-review"><img src="assets/image/male-ex.jpg" alt="bloom"></a></div>
                         <div class="circle-summary"><img class="circle-img" src="assets/image/circle-img-01.png" alt="circle-img">
                           <div class="circle-text">
-                            <h4><a href="male-exxtra-review.php">Total Ranking</a>
+                            <h4><a href="<?php echo SITE_URL ?>male-exxtra-review">Total Ranking</a>
                             </h4>
                             <h5>8.5/10</h5>
                             <p>415 votes</p>
@@ -396,7 +396,7 @@ include_once('head.php');
                           would be advised to choose a brand that has been made by a reputable manufacturer who is
                           well-established in the industry.</p>
                         <hr>
-                        <p class="learnmoreBtn"><a class="top" href="male-exxtra-review.php">LEARN MORE <img class="larrow" src="assets/image/arrow-01 (1).png" alt="arrow"></a></p>
+                        <p class="learnmoreBtn"><a class="top" href="<?php echo SITE_URL ?>male-exxtra-review">LEARN MORE <img class="larrow" src="assets/image/arrow-01 (1).png" alt="arrow"></a></p>
                       </div>
                     </div>
                     <div class="review-box silverproduct">
@@ -483,16 +483,16 @@ include_once('head.php');
                     </div>
                   </div>
                   <div class="review-box silverproduct mb-0">
-                    <p><a href="biomax-ultra-potent-male-review.php"><img class="thebadge" src="assets/image/top-seal-5-Gray.png" alt="top-seal"></a></p>
-                    <h4><a href="biomax-ultra-potent-male-review.php">5. BioMax
+                    <p><a href="<?php echo SITE_URL ?>biomax-ultra-potent-male-review"><img class="thebadge" src="assets/image/top-seal-5-Gray.png" alt="top-seal"></a></p>
+                    <h4><a href="<?php echo SITE_URL ?>biomax-ultra-potent-male-review">5. BioMax
                         Ultra Potent Male</a></h4>
-                    <p class="byline">by <a href="biomax-ultra-potent-male-review.php">BioMax</a></p>
+                    <p class="byline">by <a href="<?php echo SITE_URL ?>biomax-ultra-potent-male-review">BioMax</a></p>
                     <div class="product-image-mainbox">
                       <h1>C+ Rating</h1>
-                      <div class="product-image-box"><a href="biomax-ultra-potent-male-review.php"><img src="https://www.totalhealthreports.com/wp-content/uploads/2021/04/biomax-ultra-potent-male-review.jpg" alt="bloom"></a></div>
+                      <div class="product-image-box"><a href="<?php echo SITE_URL ?>biomax-ultra-potent-male-review"><img src="<?php echo SITE_URL ?>assets/image/biomax-ultra-potent-male-review.jpg" alt="bloom"></a></div>
                       <div class="circle-summary"><img class="circle-img" src="assets/image/circle-img-01 (4).png" alt="circle-img">
                         <div class="circle-text">
-                          <h4><a href="biomax-ultra-potent-male-review.php">Total
+                          <h4><a href="<?php echo SITE_URL ?>biomax-ultra-potent-male-review">Total
                               Ranking</a></h4>
                           <h5>7.9/10</h5>
                           <p>305 votes</p>
@@ -568,7 +568,7 @@ include_once('head.php');
                         contact the company directly for full terms and conditions of the money back guarantee before
                         making an order.</p>
                       <hr>
-                      <p class="learnmoreBtn"><a class="top" href="biomax-ultra-potent-male-review.php">LEARN MORE
+                      <p class="learnmoreBtn"><a class="top" href="<?php echo SITE_URL ?>biomax-ultra-potent-male-review">LEARN MORE
                           <img class="larrow" src="assets/image/arrow-01 (3).png" alt="arrow"></a></p>
                     </div>
                   </div>

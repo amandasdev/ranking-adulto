@@ -15,7 +15,7 @@ include_once('../head.php');
 
 		</header><!-- #masthead -->
 
-		<link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/style.terms-of-use.php" />
+		<link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/terms-of-use.css" />
 
 		<div class="wrapp">
 
@@ -25,7 +25,7 @@ include_once('../head.php');
 					<div class="post-single-wrap">
 						<article id="post-133" class="post-133 post type-post status-publish format-standard hentry category-uncategorized">
 							<header class="entry-header">
-								<h1 class="post-title"><span itemprop="name">Terms of Use</span></h1>
+								<h1 class="post-title"><span itemprop="name">Termos de Uso</span></h1>
 							</header>
 
 							<div class="entry-content">
@@ -74,7 +74,7 @@ include_once('../head.php');
 			</div>
 			<div class="clear"></div>
 
-			<link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/style.terms-of-use.php" />
+			<link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/terms-of-use.css" />
 
 
 		</div><!-- .wrap -->

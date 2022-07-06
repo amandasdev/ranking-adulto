@@ -1,129 +1,21 @@
-<?php include_once('head.php'); ?>
+<?php
+$app['page_name'] = 'politica-de-privacidade';
+include_once('../head.php');
+?>
 
 <body class="post-template-default single single-post postid-131 single-format-standard">
-	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLJNJR6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->
-	<!-- Google Tag Manager (noscript) -->
-	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5D4CMK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-	<!-- End Google Tag Manager (noscript) -->
-	<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-dark-grayscale">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0 0.49803921568627" />
-					<feFuncG type="table" tableValues="0 0.49803921568627" />
-					<feFuncB type="table" tableValues="0 0.49803921568627" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-grayscale">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0 1" />
-					<feFuncG type="table" tableValues="0 1" />
-					<feFuncB type="table" tableValues="0 1" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-purple-yellow">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
-					<feFuncG type="table" tableValues="0 1" />
-					<feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-blue-red">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0 1" />
-					<feFuncG type="table" tableValues="0 0.27843137254902" />
-					<feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-midnight">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0 0" />
-					<feFuncG type="table" tableValues="0 0.64705882352941" />
-					<feFuncB type="table" tableValues="0 1" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-magenta-yellow">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0.78039215686275 1" />
-					<feFuncG type="table" tableValues="0 0.94901960784314" />
-					<feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-purple-green">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
-					<feFuncG type="table" tableValues="0 1" />
-					<feFuncB type="table" tableValues="0.44705882352941 0.4" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-		<defs>
-			<filter id="wp-duotone-blue-orange">
-				<feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-				<feComponentTransfer color-interpolation-filters="sRGB">
-					<feFuncR type="table" tableValues="0.098039215686275 1" />
-					<feFuncG type="table" tableValues="0 0.66274509803922" />
-					<feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
-					<feFuncA type="table" tableValues="1 1" />
-				</feComponentTransfer>
-				<feComposite in2="SourceGraphic" operator="in" />
-			</filter>
-		</defs>
-	</svg>
 	<div id="page" class="site">
 
 		<header id="masthead" class="site-header">
 			<div class="site-branding">
 				<div class="logo">
-					<img src="assets/image/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
+					<img src="<?php echo SITE_URL ?>assets/image/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
 				</div>
 			</div><!-- .site-branding -->
 
 		</header><!-- #masthead -->
 
-		<link rel="stylesheet" type="text/css" href="assets/css/style.privacy-policy.php" />
+		<link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/privacy-policy.css" />
 
 		<div class="wrapp">
 
@@ -133,7 +25,7 @@
 					<div class="post-single-wrap">
 						<article id="post-131" class="post-131 post type-post status-publish format-standard hentry category-uncategorized">
 							<header class="entry-header">
-								<h1 class="post-title"><span itemprop="name">Privacy Policy</span></h1>
+								<h1 class="post-title"><span itemprop="name">Política de Privacidade</span></h1>
 							</header>
 
 							<div class="entry-content">
@@ -173,7 +65,7 @@
 								<h2>Online Privacy Policy Only</h2>
 								<p>This privacy policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Totalhealthreports.com. This policy is not applicable to any information collected offline or via channels other than this website.</p>
 								<h2>Consent</h2>
-								<p>By using our website, you hereby consent to our Privacy Policy and agree to its <a href="terms-of-service.php">Terms and Conditions</a>.</p>
+								<p>By using our website, you hereby consent to our Privacy Policy and agree to its <a href="termo de uso">Terms and Conditions</a>.</p>
 							</div>
 							<div class="chart-pages">
 
@@ -189,10 +81,10 @@
 			</div>
 			<div class="clear"></div>
 
-			<link rel="stylesheet" type="text/css" href="assets/css/style.privacy-policy.php" />
+			<link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/privacy-policy.css" />
 
 		</div><!-- .wrap -->
 
 		<?php
-		include_once('footer.php');
+		include_once('../footer.php');
 		?>

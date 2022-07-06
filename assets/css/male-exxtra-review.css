@@ -28,7 +28,7 @@
     width: 110px;
     padding: 0;
     margin: 0;
-    background: url(assets/image/5-star.png) no-repeat 0px 0;
+    background: url(../image/5-star.png) no-repeat 0px 0;
 }
 
 .rate-4-5 {
@@ -37,7 +37,7 @@
     width: 110px;
     padding: 0;
     margin: 0;
-    background: url(assets/image/4-5-star.png) no-repeat 0px 0;
+    background: url(../image/4-5-star.png) no-repeat 0px 0;
 }
 
 .rate-4 {
@@ -46,7 +46,7 @@
     width: 110px;
     padding: 0;
     margin: 0;
-    background: url(assets/image/4-star-new.png) no-repeat 0px 0;
+    background: url(../image/4-star-new.png) no-repeat 0px 0;
 }
 
 .rate-3-5 {
@@ -55,7 +55,7 @@
     width: 110px;
     padding: 0;
     margin: 0;
-    background: url(assets/image/3-5-star.png) no-repeat 0px 0;
+    background: url(../image/3-5-star.png) no-repeat 0px 0;
 }
 
 .rate-3 {
@@ -64,7 +64,7 @@
     width: 110px;
     padding: 0;
     margin: 0;
-    background: url(assets/image/3-star.png) no-repeat 0px 0;
+    background: url(../image/3-star.png) no-repeat 0px 0;
 }
 
 #rank_4 {

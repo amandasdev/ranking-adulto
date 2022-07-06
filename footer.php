@@ -9,32 +9,32 @@
       <div class="footerclass">
         <div class="Footermenu">
           <ul>
-            <li><a href="about-us.php">About Us</a></li>
-            <li><a href="contact-us.php">Contact Us</a></li>
-            <li><a href="privacy-policy.php">Privacy Policy</a></li>
-            <li><a href="termo-de-uso">Terms Of Use</a></li>
-            <li><a href="ftc-disclosure.php">FTC Disclosure</a></li>
+            <li><a href="<?= SITE_URL ?>sobre-nos">Sobre Nós</a></li>
+            <li><a href="<?= SITE_URL ?>contato">Contato</a></li>
+            <li><a href="<?= SITE_URL ?>politica-de-privacidade">Política de Privacidade</a></li>
+            <li><a href="<?= SITE_URL ?>termo-de-uso">Termo de Uso</a></li>
+            <li><a href="<?= SITE_URL ?>ftc-disclosure">FTC Disclosure</a></li>
 
           </ul>
         </div>
 
-        <div class="disclaimer"><strong>Disclaimer: </strong>The content published on our website is to inform and
-          educate the reader only and is not a substitute for professional medical advice from your doctor or other
-          health care provider. If you have a specific health question or concern you must consult with a qualified
-          medical professional and in the case of an emergency, immediately contact your local emergency services.
-          The publishers of this website and the content take no responsibility for any detrimental health issues or
-          injuries that result from following advice found in articles, reports/overviews, or other content on our
-          website. All opinions expressed on this website are the opinions of the owners of this website. Many
-          products and services featured on this native advertising site are selected by our editors which means we
-          may get paid commissions on many products purchased through links to retailer sites via native
-          advertising, this is disclosed throughout all relevant pages of the site. All trademarks, registered
-          trademarks, and service marks mentioned on this site are the property of their respective owners. &copy;
-          2022. All Rights Reserved.</div>
+        <div class="disclaimer"><strong>Aviso Legal: </strong>O conteúdo publicado em nosso site é para informar e
+          educar o leitor apenas e não é um substituto para aconselhamento médico profissional de seu médico ou outro
+          prestador de cuidados de saúde. Se você tiver uma dúvida ou preocupação de saúde específica, deve consultar um profissional qualificado
+          profissional médico e, em caso de emergência, contate imediatamente os serviços de emergência locais.
+          Os editores deste site e do conteúdo não se responsabilizam por quaisquer problemas de saúde prejudiciais ou
+          lesões resultantes de seguir conselhos encontrados em artigos, relatórios/revisões ou outro conteúdo em nosso
+          local na rede Internet. Todas as opiniões expressas neste site são as opiniões dos proprietários deste site. Muitos
+          produtos e serviços apresentados neste site de publicidade nativa são selecionados por nossos editores, o que significa que
+          pode receber comissões pagas em muitos produtos adquiridos por meio de links para sites de varejistas por meio de sites nativos
+          publicidade, isso é divulgado em todas as páginas relevantes do site. Todas as marcas registradas
+          marcas registradas e marcas de serviço mencionadas neste site são de propriedade de seus respectivos proprietários. &copy;
+          2022. Todos os direitos reservados.</div>
 
       </div>
-      <div class="lastborder">Copyright &copy; 2022 All Rights Reserved.</div>
+      <div class="lastborder">Copyright © 2022 Todos os direitos reservados..</div>
 
-      <div class="lastborder" style="font-size: 11px">Contact Email: contact@totalhealthreports.com</div>
+      <div class="lastborder" style="font-size: 11px">Email para contato: contact@totalhealthreports.com</div>
     </div><!-- .site-info -->
   </div><!-- .site-info -->
 </footer><!-- #colophon -->
@@ -85,7 +85,7 @@
   })();
 </script>
 
-<link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/style.footer.css" />
+<link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/footer.css" />
 <script>
   jQuery(document).ready(function() {
     function close_accordion_section() {

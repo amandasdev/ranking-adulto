@@ -1,130 +1,22 @@
-<?php include_once('head.php'); ?>
-
+<?php
+$app['page_name'] = 'biomax-ultra-potent-male-review';
+include_once('../head.php');
+?>
 
 <body class="post-template-default single single-post postid-113812 single-format-standard">
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TLJNJR6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    <!-- Google Tag Manager (noscript) -->
-    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-M5D4CMK" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-    <!-- End Google Tag Manager (noscript) -->
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-dark-grayscale">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 0.49803921568627" />
-                    <feFuncG type="table" tableValues="0 0.49803921568627" />
-                    <feFuncB type="table" tableValues="0 0.49803921568627" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-grayscale">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 1" />
-                    <feFuncG type="table" tableValues="0 1" />
-                    <feFuncB type="table" tableValues="0 1" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-purple-yellow">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.54901960784314 0.98823529411765" />
-                    <feFuncG type="table" tableValues="0 1" />
-                    <feFuncB type="table" tableValues="0.71764705882353 0.25490196078431" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-blue-red">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 1" />
-                    <feFuncG type="table" tableValues="0 0.27843137254902" />
-                    <feFuncB type="table" tableValues="0.5921568627451 0.27843137254902" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-midnight">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0 0" />
-                    <feFuncG type="table" tableValues="0 0.64705882352941" />
-                    <feFuncB type="table" tableValues="0 1" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-magenta-yellow">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.78039215686275 1" />
-                    <feFuncG type="table" tableValues="0 0.94901960784314" />
-                    <feFuncB type="table" tableValues="0.35294117647059 0.47058823529412" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-purple-green">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.65098039215686 0.40392156862745" />
-                    <feFuncG type="table" tableValues="0 1" />
-                    <feFuncB type="table" tableValues="0.44705882352941 0.4" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;">
-        <defs>
-            <filter id="wp-duotone-blue-orange">
-                <feColorMatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 " />
-                <feComponentTransfer color-interpolation-filters="sRGB">
-                    <feFuncR type="table" tableValues="0.098039215686275 1" />
-                    <feFuncG type="table" tableValues="0 0.66274509803922" />
-                    <feFuncB type="table" tableValues="0.84705882352941 0.41960784313725" />
-                    <feFuncA type="table" tableValues="1 1" />
-                </feComponentTransfer>
-                <feComposite in2="SourceGraphic" operator="in" />
-            </filter>
-        </defs>
-    </svg>
+
     <div id="page" class="site">
 
         <header id="masthead" class="site-header">
             <div class="site-branding">
                 <div class="logo">
-                    <img src="assets/image/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
+                    <img src="<?php echo SITE_URL ?>assets/image/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
                 </div>
             </div><!-- .site-branding -->
 
         </header><!-- #masthead -->
 
-        <link rel="stylesheet" type="text/css" href="assets/css/style.biomax-ultra.css" />
+        <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/style.biomax-ultra.css" />
 
         <div class="wrapp">
 
@@ -156,10 +48,7 @@
                                                 </ul>
                                             </div>
 
-
-
                                         </div>
-
 
                                     </div>
                                 </div>
@@ -187,7 +76,7 @@
                                     <div id="cover1"></div>
                                 </div>
                                 <div class="clear"></div>
-                                <div class="author-img"><img src="assets/image/author.jpg" alt="" width="72" height="85" loading="lazy"></div>
+                                <div class="author-img"><img src="<?php echo SITE_URL ?>assets/image/author.jpg" alt="" width="72" height="85" loading="lazy"></div>
 
                                 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
                                 <html>
@@ -195,7 +84,7 @@
                                 <body>
                                     <h2>BioMax Ultra Potent Male &ndash; The Overview</h2>
                                     <p><strong>BioMax Ultra Potent Male</strong> is a natural supplement made for men who are experiencing poor sexual function. For most men this includes issues with ejaculation, low stamina, low sex drive which, if left unaddressed can lead to a decline in confidence and problems with their intimate relationships. This product is sold from their website. Information for <strong>BioMax Ultra Potent Male</strong> is limited however &ndash; there is just a brief overview of how it works, a list of key ingredients and some customer reviews. A contact number for the customer service department is provided but the site doesn&rsquo;t include any background details about the manufacturer.</p>
-                                    <div class="postwidth"><img src="assets/image/biomax-ultra-potent-male.jpg" alt="BioMax Ultra Potent Male"></div>
+                                    <div class="postwidth"><img src="<?php echo SITE_URL ?>assets/image/biomax-ultra-potent-male.jpg" alt="BioMax Ultra Potent Male"></div>
                                     <p>Consumers can purchase <strong>BioMax Ultra Potent Male</strong> directly from the website. Discounts are offered for larger quantities. Although no free samples of <strong>BioMax Ultra Potent Male</strong> are available, it has a full 90-day money back guarantee which gives the consumer plenty of time to see how well it works with no financial risk.</p>
                                     <h2>Ingredients Contained in this Product</h2>
                                     <p>Albizzia Lebbeck Tree Bark, Ginseng and Tribulus Terrestris</p>
@@ -225,7 +114,7 @@
 
                                 <!------------STYLE FOR THIS PAGE ---------->
 
-                                <link rel="stylesheet" type="text/css" href="assets/css/style.biomax-ultra.css" />
+                                <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/biomax-ultra.css" />
 
                                 <!------------STYLE FOR THIS PAGE------>
 
@@ -234,8 +123,8 @@
                                 <p class="mmrytxt">Below you’ll find some of the most effective male enhancement supplements on the market today, in our opinion.*</p>
 
                                 <div class="rating-table">
-                                    <img class="img-desk" src="assets/image/rating-table.jpg" alt="star-rate" width="963" height="95">
-                                    <img class="img-mob" src="assets/image/rating-table-m.jpg" alt="star-rate" width="350" height="170">
+                                    <img class="img-desk" src="<?php echo SITE_URL ?>assets/image/rating-table.jpg" alt="star-rate" width="963" height="95">
+                                    <img class="img-mob" src="<?php echo SITE_URL ?>assets/image/rating-table-m.jpg" alt="star-rate" width="350" height="170">
 
                                 </div>
                                 <div class="clear"></div>
@@ -249,7 +138,7 @@
 
                                             <div class="data newRev chartRev" id="rank_01">
                                                 <a class="linkChart" href="#"></a>
-                                                <div class="row1"><img class="product-image" src="assets/image/virectin-bottle.png" alt="Virectin" width="191" height="350" />
+                                                <div class="row1"><img class="product-image" src="<?php echo SITE_URL ?>assets/image/virectin-bottle.png" alt="Virectin" width="191" height="350" />
                                                     <div class="brandStar"><img src="assets/image/4-5-star.png" width="110" height="23" alt="Star" /></div>
                                                     <div class="clear"></div>
                                                 </div>
@@ -309,7 +198,7 @@
                                                     <p>There is a no-hassle <strong>60-day money-back guarantee</strong> on Virectin, which is proof that the manufacturer knows it will produce the <strong>impressive sexual performance results</strong> you want, and having studied it in detail for this review, we know it will too &#8211; a stronger sex drive, unlimited endurance, and of course, <strong>rock-hard erections on demand</strong>!</p>
                                                     <div class="chartReview text-center">
                                                         <h2 class="sectheading">Virectin customer reviews over the internet</h2>
-                                                        <img src="assets/image/4-5-star.png" alt="Virectin review" width="110" height="23" />
+                                                        <img src="<?php echo SITE_URL ?>assets/image/4-5-star.png" alt="Virectin review" width="110" height="23" />
                                                         <!--<div class="ratngoutof">4.5/5 </div>-->
                                                     </div>
                                                     <!--VIDEO and Customer Testimonials-->
@@ -336,7 +225,7 @@
                                                                 <p>“It's just miraculous! I would recommend anybody to try it. I'm glad this is on my fourth bottle on it is working real good for me.”</p>
                                                                 <div class="nameAge"><span class="colorNAme">Wayne</span>, Age 50</div>
                                                                 <div class="videoStar">
-                                                                    <img src="assets/image/5-star.png" alt="5 Star" width="110" height="23" />
+                                                                    <img src="<?php echo SITE_URL ?>assets/image/5-star.png" alt="5 Star" width="110" height="23" />
                                                                 </div>
                                                             </div>
                                                         </div>
@@ -345,13 +234,13 @@
                                                     <div class="TestimonialWrap">
                                                         <div class="Testmonial">
                                                             <div class="custImage">
-                                                                <img src="assets/image/virectin-review-01.jpg" alt="" height="200" width="200" />
+                                                                <img src="<?php echo SITE_URL ?>assets/image/virectin-review-01.jpg" alt="" height="200" width="200" />
                                                             </div>
                                                             <div class="custTesti">
                                                                 <h2>Increased libido and better climax control...</h2>
                                                                 <div class="nameRating">
                                                                     <span class="custName">Bill S.</span>
-                                                                    <img src="assets/image/5-star.png" alt="5 Star" height="18" width="100" />
+                                                                    <img src="<?php echo SITE_URL ?>assets/image/5-star.png" alt="5 Star" height="18" width="100" />
                                                                 </div>
                                                                 <p>I am 50+ yrs old and have been taking Virectin for over a month now. During the first day of use, I noticed physical changes which became more and more noticeable over time. I experienced increased libido, better performance, and better climax control. This is a product that will never fail to produce results. I would recommend Virectin to anyone wanting a better sexual experience.</p>
                                                             </div>
@@ -364,7 +253,7 @@
                                                                 <h2>Everything has increased – performance, stamina, and size...</h2>
                                                                 <div class="nameRating">
                                                                     <span class="custName">Jack S.</span>
-                                                                    <img src="assets/image/5-star.png" alt="5 Star" height="18" width="100" />
+                                                                    <img src="<?php echo SITE_URL ?>assets/image/5-star.png" alt="5 Star" height="18" width="100" />
                                                                 </div>
                                                                 <p>I didn't expect much when I started taking this supplement and I only tried it in the first place because my wife convinced me. On my second bottle and this stuff really works! My wife and I noticed a difference in the bedroom within a week. Everything has increased - performance, stamina, and size…my wife is just as happy about that as I am. Ingredients and everything seemed safe after some research, so I plan on continuing to take this.</p>
                                                             </div>
@@ -384,7 +273,7 @@
 
                                     <div id="productWrap-2" class="productWrap">
                                         <div class="data newRev chartRev" id="rank_02">
-                                            <div class="row1"><img class="product-image" src="assets/image/prime-potence-review (1).jpg" alt="Prime Potence" width="273" height="275" /></div>
+                                            <div class="row1"><img class="product-image" src="<?php echo SITE_URL ?>assets/image/prime-potence-review (1).jpg" alt="Prime Potence" width="273" height="275" /></div>
                                             <div class="row2">
                                                 <div class="rank_col">
                                                     <div class="prodTitle">
@@ -422,7 +311,7 @@
                                                 <h2>The Bottom Line</h2>
                                                 <p>Allow us to be blunt – <strong>Prime Potence</strong> is just another in the forest of male enhancement supplements. <em><strong>Prime Potence</strong> seems reliable but this isn’t really easy to confirm with definition.</em> The problem is that there is no official website which are bringing its reputation down. This is something that can’t be simply overlooked. This male enhancement supplement is questionable.</p>
                                                 <div class="clear"></div>
-                                                <div class="buttonLearn"><a href="prime-potence-review.php">Learn More</a></div>
+                                                <div class="buttonLearn"><a href="prime-potence-review">Learn More</a></div>
                                             </div>
                                         </div>
                                     </div>
@@ -472,7 +361,7 @@
                                                 <p><strong>Male Exxtra</strong> contains an ingredient that has a history of use in male sexual support supplement, but without seeing the source and quality of the ingredients, the overall potency of the formula is not known. Not knowing the potency of the formula is a problem as this not only makes it hard to judge how effective and fast acting it would be but means that it’s impossible to know if the product is good value for money. While online retailers give an overall good impression of the supplement, there are very few relevant details provided and it would be helpful not only to be given more information about the formula for <strong>Male Exxtra</strong> but clinical testing results too. Additionally, the cost is not published on any website. There are many alternative brands of natural male sexual support supplement available online and in retail stores; consumers would be advised to choose a brand that has been made by a reputable manufacturer who is well-established in the industry.</p>
 
                                                 <div class="clear"></div>
-                                                <div class="buttonLearn"><a href="male-exxtra-review.php">Learn More</a></div>
+                                                <div class="buttonLearn"><a href="<?php echo SITE_URL ?>male-exxtra-review">Learn More</a></div>
                                             </div>
                                             <div class="clear"></div>
                                         </div>
@@ -495,7 +384,7 @@
 
 
                                     <div class="data newRev" id="rank_4">
-                                        <div class="row1"><img class="product-image" src="assets/image/biomax-ultra-potent-male (1).jpg" alt="BioMax Ultra Potent Male" width="200" height="200" /></div>
+                                        <div class="row1"><img class="product-image" src="<?php echo SITE_URL ?>assets/image/biomax-ultra-potent-male (1).jpg" alt="BioMax Ultra Potent Male" width="200" height="200" /></div>
                                         <div class="row2">
                                             <div class="rank_col">
                                                 <div class="prodTitle"> BioMax Ultra Potent Male</div>
@@ -515,9 +404,9 @@
                                             <h2><u><b>Virectin</b> - A Better Alternative?</u></h2>
                                             <div class="ourProd-param">
                                                 <div class="ProductImage">
-                                                    <img src="assets/image/virectin-bottle (1).png" width="200" height="367" alt="Virectin" />
+                                                    <img src="<?php echo SITE_URL ?>assets/image/virectin-bottle (1).png" width="200" height="367" alt="Virectin" />
                                                     <div class="RveiwandRating">
-                                                        <img src="assets/image/4-5-star.png" width="110" height="23" alt="star-4-5-rate" />
+                                                        <img src="<?php echo SITE_URL ?>assets/image/4-5-star.png" width="110" height="23" alt="star-4-5-rate" />
                                                         <!-- <div class="ratngoutof">4.5/5 (<a class="ac_title cursor cboxElement" rel="nofollow" onclick="WriteReiew();"> 8327 Ratings</a>)</div> -->
                                                     </div>
                                                 </div>
@@ -573,7 +462,7 @@
                                 <div class="clear"></div>
                                 <!--Better Alternative End -->
 
-                                <div class="ReviewStickty-1" id="ReviewStickty-1"><a class="cta-blue" id="THRMCPRTS" href="biomax-ultra-potent-male-review.php#stickybookmark">Over 1400 male supplements reviewed & <span>see which one finished at top <img height="24" width="24" class="larrow" src="assets/image/organgeArrow.gif" alt="arrow" /></span></a></div>
+                                <div class="ReviewStickty-1" id="ReviewStickty-1"><a class="cta-blue" id="THRMCPRTS" href="biomax-ultra-potent-male-review#stickybookmark">Over 1400 male supplements reviewed & <span>see which one finished at top <img height="24" width="24" class="larrow" src="assets/image/organgeArrow.gif" alt="arrow" /></span></a></div>
 
                                 <div class="ReviewStickty-2" id="ReviewStickty-2"><a id="THRMCPRBS" class="cta-blue" href="#">Over 1400 male supplements reviewed & <span>see which one finished at top <img class="larrow" src="assets/image/organgeArrow.gif" alt="arrow" height="24" width="24" /></span></a></div>
                                 <script>
@@ -621,7 +510,7 @@
                                 </script>
                                 <!--Sticky 2 END-->
 
-                                <link rel="stylesheet" type="text/css" href="assets/css/style.biomax-ultra.css" />
+                                <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/biomax-ultra.css" />
 
                                 <!--<script type="text/javascript">
 if(jQuery(window).width() >= 768){
@@ -718,7 +607,7 @@ jQuery(".videoReview").height(maxHeight);
                                                         this_wrap.append(this_content);
 
                                                         //background-image
-                                                        this_content.style.setProperty('--vi-lazyload-img', 'url("https://www.totalhealthreports.com/wp-content/themes/THR/images/' + this_data_id + '.jpg")');
+                                                        this_content.style.setProperty('--vi-lazyload-img', 'url("<?php echo SITE_URL ?>https://www.totalhealthreports.com/wp-content/themes/THR/images/' + this_data_id + '.jpg")');
 
                                                         //play btn
                                                         this_playbtn = template_playbtn.cloneNode();
@@ -765,17 +654,12 @@ jQuery(".videoReview").height(maxHeight);
 
                                     })();
                                 </script>
-
-
                             </div>
-
                             <div class="clear"></div>
-
                             <div class="clear"></div>
                             <div class="info-txt">
                                 <p>*Result may vary. If you have a serious medical condition, or have a history of heart conditions we suggest consulting with a physician before using any supplement. The information contained in this website is provided for general informational purpose only. It is not intended to diagnose, treat, cure or prevent any disease and should not be relied upon as a medical advice. Always consult your doctor before using any supplements.</p>
                             </div>
-
 
                             <div class="clear"></div>
 
@@ -786,12 +670,11 @@ jQuery(".videoReview").height(maxHeight);
             <div class="clear"></div>
 
 
-
-            <link rel="stylesheet" type="text/css" href="assets/css/style.biomax-ultra.css" />
+            <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/biomax-ultra.css" />
 
 
         </div><!-- .wrap -->
 
         <?php
-        include_once('footer.php');
+        include_once('../footer.php');
         ?>
