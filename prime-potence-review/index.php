@@ -120,7 +120,7 @@ include_once('../head.php');
         <header id="masthead" class="site-header">
             <div class="site-branding">
                 <div class="logo">
-                    <img src="<?php echo SITE_URL ?>assets/image/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
+                    <img src="<?php echo SITE_URL ?>assets/image/logo.png" alt="Total Health Reports" width="415" height="60" />
                 </div>
             </div><!-- .site-branding -->
 
@@ -318,7 +318,7 @@ include_once('../head.php');
                                                     <div class="videoReview">
                                                         <h2>Here Doyle's Amazing Story</h2>
                                                         <div class="videoSection">
-                                                            
+
                                                         </div>
                                                         <div class="contentSection">
                                                             <p>“I started getting good erection. Thanks to Virectin!”</p>
@@ -331,7 +331,7 @@ include_once('../head.php');
                                                     <div class="videoReview">
                                                         <h2>Here Wayne's Amazing Story</h2>
                                                         <div class="videoSection">
-                                                            
+
                                                         </div>
                                                         <div class="contentSection">
                                                             <p>“It's just miraculous! I would recommend anybody to try it. I'm glad this is on my fourth bottle on it is working real good for me.”</p>
@@ -787,7 +787,7 @@ jQuery(".videoReview").height(maxHeight);
 
 
 
-    <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/prime-potence-review.css" />
+        <link rel="stylesheet" type="text/css" href="<?php echo SITE_URL ?>assets/css/prime-potence-review.css" />
 
     </div><!-- .wrap -->
 

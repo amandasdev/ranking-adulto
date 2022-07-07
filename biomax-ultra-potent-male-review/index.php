@@ -10,7 +10,7 @@ include_once('../head.php');
         <header id="masthead" class="site-header">
             <div class="site-branding">
                 <div class="logo">
-                    <img src="<?php echo SITE_URL ?>assets/image/total-health-report.png" alt="Total Health Reports" width="415" height="60" />
+                    <img src="<?php echo SITE_URL ?>assets/image/logo.png" alt="Total Health Reports" width="415" height="60" />
                 </div>
             </div><!-- .site-branding -->
 
